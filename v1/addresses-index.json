@@ -1,0 +1,227 @@
+{
+ "generated_at": "2026-10-16T21:48:39Z",
+ "attribution": "© OpenStreetMap contributors, ODbL 1.0 (https://www.openstreetmap.org/copyright)",
+ "municipalities": [
+  {
+   "municipality": "Barajevo",
+   "file": "addresses-barajevo.json",
+   "bbox": [
+    44.4724,
+    20.26812,
+    44.6502,
+    20.49112
+   ],
+   "streets": 947,
+   "addresses": 18131,
+   "places": 23
+  },
+  {
+   "municipality": "Čukarica",
+   "file": "addresses-cukarica.json",
+   "bbox": [
+    44.62462,
+    20.28778,
+    44.79462,
+    20.45884
+   ],
+   "streets": 1049,
+   "addresses": 26703,
+   "places": 45
+  },
+  {
+   "municipality": "Grocka",
+   "file": "addresses-grocka.json",
+   "bbox": [
+    44.54076,
+    20.5286,
+    44.78458,
+    20.82119
+   ],
+   "streets": 877,
+   "addresses": 27144,
+   "places": 49
+  },
+  {
+   "municipality": "Lazarevac",
+   "file": "addresses-lazarevac.json",
+   "bbox": [
+    44.2622,
+    20.1367,
+    44.56473,
+    20.45922
+   ],
+   "streets": 929,
+   "addresses": 20206,
+   "places": 46
+  },
+  {
+   "municipality": "Mladenovac",
+   "file": "addresses-mladenovac.json",
+   "bbox": [
+    44.32759,
+    20.53342,
+    44.567,
+    20.8598
+   ],
+   "streets": 1077,
+   "addresses": 20054,
+   "places": 24
+  },
+  {
+   "municipality": "Novi Beograd",
+   "file": "addresses-novi-beograd.json",
+   "bbox": [
+    44.74375,
+    20.31134,
+    44.83917,
+    20.44663
+   ],
+   "streets": 317,
+   "addresses": 10059,
+   "places": 19
+  },
+  {
+   "municipality": "Obrenovac",
+   "file": "addresses-obrenovac.json",
+   "bbox": [
+    44.50258,
+    19.97577,
+    44.69874,
+    20.3453
+   ],
+   "streets": 1142,
+   "addresses": 27027,
+   "places": 38
+  },
+  {
+   "municipality": "Palilula",
+   "file": "addresses-palilula.json",
+   "bbox": [
+    44.7898,
+    20.30552,
+    45.09612,
+    20.6217
+   ],
+   "streets": 1142,
+   "addresses": 30315,
+   "places": 78
+  },
+  {
+   "municipality": "Rakovica",
+   "file": "addresses-rakovica.json",
+   "bbox": [
+    44.68919,
+    20.41087,
+    44.77399,
+    20.49009
+   ],
+   "streets": 444,
+   "addresses": 11147,
+   "places": 22
+  },
+  {
+   "municipality": "Savski venac",
+   "file": "addresses-savski-venac.json",
+   "bbox": [
+    44.75581,
+    20.42191,
+    44.82111,
+    20.47271
+   ],
+   "streets": 280,
+   "addresses": 5330,
+   "places": 11
+  },
+  {
+   "municipality": "Sopot",
+   "file": "addresses-sopot.json",
+   "bbox": [
+    44.41032,
+    20.4145,
+    44.6151,
+    20.67335
+   ],
+   "streets": 724,
+   "addresses": 14250,
+   "places": 21
+  },
+  {
+   "municipality": "Stari grad",
+   "file": "addresses-stari-grad.json",
+   "bbox": [
+    44.8067,
+    20.44606,
+    44.83082,
+    20.48402
+   ],
+   "streets": 181,
+   "addresses": 4071,
+   "places": 4
+  },
+  {
+   "municipality": "Surčin",
+   "file": "addresses-surcin.json",
+   "bbox": [
+    44.65938,
+    20.09619,
+    44.8845,
+    20.3492
+   ],
+   "streets": 609,
+   "addresses": 17707,
+   "places": 11
+  },
+  {
+   "municipality": "Voždovac",
+   "file": "addresses-vozdovac.json",
+   "bbox": [
+    44.57536,
+    20.42915,
+    44.79351,
+    20.61196
+   ],
+   "streets": 987,
+   "addresses": 27612,
+   "places": 71
+  },
+  {
+   "municipality": "Vračar",
+   "file": "addresses-vracar.json",
+   "bbox": [
+    44.79035,
+    20.45612,
+    44.81124,
+    20.49766
+   ],
+   "streets": 184,
+   "addresses": 5139,
+   "places": 5
+  },
+  {
+   "municipality": "Zemun",
+   "file": "addresses-zemun.json",
+   "bbox": [
+    44.82259,
+    20.1466,
+    44.94423,
+    20.4245
+   ],
+   "streets": 1138,
+   "addresses": 33182,
+   "places": 32
+  },
+  {
+   "municipality": "Zvezdara",
+   "file": "addresses-zvezdara.json",
+   "bbox": [
+    44.73069,
+    20.47872,
+    44.81498,
+    20.58786
+   ],
+   "streets": 739,
+   "addresses": 21310,
+   "places": 34
+  }
+ ]
+}
