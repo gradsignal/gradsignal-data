@@ -1,0 +1,8438 @@
+{
+ "feed_version": 1,
+ "parser_version": "eds-0.2",
+ "generated_at": "2026-10-16T17:00:26Z",
+ "utility_type": "electricity",
+ "region": "Beograd",
+ "sources": [
+  {
+   "source_id": "eds-bgd-dan0",
+   "url": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm",
+   "page_date": "2026-10-16",
+   "content_fetched_at": "2026-10-16T15:50:27Z",
+   "last_checked_at": "2026-10-16T17:00:06Z",
+   "notice_count": 14,
+   "warnings": []
+  },
+  {
+   "source_id": "eds-bgd-dan1",
+   "url": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm",
+   "page_date": "2026-10-17",
+   "content_fetched_at": "2026-10-16T15:50:31Z",
+   "last_checked_at": "2026-10-16T17:00:10Z",
+   "notice_count": 3,
+   "warnings": []
+  },
+  {
+   "source_id": "eds-bgd-dan2",
+   "url": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm",
+   "page_date": "2026-10-18",
+   "content_fetched_at": "2026-10-16T15:50:34Z",
+   "last_checked_at": "2026-10-16T17:00:14Z",
+   "notice_count": 1,
+   "warnings": []
+  },
+  {
+   "source_id": "eds-bgd-dan3",
+   "url": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm",
+   "page_date": "2026-10-19",
+   "content_fetched_at": "2026-10-16T15:50:38Z",
+   "last_checked_at": "2026-10-16T17:00:17Z",
+   "notice_count": 9,
+   "warnings": []
+  }
+ ],
+ "notices": [
+  {
+   "key": "5e98f46c244df766",
+   "source_id": "eds-bgd-dan0",
+   "source_url": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm",
+   "utility_type": "electricity",
+   "notice_type": "planned_work",
+   "status": "scheduled",
+   "verification": "official",
+   "date": "2026-10-16",
+   "municipality": "Барајево",
+   "municipality_lat": "Barajevo",
+   "time_text": "08:00 - 15:00",
+   "planned_start_at": "2026-10-16T08:00:00+02:00",
+   "planned_end_at": "2026-10-16T15:00:00+02:00",
+   "estimated_restoration_at": null,
+   "locations": [
+    {
+     "settlement": "МАНИЋ",
+     "settlement_lat": "MANIĆ",
+     "street": "КОСМАЈСКА",
+     "street_lat": "KOSMAJSKA",
+     "numbers": [
+      {
+       "raw": "57",
+       "from_raw": "57",
+       "to_raw": "57",
+       "from": 57,
+       "to": 57,
+       "without_number": false
+      }
+     ]
+    }
+   ],
+   "raw": {
+    "municipality": "Барајево",
+    "time": "08:00 - 15:00",
+    "streets": "Насеље МАНИЋ: КОСМАЈСКА: 57,"
+   },
+   "raw_text_hash": "fd8744a992b7c5dab3ed966604dd8b1f957bc3ea3b40b0926a9470bc123c6c52",
+   "warnings": []
+  },
+  {
+   "key": "50de2711e44f76fc",
+   "source_id": "eds-bgd-dan0",
+   "source_url": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm",
+   "utility_type": "electricity",
+   "notice_type": "planned_work",
+   "status": "scheduled",
+   "verification": "official",
+   "date": "2026-10-16",
+   "municipality": "Сопот",
+   "municipality_lat": "Sopot",
+   "time_text": "08:00 - 15:00",
+   "planned_start_at": "2026-10-16T08:00:00+02:00",
+   "planned_end_at": "2026-10-16T15:00:00+02:00",
+   "estimated_restoration_at": null,
+   "locations": [
+    {
+     "settlement": "ДУЧИНА",
+     "settlement_lat": "DUČINA",
+     "street": "БУНАРСКА",
+     "street_lat": "BUNARSKA",
+     "numbers": [
+      {
+       "raw": "2-4",
+       "from_raw": "2",
+       "to_raw": "4",
+       "from": 2,
+       "to": 4
+      },
+      {
+       "raw": "8",
+       "from_raw": "8",
+       "to_raw": "8",
+       "from": 8,
+       "to": 8,
+       "without_number": false
+      },
+      {
+       "raw": "12",
+       "from_raw": "12",
+       "to_raw": "12",
+       "from": 12,
+       "to": 12,
+       "without_number": false
+      },
+      {
+       "raw": "1",
+       "from_raw": "1",
+       "to_raw": "1",
+       "from": 1,
+       "to": 1,
+       "without_number": false
+      },
+      {
+       "raw": "9",
+       "from_raw": "9",
+       "to_raw": "9",
+       "from": 9,
+       "to": 9,
+       "without_number": false
+      }
+     ]
+    },
+    {
+     "settlement": "ДУЧИНА",
+     "settlement_lat": "DUČINA",
+     "street": "ДРАГИШЕ САРИЋА",
+     "street_lat": "DRAGIŠE SARIĆA",
+     "numbers": [
+      {
+       "raw": "1",
+       "from_raw": "1",
+       "to_raw": "1",
+       "from": 1,
+       "to": 1,
+       "without_number": false
+      }
+     ]
+    },
+    {
+     "settlement": "ДУЧИНА",
+     "settlement_lat": "DUČINA",
+     "street": "ДРАГОСЛАВА МИШИЋА",
+     "street_lat": "DRAGOSLAVA MIŠIĆA",
+     "numbers": [
+      {
+       "raw": "14",
+       "from_raw": "14",
+       "to_raw": "14",
+       "from": 14,
+       "to": 14,
+       "without_number": false
+      }
+     ]
+    },
+    {
+     "settlement": "ДУЧИНА",
+     "settlement_lat": "DUČINA",
+     "street": "ЉУБОМИРА ИВКОВИЋА-ШУЦЕ",
+     "street_lat": "LJUBOMIRA IVKOVIĆA-ŠUCE",
+     "numbers": [
+      {
+       "raw": "12",
+       "from_raw": "12",
+       "to_raw": "12",
+       "from": 12,
+       "to": 12,
+       "without_number": false
+      },
+      {
+       "raw": "72А",
+       "from_raw": "72А",
+       "to_raw": "72А",
+       "from": 72,
+       "to": 72,
+       "without_number": false
+      },
+      {
+       "raw": "76-78",
+       "from_raw": "76",
+       "to_raw": "78",
+       "from": 76,
+       "to": 78
+      },
+      {
+       "raw": "84-98",
+       "from_raw": "84",
+       "to_raw": "98",
+       "from": 84,
+       "to": 98
+      },
+      {
+       "raw": "102-114",
+       "from_raw": "102",
+       "to_raw": "114",
+       "from": 102,
+       "to": 114
+      },
+      {
+       "raw": "118-120",
+       "from_raw": "118",
+       "to_raw": "120",
+       "from": 118,
+       "to": 120
+      },
+      {
+       "raw": "124-160",
+       "from_raw": "124",
+       "to_raw": "160",
+       "from": 124,
+       "to": 160
+      },
+      {
+       "raw": "164-180",
+       "from_raw": "164",
+       "to_raw": "180",
+       "from": 164,
+       "to": 180
+      },
+      {
+       "raw": "19А",
+       "from_raw": "19А",
+       "to_raw": "19А",
+       "from": 19,
+       "to": 19,
+       "without_number": false
+      },
+      {
+       "raw": "37Б-41",
+       "from_raw": "37Б",
+       "to_raw": "41",
+       "from": 37,
+       "to": 41
+      },
+      {
+       "raw": "45-55",
+       "from_raw": "45",
+       "to_raw": "55",
+       "from": 45,
+       "to": 55
+      },
+      {
+       "raw": "59-73",
+       "from_raw": "59",
+       "to_raw": "73",
+       "from": 59,
+       "to": 73
+      },
+      {
+       "raw": "77",
+       "from_raw": "77",
+       "to_raw": "77",
+       "from": 77,
+       "to": 77,
+       "without_number": false
+      },
+      {
+       "raw": "87",
+       "from_raw": "87",
+       "to_raw": "87",
+       "from": 87,
+       "to": 87,
+       "without_number": false
+      },
+      {
+       "raw": "91",
+       "from_raw": "91",
+       "to_raw": "91",
+       "from": 91,
+       "to": 91,
+       "without_number": false
+      },
+      {
+       "raw": "95-97А",
+       "from_raw": "95",
+       "to_raw": "97А",
+       "from": 95,
+       "to": 97
+      },
+      {
+       "raw": "101-121А",
+       "from_raw": "101",
+       "to_raw": "121А",
+       "from": 101,
+       "to": 121
+      },
+      {
+       "raw": "125А",
+       "from_raw": "125А",
+       "to_raw": "125А",
+       "from": 125,
+       "to": 125,
+       "without_number": false
+      },
+      {
+       "raw": "129",
+       "from_raw": "129",
+       "to_raw": "129",
+       "from": 129,
+       "to": 129,
+       "without_number": false
+      },
+      {
+       "raw": "133-167",
+       "from_raw": "133",
+       "to_raw": "167",
+       "from": 133,
+       "to": 167
+      },
+      {
+       "raw": "171",
+       "from_raw": "171",
+       "to_raw": "171",
+       "from": 171,
+       "to": 171,
+       "without_number": false
+      },
+      {
+       "raw": "177Ц",
+       "from_raw": "177Ц",
+       "to_raw": "177Ц",
+       "from": 177,
+       "to": 177,
+       "without_number": false
+      },
+      {
+       "raw": "273А",
+       "from_raw": "273А",
+       "to_raw": "273А",
+       "from": 273,
+       "to": 273,
+       "without_number": false
+      }
+     ]
+    },
+    {
+     "settlement": "ДУЧИНА",
+     "settlement_lat": "DUČINA",
+     "street": "ЉУБОМИРА ЖИВАНОВИЋА-БРКЕ",
+     "street_lat": "LJUBOMIRA ŽIVANOVIĆA-BRKE",
+     "numbers": [
+      {
+       "raw": "2-4",
+       "from_raw": "2",
+       "to_raw": "4",
+       "from": 2,
+       "to": 4
+      },
+      {
+       "raw": "10-16",
+       "from_raw": "10",
+       "to_raw": "16",
+       "from": 10,
+       "to": 16
+      },
+      {
+       "raw": "1",
+       "from_raw": "1",
+       "to_raw": "1",
+       "from": 1,
+       "to": 1,
+       "without_number": false
+      }
+     ]
+    },
+    {
+     "settlement": "ДУЧИНА",
+     "settlement_lat": "DUČINA",
+     "street": "МИЛИШЕ МИШИЋА",
+     "street_lat": "MILIŠE MIŠIĆA",
+     "numbers": [
+      {
+       "raw": "2-10",
+       "from_raw": "2",
+       "to_raw": "10",
+       "from": 2,
+       "to": 10
+      },
+      {
+       "raw": "16-18",
+       "from_raw": "16",
+       "to_raw": "18",
+       "from": 16,
+       "to": 18
+      },
+      {
+       "raw": "1-3",
+       "from_raw": "1",
+       "to_raw": "3",
+       "from": 1,
+       "to": 3
+      },
+      {
+       "raw": "7",
+       "from_raw": "7",
+       "to_raw": "7",
+       "from": 7,
+       "to": 7,
+       "without_number": false
+      },
+      {
+       "raw": "11",
+       "from_raw": "11",
+       "to_raw": "11",
+       "from": 11,
+       "to": 11,
+       "without_number": false
+      },
+      {
+       "raw": "15",
+       "from_raw": "15",
+       "to_raw": "15",
+       "from": 15,
+       "to": 15,
+       "without_number": false
+      },
+      {
+       "raw": "19-23",
+       "from_raw": "19",
+       "to_raw": "23",
+       "from": 19,
+       "to": 23
+      }
+     ]
+    },
+    {
+     "settlement": "ДУЧИНА",
+     "settlement_lat": "DUČINA",
+     "street": "МИЛОРАДА ЖИВАНОВИЋА",
+     "street_lat": "MILORADA ŽIVANOVIĆA",
+     "numbers": [
+      {
+       "raw": "2-6",
+       "from_raw": "2",
+       "to_raw": "6",
+       "from": 2,
+       "to": 6
+      },
+      {
+       "raw": "10",
+       "from_raw": "10",
+       "to_raw": "10",
+       "from": 10,
+       "to": 10,
+       "without_number": false
+      },
+      {
+       "raw": "7-13",
+       "from_raw": "7",
+       "to_raw": "13",
+       "from": 7,
+       "to": 13
+      }
+     ]
+    },
+    {
+     "settlement": "ДУЧИНА",
+     "settlement_lat": "DUČINA",
+     "street": "ПРОФЕСОРА МИЛОРАДА МИЛИНКОВИЋА",
+     "street_lat": "PROFESORA MILORADA MILINKOVIĆA",
+     "numbers": [
+      {
+       "raw": "4",
+       "from_raw": "4",
+       "to_raw": "4",
+       "from": 4,
+       "to": 4,
+       "without_number": false
+      },
+      {
+       "raw": "1",
+       "from_raw": "1",
+       "to_raw": "1",
+       "from": 1,
+       "to": 1,
+       "without_number": false
+      }
+     ]
+    },
+    {
+     "settlement": "ДУЧИНА",
+     "settlement_lat": "DUČINA",
+     "street": "САВЕ ЖИВАНОВИЋА",
+     "street_lat": "SAVE ŽIVANOVIĆA",
+     "numbers": [
+      {
+       "raw": "2",
+       "from_raw": "2",
+       "to_raw": "2",
+       "from": 2,
+       "to": 2,
+       "without_number": false
+      },
+      {
+       "raw": "8-12",
+       "from_raw": "8",
+       "to_raw": "12",
+       "from": 8,
+       "to": 12
+      },
+      {
+       "raw": "16-20",
+       "from_raw": "16",
+       "to_raw": "20",
+       "from": 16,
+       "to": 20
+      },
+      {
+       "raw": "24-26",
+       "from_raw": "24",
+       "to_raw": "26",
+       "from": 24,
+       "to": 26
+      },
+      {
+       "raw": "1А-15",
+       "from_raw": "1А",
+       "to_raw": "15",
+       "from": 1,
+       "to": 15
+      }
+     ]
+    },
+    {
+     "settlement": "МАЛА ИВАНЧА",
+     "settlement_lat": "MALA IVANČA",
+     "street": "ПУТ ЗА ПЛАНДИШТЕ",
+     "street_lat": "PUT ZA PLANDIŠTE",
+     "numbers": [
+      {
+       "raw": "2А",
+       "from_raw": "2А",
+       "to_raw": "2А",
+       "from": 2,
+       "to": 2,
+       "without_number": false
+      },
+      {
+       "raw": "6-6Б",
+       "from_raw": "6",
+       "to_raw": "6Б",
+       "from": 6,
+       "to": 6
+      },
+      {
+       "raw": "31",
+       "from_raw": "31",
+       "to_raw": "31",
+       "from": 31,
+       "to": 31,
+       "without_number": false
+      },
+      {
+       "raw": "35-37",
+       "from_raw": "35",
+       "to_raw": "37",
+       "from": 35,
+       "to": 37
+      },
+      {
+       "raw": "41",
+       "from_raw": "41",
+       "to_raw": "41",
+       "from": 41,
+       "to": 41,
+       "without_number": false
+      },
+      {
+       "raw": "45",
+       "from_raw": "45",
+       "to_raw": "45",
+       "from": 45,
+       "to": 45,
+       "without_number": false
+      },
+      {
+       "raw": "49-71",
+       "from_raw": "49",
+       "to_raw": "71",
+       "from": 49,
+       "to": 71
+      },
+      {
+       "raw": "77",
+       "from_raw": "77",
+       "to_raw": "77",
+       "from": 77,
+       "to": 77,
+       "without_number": false
+      }
+     ]
+    },
+    {
+     "settlement": "МАНИЋ",
+     "settlement_lat": "MANIĆ",
+     "street": "КОСМАЈСКА",
+     "street_lat": "KOSMAJSKA",
+     "numbers": [
+      {
+       "raw": "63-65",
+       "from_raw": "63",
+       "to_raw": "65",
+       "from": 63,
+       "to": 65
+      }
+     ]
+    },
+    {
+     "settlement": "РИПАЊ",
+     "settlement_lat": "RIPANJ",
+     "street": "ПУТ ЗА ПЛАНДИШТЕ 3.ДЕО",
+     "street_lat": "PUT ZA PLANDIŠTE 3.DEO",
+     "numbers": [
+      {
+       "raw": "2",
+       "from_raw": "2",
+       "to_raw": "2",
+       "from": 2,
+       "to": 2,
+       "without_number": false
+      },
+      {
+       "raw": "6А",
+       "from_raw": "6А",
+       "to_raw": "6А",
+       "from": 6,
+       "to": 6,
+       "without_number": false
+      },
+      {
+       "raw": "3",
+       "from_raw": "3",
+       "to_raw": "3",
+       "from": 3,
+       "to": 3,
+       "without_number": false
+      }
+     ]
+    },
+    {
+     "settlement": "РОГАЧА",
+     "settlement_lat": "ROGAČA",
+     "street": "БРАТСТВА И ЈЕДИНСТВА",
+     "street_lat": "BRATSTVA I JEDINSTVA",
+     "numbers": [
+      {
+       "raw": "51",
+       "from_raw": "51",
+       "to_raw": "51",
+       "from": 51,
+       "to": 51,
+       "without_number": false
+      }
+     ]
+    },
+    {
+     "settlement": "СИБНИЦА",
+     "settlement_lat": "SIBNICA",
+     "street": "БОРЕ ПАВЛОВИЋА",
+     "street_lat": "BORE PAVLOVIĆA",
+     "numbers": [
+      {
+       "raw": "2-4",
+       "from_raw": "2",
+       "to_raw": "4",
+       "from": 2,
+       "to": 4
+      },
+      {
+       "raw": "1",
+       "from_raw": "1",
+       "to_raw": "1",
+       "from": 1,
+       "to": 1,
+       "without_number": false
+      }
+     ]
+    },
+    {
+     "settlement": "СИБНИЦА",
+     "settlement_lat": "SIBNICA",
+     "street": "БОРИВОЈА КУЈУНЏИЋА",
+     "street_lat": "BORIVOJA KUJUNDŽIĆA",
+     "numbers": [
+      {
+       "raw": "2-18",
+       "from_raw": "2",
+       "to_raw": "18",
+       "from": 2,
+       "to": 18
+      },
+      {
+       "raw": "1-9",
+       "from_raw": "1",
+       "to_raw": "9",
+       "from": 1,
+       "to": 9
+      }
+     ]
+    },
+    {
+     "settlement": "СИБНИЦА",
+     "settlement_lat": "SIBNICA",
+     "street": "БОРИВОЈА УРОШЕВИЋА",
+     "street_lat": "BORIVOJA UROŠEVIĆA",
+     "numbers": [
+      {
+       "raw": "4-6",
+       "from_raw": "4",
+       "to_raw": "6",
+       "from": 4,
+       "to": 6
+      }
+     ]
+    },
+    {
+     "settlement": "СИБНИЦА",
+     "settlement_lat": "SIBNICA",
+     "street": "БОШКА ПАУНОВИЋА",
+     "street_lat": "BOŠKA PAUNOVIĆA",
+     "numbers": [
+      {
+       "raw": "2",
+       "from_raw": "2",
+       "to_raw": "2",
+       "from": 2,
+       "to": 2,
+       "without_number": false
+      },
+      {
+       "raw": "6-8",
+       "from_raw": "6",
+       "to_raw": "8",
+       "from": 6,
+       "to": 8
+      },
+      {
+       "raw": "3",
+       "from_raw": "3",
+       "to_raw": "3",
+       "from": 3,
+       "to": 3,
+       "without_number": false
+      }
+     ]
+    },
+    {
+     "settlement": "СИБНИЦА",
+     "settlement_lat": "SIBNICA",
+     "street": "БОЖИДАРА ПЕТРОВИЋА",
+     "street_lat": "BOŽIDARA PETROVIĆA",
+     "numbers": [
+      {
+       "raw": "1-3",
+       "from_raw": "1",
+       "to_raw": "3",
+       "from": 1,
+       "to": 3
+      }
+     ]
+    },
+    {
+     "settlement": "СИБНИЦА",
+     "settlement_lat": "SIBNICA",
+     "street": "БРАНКА МИЛИЈАНОВИЋА",
+     "street_lat": "BRANKA MILIJANOVIĆA",
+     "numbers": [
+      {
+       "raw": "2-8",
+       "from_raw": "2",
+       "to_raw": "8",
+       "from": 2,
+       "to": 8
+      },
+      {
+       "raw": "14-22",
+       "from_raw": "14",
+       "to_raw": "22",
+       "from": 14,
+       "to": 22
+      },
+      {
+       "raw": "26-26",
+       "from_raw": "26",
+       "to_raw": "26",
+       "from": 26,
+       "to": 26
+      },
+      {
+       "raw": "254А",
+       "from_raw": "254А",
+       "to_raw": "254А",
+       "from": 254,
+       "to": 254,
+       "without_number": false
+      },
+      {
+       "raw": "1-3А",
+       "from_raw": "1",
+       "to_raw": "3А",
+       "from": 1,
+       "to": 3
+      },
+      {
+       "raw": "7-23",
+       "from_raw": "7",
+       "to_raw": "23",
+       "from": 7,
+       "to": 23
+      },
+      {
+       "raw": "27-33",
+       "from_raw": "27",
+       "to_raw": "33",
+       "from": 27,
+       "to": 33
+      },
+      {
+       "raw": "37-41",
+       "from_raw": "37",
+       "to_raw": "41",
+       "from": 37,
+       "to": 41
+      }
+     ]
+    },
+    {
+     "settlement": "СИБНИЦА",
+     "settlement_lat": "SIBNICA",
+     "street": "ЧЕДЕ ИЛИЋА",
+     "street_lat": "ČEDE ILIĆA",
+     "numbers": [
+      {
+       "raw": "2-2",
+       "from_raw": "2",
+       "to_raw": "2",
+       "from": 2,
+       "to": 2
+      },
+      {
+       "raw": "6-10",
+       "from_raw": "6",
+       "to_raw": "10",
+       "from": 6,
+       "to": 10
+      },
+      {
+       "raw": "18-22",
+       "from_raw": "18",
+       "to_raw": "22",
+       "from": 18,
+       "to": 22
+      },
+      {
+       "raw": "28-28А",
+       "from_raw": "28",
+       "to_raw": "28А",
+       "from": 28,
+       "to": 28
+      },
+      {
+       "raw": "34",
+       "from_raw": "34",
+       "to_raw": "34",
+       "from": 34,
+       "to": 34,
+       "without_number": false
+      },
+      {
+       "raw": "42А",
+       "from_raw": "42А",
+       "to_raw": "42А",
+       "from": 42,
+       "to": 42,
+       "without_number": false
+      },
+      {
+       "raw": "46-50А",
+       "from_raw": "46",
+       "to_raw": "50А",
+       "from": 46,
+       "to": 50
+      },
+      {
+       "raw": "54",
+       "from_raw": "54",
+       "to_raw": "54",
+       "from": 54,
+       "to": 54,
+       "without_number": false
+      },
+      {
+       "raw": "58",
+       "from_raw": "58",
+       "to_raw": "58",
+       "from": 58,
+       "to": 58,
+       "without_number": false
+      },
+      {
+       "raw": "1-23",
+       "from_raw": "1",
+       "to_raw": "23",
+       "from": 1,
+       "to": 23
+      },
+      {
+       "raw": "33-37",
+       "from_raw": "33",
+       "to_raw": "37",
+       "from": 33,
+       "to": 37
+      }
+     ]
+    },
+    {
+     "settlement": "СИБНИЦА",
+     "settlement_lat": "SIBNICA",
+     "street": "ЧЕДЕ ПАВЛОВИЋА",
+     "street_lat": "ČEDE PAVLOVIĆA",
+     "numbers": [
+      {
+       "raw": "2",
+       "from_raw": "2",
+       "to_raw": "2",
+       "from": 2,
+       "to": 2,
+       "without_number": false
+      },
+      {
+       "raw": "6-10",
+       "from_raw": "6",
+       "to_raw": "10",
+       "from": 6,
+       "to": 10
+      },
+      {
+       "raw": "20-42",
+       "from_raw": "20",
+       "to_raw": "42",
+       "from": 20,
+       "to": 42
+      },
+      {
+       "raw": "46-48",
+       "from_raw": "46",
+       "to_raw": "48",
+       "from": 46,
+       "to": 48
+      },
+      {
+       "raw": "52-72",
+       "from_raw": "52",
+       "to_raw": "72",
+       "from": 52,
+       "to": 72
+      },
+      {
+       "raw": "76",
+       "from_raw": "76",
+       "to_raw": "76",
+       "from": 76,
+       "to": 76,
+       "without_number": false
+      },
+      {
+       "raw": "80-82",
+       "from_raw": "80",
+       "to_raw": "82",
+       "from": 80,
+       "to": 82
+      },
+      {
+       "raw": "86",
+       "from_raw": "86",
+       "to_raw": "86",
+       "from": 86,
+       "to": 86,
+       "without_number": false
+      },
+      {
+       "raw": "90-92",
+       "from_raw": "90",
+       "to_raw": "92",
+       "from": 90,
+       "to": 92
+      },
+      {
+       "raw": "96",
+       "from_raw": "96",
+       "to_raw": "96",
+       "from": 96,
+       "to": 96,
+       "without_number": false
+      },
+      {
+       "raw": "100",
+       "from_raw": "100",
+       "to_raw": "100",
+       "from": 100,
+       "to": 100,
+       "without_number": false
+      },
+      {
+       "raw": "106-110",
+       "from_raw": "106",
+       "to_raw": "110",
+       "from": 106,
+       "to": 110
+      },
+      {
+       "raw": "114",
+       "from_raw": "114",
+       "to_raw": "114",
+       "from": 114,
+       "to": 114,
+       "without_number": false
+      },
+      {
+       "raw": "348",
+       "from_raw": "348",
+       "to_raw": "348",
+       "from": 348,
+       "to": 348,
+       "without_number": false
+      },
+      {
+       "raw": "370-372",
+       "from_raw": "370",
+       "to_raw": "372",
+       "from": 370,
+       "to": 372
+      },
+      {
+       "raw": "1",
+       "from_raw": "1",
+       "to_raw": "1",
+       "from": 1,
+       "to": 1,
+       "without_number": false
+      },
+      {
+       "raw": "5",
+       "from_raw": "5",
+       "to_raw": "5",
+       "from": 5,
+       "to": 5,
+       "without_number": false
+      },
+      {
+       "raw": "9",
+       "from_raw": "9",
+       "to_raw": "9",
+       "from": 9,
+       "to": 9,
+       "without_number": false
+      },
+      {
+       "raw": "15-27",
+       "from_raw": "15",
+       "to_raw": "27",
+       "from": 15,
+       "to": 27
+      },
+      {
+       "raw": "31-35",
+       "from_raw": "31",
+       "to_raw": "35",
+       "from": 31,
+       "to": 35
+      },
+      {
+       "raw": "41-61",
+       "from_raw": "41",
+       "to_raw": "61",
+       "from": 41,
+       "to": 61
+      },
+      {
+       "raw": "65",
+       "from_raw": "65",
+       "to_raw": "65",
+       "from": 65,
+       "to": 65,
+       "without_number": false
+      },
+      {
+       "raw": "69-75Б",
+       "from_raw": "69",
+       "to_raw": "75Б",
+       "from": 69,
+       "to": 75
+      },
+      {
+       "raw": "79",
+       "from_raw": "79",
+       "to_raw": "79",
+       "from": 79,
+       "to": 79,
+       "without_number": false
+      },
+      {
+       "raw": "83-101",
+       "from_raw": "83",
+       "to_raw": "101",
+       "from": 83,
+       "to": 101
+      },
+      {
+       "raw": "109",
+       "from_raw": "109",
+       "to_raw": "109",
+       "from": 109,
+       "to": 109,
+       "without_number": false
+      },
+      {
+       "raw": "115-119",
+       "from_raw": "115",
+       "to_raw": "119",
+       "from": 115,
+       "to": 119
+      },
+      {
+       "raw": "129",
+       "from_raw": "129",
+       "to_raw": "129",
+       "from": 129,
+       "to": 129,
+       "without_number": false
+      },
+      {
+       "raw": "133Ц-143Б",
+       "from_raw": "133Ц",
+       "to_raw": "143Б",
+       "from": 133,
+       "to": 143
+      },
+      {
+       "raw": "149-153",
+       "from_raw": "149",
+       "to_raw": "153",
+       "from": 149,
+       "to": 153
+      },
+      {
+       "raw": "363Б",
+       "from_raw": "363Б",
+       "to_raw": "363Б",
+       "from": 363,
+       "to": 363,
+       "without_number": false
+      },
+      {
+       "raw": "369",
+       "from_raw": "369",
+       "to_raw": "369",
+       "from": 369,
+       "to": 369,
+       "without_number": false
+      }
+     ]
+    },
+    {
+     "settlement": "СИБНИЦА",
+     "settlement_lat": "SIBNICA",
+     "street": "ДРАГЕ ПОП-ЛАЗИЋ",
+     "street_lat": "DRAGE POP-LAZIĆ",
+     "numbers": [
+      {
+       "raw": "2",
+       "from_raw": "2",
+       "to_raw": "2",
+       "from": 2,
+       "to": 2,
+       "without_number": false
+      },
+      {
+       "raw": "6",
+       "from_raw": "6",
+       "to_raw": "6",
+       "from": 6,
+       "to": 6,
+       "without_number": false
+      },
+      {
+       "raw": "10-12",
+       "from_raw": "10",
+       "to_raw": "12",
+       "from": 10,
+       "to": 12
+      },
+      {
+       "raw": "1-3",
+       "from_raw": "1",
+       "to_raw": "3",
+       "from": 1,
+       "to": 3
+      },
+      {
+       "raw": "7",
+       "from_raw": "7",
+       "to_raw": "7",
+       "from": 7,
+       "to": 7,
+       "without_number": false
+      }
+     ]
+    },
+    {
+     "settlement": "СИБНИЦА",
+     "settlement_lat": "SIBNICA",
+     "street": "ДРАГОЉУБА ПАВЛОВИЋА",
+     "street_lat": "DRAGOLJUBA PAVLOVIĆA",
+     "numbers": [
+      {
+       "raw": "6-10",
+       "from_raw": "6",
+       "to_raw": "10",
+       "from": 6,
+       "to": 10
+      }
+     ]
+    },
+    {
+     "settlement": "СИБНИЦА",
+     "settlement_lat": "SIBNICA",
+     "street": "ДРАГОЉУБА СТАНИСАВЉЕВИЋА",
+     "street_lat": "DRAGOLJUBA STANISAVLJEVIĆA",
+     "numbers": [
+      {
+       "raw": "2-6",
+       "from_raw": "2",
+       "to_raw": "6",
+       "from": 2,
+       "to": 6
+      }
+     ]
+    },
+    {
+     "settlement": "СИБНИЦА",
+     "settlement_lat": "SIBNICA",
+     "street": "ЂУРЕ МАРИНКОВИЋА",
+     "street_lat": "ĐURE MARINKOVIĆA",
+     "numbers": [
+      {
+       "raw": "2А",
+       "from_raw": "2А",
+       "to_raw": "2А",
+       "from": 2,
+       "to": 2,
+       "without_number": false
+      },
+      {
+       "raw": "6-8",
+       "from_raw": "6",
+       "to_raw": "8",
+       "from": 6,
+       "to": 8
+      },
+      {
+       "raw": "12-14",
+       "from_raw": "12",
+       "to_raw": "14",
+       "from": 12,
+       "to": 14
+      },
+      {
+       "raw": "270",
+       "from_raw": "270",
+       "to_raw": "270",
+       "from": 270,
+       "to": 270,
+       "without_number": false
+      },
+      {
+       "raw": "1-15",
+       "from_raw": "1",
+       "to_raw": "15",
+       "from": 1,
+       "to": 15
+      }
+     ]
+    },
+    {
+     "settlement": "СИБНИЦА",
+     "settlement_lat": "SIBNICA",
+     "street": "ДУШАНА КУЈУНЏИЋА",
+     "street_lat": "DUŠANA KUJUNDŽIĆA",
+     "numbers": [
+      {
+       "raw": "4-10",
+       "from_raw": "4",
+       "to_raw": "10",
+       "from": 4,
+       "to": 10
+      }
+     ]
+    },
+    {
+     "settlement": "СИБНИЦА",
+     "settlement_lat": "SIBNICA",
+     "street": "ГЕНЕРАЛА МИЛАНА ПАВЛОВИЋА",
+     "street_lat": "GENERALA MILANA PAVLOVIĆA",
+     "numbers": [
+      {
+       "raw": "4",
+       "from_raw": "4",
+       "to_raw": "4",
+       "from": 4,
+       "to": 4,
+       "without_number": false
+      },
+      {
+       "raw": "8",
+       "from_raw": "8",
+       "to_raw": "8",
+       "from": 8,
+       "to": 8,
+       "without_number": false
+      },
+      {
+       "raw": "12",
+       "from_raw": "12",
+       "to_raw": "12",
+       "from": 12,
+       "to": 12,
+       "without_number": false
+      },
+      {
+       "raw": "16-18",
+       "from_raw": "16",
+       "to_raw": "18",
+       "from": 16,
+       "to": 18
+      },
+      {
+       "raw": "22-34",
+       "from_raw": "22",
+       "to_raw": "34",
+       "from": 22,
+       "to": 34
+      },
+      {
+       "raw": "38",
+       "from_raw": "38",
+       "to_raw": "38",
+       "from": 38,
+       "to": 38,
+       "without_number": false
+      },
+      {
+       "raw": "42-56",
+       "from_raw": "42",
+       "to_raw": "56",
+       "from": 42,
+       "to": 56
+      },
+      {
+       "raw": "286",
+       "from_raw": "286",
+       "to_raw": "286",
+       "from": 286,
+       "to": 286,
+       "without_number": false
+      },
+      {
+       "raw": "314-314А",
+       "from_raw": "314",
+       "to_raw": "314А",
+       "from": 314,
+       "to": 314
+      },
+      {
+       "raw": "324",
+       "from_raw": "324",
+       "to_raw": "324",
+       "from": 324,
+       "to": 324,
+       "without_number": false
+      },
+      {
+       "raw": "1-5",
+       "from_raw": "1",
+       "to_raw": "5",
+       "from": 1,
+       "to": 5
+      },
+      {
+       "raw": "9-23",
+       "from_raw": "9",
+       "to_raw": "23",
+       "from": 9,
+       "to": 23
+      },
+      {
+       "raw": "27-29",
+       "from_raw": "27",
+       "to_raw": "29",
+       "from": 27,
+       "to": 29
+      },
+      {
+       "raw": "35",
+       "from_raw": "35",
+       "to_raw": "35",
+       "from": 35,
+       "to": 35,
+       "without_number": false
+      },
+      {
+       "raw": "49",
+       "from_raw": "49",
+       "to_raw": "49",
+       "from": 49,
+       "to": 49,
+       "without_number": false
+      },
+      {
+       "raw": "321А",
+       "from_raw": "321А",
+       "to_raw": "321А",
+       "from": 321,
+       "to": 321,
+       "without_number": false
+      }
+     ]
+    },
+    {
+     "settlement": "СИБНИЦА",
+     "settlement_lat": "SIBNICA",
+     "street": "ИВАНА МИЛОВАНОВИЋА",
+     "street_lat": "IVANA MILOVANOVIĆA",
+     "numbers": [
+      {
+       "raw": "6",
+       "from_raw": "6",
+       "to_raw": "6",
+       "from": 6,
+       "to": 6,
+       "without_number": false
+      },
+      {
+       "raw": "3",
+       "from_raw": "3",
+       "to_raw": "3",
+       "from": 3,
+       "to": 3,
+       "without_number": false
+      }
+     ]
+    },
+    {
+     "settlement": "СИБНИЦА",
+     "settlement_lat": "SIBNICA",
+     "street": "ЈЕЛИЦЕ ПОП-ЛАЗИЋ",
+     "street_lat": "JELICE POP-LAZIĆ",
+     "numbers": [
+      {
+       "raw": "1-3",
+       "from_raw": "1",
+       "to_raw": "3",
+       "from": 1,
+       "to": 3
+      }
+     ]
+    },
+    {
+     "settlement": "СИБНИЦА",
+     "settlement_lat": "SIBNICA",
+     "street": "МИЛАДИНА ЛАЗАРЕВИЋА",
+     "street_lat": "MILADINA LAZAREVIĆA",
+     "numbers": [
+      {
+       "raw": "2-4",
+       "from_raw": "2",
+       "to_raw": "4",
+       "from": 2,
+       "to": 4
+      },
+      {
+       "raw": "8",
+       "from_raw": "8",
+       "to_raw": "8",
+       "from": 8,
+       "to": 8,
+       "without_number": false
+      },
+      {
+       "raw": "12",
+       "from_raw": "12",
+       "to_raw": "12",
+       "from": 12,
+       "to": 12,
+       "without_number": false
+      },
+      {
+       "raw": "9-9А",
+       "from_raw": "9",
+       "to_raw": "9А",
+       "from": 9,
+       "to": 9
+      }
+     ]
+    },
+    {
+     "settlement": "СИБНИЦА",
+     "settlement_lat": "SIBNICA",
+     "street": "МИЛИВОЈА ПАНТЕЛИЋА",
+     "street_lat": "MILIVOJA PANTELIĆA",
+     "numbers": [
+      {
+       "raw": "4-8",
+       "from_raw": "4",
+       "to_raw": "8",
+       "from": 4,
+       "to": 8
+      }
+     ]
+    },
+    {
+     "settlement": "СИБНИЦА",
+     "settlement_lat": "SIBNICA",
+     "street": "МИЛОМИРА АДАМОВИЋА",
+     "street_lat": "MILOMIRA ADAMOVIĆA",
+     "numbers": [
+      {
+       "raw": "2-4",
+       "from_raw": "2",
+       "to_raw": "4",
+       "from": 2,
+       "to": 4
+      }
+     ]
+    },
+    {
+     "settlement": "СИБНИЦА",
+     "settlement_lat": "SIBNICA",
+     "street": "МИЛОРАДА РАНКОВИЋА",
+     "street_lat": "MILORADA RANKOVIĆA",
+     "numbers": [
+      {
+       "raw": "4А",
+       "from_raw": "4А",
+       "to_raw": "4А",
+       "from": 4,
+       "to": 4,
+       "without_number": false
+      },
+      {
+       "raw": "10",
+       "from_raw": "10",
+       "to_raw": "10",
+       "from": 10,
+       "to": 10,
+       "without_number": false
+      },
+      {
+       "raw": "3",
+       "from_raw": "3",
+       "to_raw": "3",
+       "from": 3,
+       "to": 3,
+       "without_number": false
+      }
+     ]
+    },
+    {
+     "settlement": "СИБНИЦА",
+     "settlement_lat": "SIBNICA",
+     "street": "МИЛОВАНА ИВАНОВИЋА",
+     "street_lat": "MILOVANA IVANOVIĆA",
+     "numbers": [
+      {
+       "raw": "2",
+       "from_raw": "2",
+       "to_raw": "2",
+       "from": 2,
+       "to": 2,
+       "without_number": false
+      },
+      {
+       "raw": "6",
+       "from_raw": "6",
+       "to_raw": "6",
+       "from": 6,
+       "to": 6,
+       "without_number": false
+      },
+      {
+       "raw": "5",
+       "from_raw": "5",
+       "to_raw": "5",
+       "from": 5,
+       "to": 5,
+       "without_number": false
+      }
+     ]
+    },
+    {
+     "settlement": "СИБНИЦА",
+     "settlement_lat": "SIBNICA",
+     "street": "МИШЕ ПРОТИЋА",
+     "street_lat": "MIŠE PROTIĆA",
+     "numbers": [
+      {
+       "raw": "2-6",
+       "from_raw": "2",
+       "to_raw": "6",
+       "from": 2,
+       "to": 6
+      },
+      {
+       "raw": "10-20",
+       "from_raw": "10",
+       "to_raw": "20",
+       "from": 10,
+       "to": 20
+      },
+      {
+       "raw": "26-36",
+       "from_raw": "26",
+       "to_raw": "36",
+       "from": 26,
+       "to": 36
+      },
+      {
+       "raw": "40-44",
+       "from_raw": "40",
+       "to_raw": "44",
+       "from": 40,
+       "to": 44
+      },
+      {
+       "raw": "1",
+       "from_raw": "1",
+       "to_raw": "1",
+       "from": 1,
+       "to": 1,
+       "without_number": false
+      },
+      {
+       "raw": "11-15",
+       "from_raw": "11",
+       "to_raw": "15",
+       "from": 11,
+       "to": 15
+      },
+      {
+       "raw": "21",
+       "from_raw": "21",
+       "to_raw": "21",
+       "from": 21,
+       "to": 21,
+       "without_number": false
+      },
+      {
+       "raw": "25-35",
+       "from_raw": "25",
+       "to_raw": "35",
+       "from": 25,
+       "to": 35
+      },
+      {
+       "raw": "39-51А",
+       "from_raw": "39",
+       "to_raw": "51А",
+       "from": 39,
+       "to": 51
+      },
+      {
+       "raw": "55-63",
+       "from_raw": "55",
+       "to_raw": "63",
+       "from": 55,
+       "to": 63
+      }
+     ]
+    },
+    {
+     "settlement": "СИБНИЦА",
+     "settlement_lat": "SIBNICA",
+     "street": "МОМИРА СТАНКОВИЋА",
+     "street_lat": "MOMIRA STANKOVIĆA",
+     "numbers": [
+      {
+       "raw": "2",
+       "from_raw": "2",
+       "to_raw": "2",
+       "from": 2,
+       "to": 2,
+       "without_number": false
+      },
+      {
+       "raw": "6-8",
+       "from_raw": "6",
+       "to_raw": "8",
+       "from": 6,
+       "to": 8
+      },
+      {
+       "raw": "1-3",
+       "from_raw": "1",
+       "to_raw": "3",
+       "from": 1,
+       "to": 3
+      },
+      {
+       "raw": "7-9",
+       "from_raw": "7",
+       "to_raw": "9",
+       "from": 7,
+       "to": 9
+      },
+      {
+       "raw": "15",
+       "from_raw": "15",
+       "to_raw": "15",
+       "from": 15,
+       "to": 15,
+       "without_number": false
+      }
+     ]
+    },
+    {
+     "settlement": "СИБНИЦА",
+     "settlement_lat": "SIBNICA",
+     "street": "ПУКОВНИКА ЖИКЕ РАДОВАНОВИЋА",
+     "street_lat": "PUKOVNIKA ŽIKE RADOVANOVIĆA",
+     "numbers": [
+      {
+       "raw": "6-8",
+       "from_raw": "6",
+       "to_raw": "8",
+       "from": 6,
+       "to": 8
+      },
+      {
+       "raw": "12-14",
+       "from_raw": "12",
+       "to_raw": "14",
+       "from": 12,
+       "to": 14
+      },
+      {
+       "raw": "20-24",
+       "from_raw": "20",
+       "to_raw": "24",
+       "from": 20,
+       "to": 24
+      },
+      {
+       "raw": "30-32",
+       "from_raw": "30",
+       "to_raw": "32",
+       "from": 30,
+       "to": 32
+      },
+      {
+       "raw": "38",
+       "from_raw": "38",
+       "to_raw": "38",
+       "from": 38,
+       "to": 38,
+       "without_number": false
+      },
+      {
+       "raw": "1-9",
+       "from_raw": "1",
+       "to_raw": "9",
+       "from": 1,
+       "to": 9
+      },
+      {
+       "raw": "15-31",
+       "from_raw": "15",
+       "to_raw": "31",
+       "from": 15,
+       "to": 31
+      },
+      {
+       "raw": "37-39",
+       "from_raw": "37",
+       "to_raw": "39",
+       "from": 37,
+       "to": 39
+      },
+      {
+       "raw": "43",
+       "from_raw": "43",
+       "to_raw": "43",
+       "from": 43,
+       "to": 43,
+       "without_number": false
+      }
+     ]
+    },
+    {
+     "settlement": "СИБНИЦА",
+     "settlement_lat": "SIBNICA",
+     "street": "РАДЕ ЈОКСИМОВИЋ",
+     "street_lat": "RADE JOKSIMOVIĆ",
+     "numbers": [
+      {
+       "raw": "2",
+       "from_raw": "2",
+       "to_raw": "2",
+       "from": 2,
+       "to": 2,
+       "without_number": false
+      },
+      {
+       "raw": "1-5",
+       "from_raw": "1",
+       "to_raw": "5",
+       "from": 1,
+       "to": 5
+      }
+     ]
+    },
+    {
+     "settlement": "СИБНИЦА",
+     "settlement_lat": "SIBNICA",
+     "street": "РАДИШЕ ДИМИТРИЈЕВИЋА",
+     "street_lat": "RADIŠE DIMITRIJEVIĆA",
+     "numbers": [
+      {
+       "raw": "2-4",
+       "from_raw": "2",
+       "to_raw": "4",
+       "from": 2,
+       "to": 4
+      },
+      {
+       "raw": "10-12",
+       "from_raw": "10",
+       "to_raw": "12",
+       "from": 10,
+       "to": 12
+      },
+      {
+       "raw": "18",
+       "from_raw": "18",
+       "to_raw": "18",
+       "from": 18,
+       "to": 18,
+       "without_number": false
+      },
+      {
+       "raw": "22-26",
+       "from_raw": "22",
+       "to_raw": "26",
+       "from": 22,
+       "to": 26
+      },
+      {
+       "raw": "30-34",
+       "from_raw": "30",
+       "to_raw": "34",
+       "from": 30,
+       "to": 34
+      },
+      {
+       "raw": "38",
+       "from_raw": "38",
+       "to_raw": "38",
+       "from": 38,
+       "to": 38,
+       "without_number": false
+      },
+      {
+       "raw": "3-7",
+       "from_raw": "3",
+       "to_raw": "7",
+       "from": 3,
+       "to": 7
+      },
+      {
+       "raw": "11",
+       "from_raw": "11",
+       "to_raw": "11",
+       "from": 11,
+       "to": 11,
+       "without_number": false
+      },
+      {
+       "raw": "19-27",
+       "from_raw": "19",
+       "to_raw": "27",
+       "from": 19,
+       "to": 27
+      }
+     ]
+    },
+    {
+     "settlement": "СИБНИЦА",
+     "settlement_lat": "SIBNICA",
+     "street": "РАДОЈА ИЛИЋА",
+     "street_lat": "RADOJA ILIĆA",
+     "numbers": [
+      {
+       "raw": "372Д",
+       "from_raw": "372Д",
+       "to_raw": "372Д",
+       "from": 372,
+       "to": 372,
+       "without_number": false
+      },
+      {
+       "raw": "1",
+       "from_raw": "1",
+       "to_raw": "1",
+       "from": 1,
+       "to": 1,
+       "without_number": false
+      },
+      {
+       "raw": "5-7",
+       "from_raw": "5",
+       "to_raw": "7",
+       "from": 5,
+       "to": 7
+      },
+      {
+       "raw": "11-19",
+       "from_raw": "11",
+       "to_raw": "19",
+       "from": 11,
+       "to": 19
+      },
+      {
+       "raw": "23-25",
+       "from_raw": "23",
+       "to_raw": "25",
+       "from": 23,
+       "to": 25
+      },
+      {
+       "raw": "29-31",
+       "from_raw": "29",
+       "to_raw": "31",
+       "from": 29,
+       "to": 31
+      }
+     ]
+    },
+    {
+     "settlement": "СИБНИЦА",
+     "settlement_lat": "SIBNICA",
+     "street": "РАДОМИРА ВИЋЕНТИЈЕВИЋА",
+     "street_lat": "RADOMIRA VIĆENTIJEVIĆA",
+     "numbers": [
+      {
+       "raw": "3",
+       "from_raw": "3",
+       "to_raw": "3",
+       "from": 3,
+       "to": 3,
+       "without_number": false
+      }
+     ]
+    },
+    {
+     "settlement": "СИБНИЦА",
+     "settlement_lat": "SIBNICA",
+     "street": "РАДОСАВА ЖИВОЈИНОВИЋА",
+     "street_lat": "RADOSAVA ŽIVOJINOVIĆA",
+     "numbers": [
+      {
+       "raw": "2",
+       "from_raw": "2",
+       "to_raw": "2",
+       "from": 2,
+       "to": 2,
+       "without_number": false
+      },
+      {
+       "raw": "6",
+       "from_raw": "6",
+       "to_raw": "6",
+       "from": 6,
+       "to": 6,
+       "without_number": false
+      },
+      {
+       "raw": "10",
+       "from_raw": "10",
+       "to_raw": "10",
+       "from": 10,
+       "to": 10,
+       "without_number": false
+      },
+      {
+       "raw": "16",
+       "from_raw": "16",
+       "to_raw": "16",
+       "from": 16,
+       "to": 16,
+       "without_number": false
+      },
+      {
+       "raw": "1",
+       "from_raw": "1",
+       "to_raw": "1",
+       "from": 1,
+       "to": 1,
+       "without_number": false
+      },
+      {
+       "raw": "5",
+       "from_raw": "5",
+       "to_raw": "5",
+       "from": 5,
+       "to": 5,
+       "without_number": false
+      },
+      {
+       "raw": "9",
+       "from_raw": "9",
+       "to_raw": "9",
+       "from": 9,
+       "to": 9,
+       "without_number": false
+      },
+      {
+       "raw": "13",
+       "from_raw": "13",
+       "to_raw": "13",
+       "from": 13,
+       "to": 13,
+       "without_number": false
+      },
+      {
+       "raw": "19",
+       "from_raw": "19",
+       "to_raw": "19",
+       "from": 19,
+       "to": 19,
+       "without_number": false
+      }
+     ]
+    },
+    {
+     "settlement": "СИБНИЦА",
+     "settlement_lat": "SIBNICA",
+     "street": "СЛАВКА ИЛИЋА",
+     "street_lat": "SLAVKA ILIĆA",
+     "numbers": [
+      {
+       "raw": "2-8",
+       "from_raw": "2",
+       "to_raw": "8",
+       "from": 2,
+       "to": 8
+      },
+      {
+       "raw": "1-9",
+       "from_raw": "1",
+       "to_raw": "9",
+       "from": 1,
+       "to": 9
+      },
+      {
+       "raw": "13",
+       "from_raw": "13",
+       "to_raw": "13",
+       "from": 13,
+       "to": 13,
+       "without_number": false
+      }
+     ]
+    },
+    {
+     "settlement": "СИБНИЦА",
+     "settlement_lat": "SIBNICA",
+     "street": "СЛАВОЉУБА МИЛОШЕВИЋА",
+     "street_lat": "SLAVOLJUBA MILOŠEVIĆA",
+     "numbers": [
+      {
+       "raw": "1А-3",
+       "from_raw": "1А",
+       "to_raw": "3",
+       "from": 1,
+       "to": 3
+      },
+      {
+       "raw": "7",
+       "from_raw": "7",
+       "to_raw": "7",
+       "from": 7,
+       "to": 7,
+       "without_number": false
+      }
+     ]
+    },
+    {
+     "settlement": "СИБНИЦА",
+     "settlement_lat": "SIBNICA",
+     "street": "ТИХОМИРА МАРИНКОВИЋА",
+     "street_lat": "TIHOMIRA MARINKOVIĆA",
+     "numbers": [
+      {
+       "raw": "2-6",
+       "from_raw": "2",
+       "to_raw": "6",
+       "from": 2,
+       "to": 6
+      }
+     ]
+    },
+    {
+     "settlement": "СИБНИЦА",
+     "settlement_lat": "SIBNICA",
+     "street": "УЧИТЕЉА РАДИСАВА ОБРАДОВИЋА",
+     "street_lat": "UČITELJA RADISAVA OBRADOVIĆA",
+     "numbers": [
+      {
+       "raw": "2",
+       "from_raw": "2",
+       "to_raw": "2",
+       "from": 2,
+       "to": 2,
+       "without_number": false
+      },
+      {
+       "raw": "6-10А",
+       "from_raw": "6",
+       "to_raw": "10А",
+       "from": 6,
+       "to": 10
+      },
+      {
+       "raw": "14-20",
+       "from_raw": "14",
+       "to_raw": "20",
+       "from": 14,
+       "to": 20
+      },
+      {
+       "raw": "26-36",
+       "from_raw": "26",
+       "to_raw": "36",
+       "from": 26,
+       "to": 36
+      },
+      {
+       "raw": "44-46",
+       "from_raw": "44",
+       "to_raw": "46",
+       "from": 44,
+       "to": 46
+      },
+      {
+       "raw": "320",
+       "from_raw": "320",
+       "to_raw": "320",
+       "from": 320,
+       "to": 320,
+       "without_number": false
+      },
+      {
+       "raw": "1-9А",
+       "from_raw": "1",
+       "to_raw": "9А",
+       "from": 1,
+       "to": 9
+      },
+      {
+       "raw": "13-15",
+       "from_raw": "13",
+       "to_raw": "15",
+       "from": 13,
+       "to": 15
+      },
+      {
+       "raw": "19-21",
+       "from_raw": "19",
+       "to_raw": "21",
+       "from": 19,
+       "to": 21
+      }
+     ]
+    },
+    {
+     "settlement": "СИБНИЦА",
+     "settlement_lat": "SIBNICA",
+     "street": "ВЕЛИМИРА МИТРОВИЋА",
+     "street_lat": "VELIMIRA MITROVIĆA",
+     "numbers": [
+      {
+       "raw": "2-4",
+       "from_raw": "2",
+       "to_raw": "4",
+       "from": 2,
+       "to": 4
+      },
+      {
+       "raw": "1",
+       "from_raw": "1",
+       "to_raw": "1",
+       "from": 1,
+       "to": 1,
+       "without_number": false
+      },
+      {
+       "raw": "105",
+       "from_raw": "105",
+       "to_raw": "105",
+       "from": 105,
+       "to": 105,
+       "without_number": false
+      }
+     ]
+    },
+    {
+     "settlement": "СИБНИЦА",
+     "settlement_lat": "SIBNICA",
+     "street": "ВЕЛИМИРА НИКОЛИЋА",
+     "street_lat": "VELIMIRA NIKOLIĆA",
+     "numbers": [
+      {
+       "raw": "2",
+       "from_raw": "2",
+       "to_raw": "2",
+       "from": 2,
+       "to": 2,
+       "without_number": false
+      }
+     ]
+    },
+    {
+     "settlement": "СИБНИЦА",
+     "settlement_lat": "SIBNICA",
+     "street": "ЖИВКА ПРОТИЋА",
+     "street_lat": "ŽIVKA PROTIĆA",
+     "numbers": [
+      {
+       "raw": "2",
+       "from_raw": "2",
+       "to_raw": "2",
+       "from": 2,
+       "to": 2,
+       "without_number": false
+      },
+      {
+       "raw": "8-14",
+       "from_raw": "8",
+       "to_raw": "14",
+       "from": 8,
+       "to": 14
+      },
+      {
+       "raw": "1",
+       "from_raw": "1",
+       "to_raw": "1",
+       "from": 1,
+       "to": 1,
+       "without_number": false
+      }
+     ]
+    },
+    {
+     "settlement": "СЛАТИНА",
+     "settlement_lat": "SLATINA",
+     "street": "БУНАРСКА",
+     "street_lat": "BUNARSKA",
+     "numbers": [
+      {
+       "raw": "1",
+       "from_raw": "1",
+       "to_raw": "1",
+       "from": 1,
+       "to": 1,
+       "without_number": false
+      },
+      {
+       "raw": "9-13",
+       "from_raw": "9",
+       "to_raw": "13",
+       "from": 9,
+       "to": 13
+      },
+      {
+       "raw": "17",
+       "from_raw": "17",
+       "to_raw": "17",
+       "from": 17,
+       "to": 17,
+       "without_number": false
+      }
+     ]
+    },
+    {
+     "settlement": "СЛАТИНА",
+     "settlement_lat": "SLATINA",
+     "street": "ЂОРЂА ЈОВАНОВИЋА",
+     "street_lat": "ĐORĐA JOVANOVIĆA",
+     "numbers": [
+      {
+       "raw": "2-6",
+       "from_raw": "2",
+       "to_raw": "6",
+       "from": 2,
+       "to": 6
+      },
+      {
+       "raw": "10-14",
+       "from_raw": "10",
+       "to_raw": "14",
+       "from": 10,
+       "to": 14
+      },
+      {
+       "raw": "18-30",
+       "from_raw": "18",
+       "to_raw": "30",
+       "from": 18,
+       "to": 30
+      },
+      {
+       "raw": "36-36А",
+       "from_raw": "36",
+       "to_raw": "36А",
+       "from": 36,
+       "to": 36
+      },
+      {
+       "raw": "40Б-52А",
+       "from_raw": "40Б",
+       "to_raw": "52А",
+       "from": 40,
+       "to": 52
+      },
+      {
+       "raw": "62А-62Б",
+       "from_raw": "62А",
+       "to_raw": "62Б",
+       "from": 62,
+       "to": 62
+      },
+      {
+       "raw": "66-86",
+       "from_raw": "66",
+       "to_raw": "86",
+       "from": 66,
+       "to": 86
+      },
+      {
+       "raw": "90-96",
+       "from_raw": "90",
+       "to_raw": "96",
+       "from": 90,
+       "to": 96
+      },
+      {
+       "raw": "1-21",
+       "from_raw": "1",
+       "to_raw": "21",
+       "from": 1,
+       "to": 21
+      },
+      {
+       "raw": "27-31",
+       "from_raw": "27",
+       "to_raw": "31",
+       "from": 27,
+       "to": 31
+      },
+      {
+       "raw": "53-63А",
+       "from_raw": "53",
+       "to_raw": "63А",
+       "from": 53,
+       "to": 63
+      },
+      {
+       "raw": "67",
+       "from_raw": "67",
+       "to_raw": "67",
+       "from": 67,
+       "to": 67,
+       "without_number": false
+      },
+      {
+       "raw": "73-87",
+       "from_raw": "73",
+       "to_raw": "87",
+       "from": 73,
+       "to": 87
+      },
+      {
+       "raw": "91",
+       "from_raw": "91",
+       "to_raw": "91",
+       "from": 91,
+       "to": 91,
+       "without_number": false
+      },
+      {
+       "raw": "95-97",
+       "from_raw": "95",
+       "to_raw": "97",
+       "from": 95,
+       "to": 97
+      }
+     ]
+    },
+    {
+     "settlement": "СЛАТИНА",
+     "settlement_lat": "SLATINA",
+     "street": "ИВЕ ТРИФУНОВИЋА",
+     "street_lat": "IVE TRIFUNOVIĆA",
+     "numbers": [
+      {
+       "raw": "2-6",
+       "from_raw": "2",
+       "to_raw": "6",
+       "from": 2,
+       "to": 6
+      }
+     ]
+    },
+    {
+     "settlement": "СЛАТИНА",
+     "settlement_lat": "SLATINA",
+     "street": "КАРАЂОРЂЕВА",
+     "street_lat": "KARAĐORĐEVA",
+     "numbers": [
+      {
+       "raw": "2-18",
+       "from_raw": "2",
+       "to_raw": "18",
+       "from": 2,
+       "to": 18
+      },
+      {
+       "raw": "22-26",
+       "from_raw": "22",
+       "to_raw": "26",
+       "from": 22,
+       "to": 26
+      },
+      {
+       "raw": "30-52",
+       "from_raw": "30",
+       "to_raw": "52",
+       "from": 30,
+       "to": 52
+      },
+      {
+       "raw": "1-1",
+       "from_raw": "1",
+       "to_raw": "1",
+       "from": 1,
+       "to": 1
+      },
+      {
+       "raw": "5-25",
+       "from_raw": "5",
+       "to_raw": "25",
+       "from": 5,
+       "to": 25
+      },
+      {
+       "raw": "29-35",
+       "from_raw": "29",
+       "to_raw": "35",
+       "from": 29,
+       "to": 35
+      },
+      {
+       "raw": "39-43",
+       "from_raw": "39",
+       "to_raw": "43",
+       "from": 39,
+       "to": 43
+      },
+      {
+       "raw": "47-53",
+       "from_raw": "47",
+       "to_raw": "53",
+       "from": 47,
+       "to": 53
+      }
+     ]
+    },
+    {
+     "settlement": "СЛАТИНА",
+     "settlement_lat": "SLATINA",
+     "street": "КОСМАЈСКА",
+     "street_lat": "KOSMAJSKA",
+     "numbers": [
+      {
+       "raw": "1-7",
+       "from_raw": "1",
+       "to_raw": "7",
+       "from": 1,
+       "to": 7
+      },
+      {
+       "raw": "67",
+       "from_raw": "67",
+       "to_raw": "67",
+       "from": 67,
+       "to": 67,
+       "without_number": false
+      }
+     ]
+    },
+    {
+     "settlement": "СЛАТИНА",
+     "settlement_lat": "SLATINA",
+     "street": "ПРОФЕСОРА МИЛОША САВКОВИЋА",
+     "street_lat": "PROFESORA MILOŠA SAVKOVIĆA",
+     "numbers": [
+      {
+       "raw": "3-7",
+       "from_raw": "3",
+       "to_raw": "7",
+       "from": 3,
+       "to": 7
+      }
+     ]
+    },
+    {
+     "settlement": "СЛАТИНА",
+     "settlement_lat": "SLATINA",
+     "street": "РАДА ЈОВАНОВИЋА",
+     "street_lat": "RADA JOVANOVIĆA",
+     "numbers": [
+      {
+       "raw": "6-6А",
+       "from_raw": "6",
+       "to_raw": "6А",
+       "from": 6,
+       "to": 6
+      },
+      {
+       "raw": "10-14А",
+       "from_raw": "10",
+       "to_raw": "14А",
+       "from": 10,
+       "to": 14
+      },
+      {
+       "raw": "20-26",
+       "from_raw": "20",
+       "to_raw": "26",
+       "from": 20,
+       "to": 26
+      },
+      {
+       "raw": "30",
+       "from_raw": "30",
+       "to_raw": "30",
+       "from": 30,
+       "to": 30,
+       "without_number": false
+      },
+      {
+       "raw": "64Б",
+       "from_raw": "64Б",
+       "to_raw": "64Б",
+       "from": 64,
+       "to": 64,
+       "without_number": false
+      },
+      {
+       "raw": "68Б",
+       "from_raw": "68Б",
+       "to_raw": "68Б",
+       "from": 68,
+       "to": 68,
+       "without_number": false
+      },
+      {
+       "raw": "1-5",
+       "from_raw": "1",
+       "to_raw": "5",
+       "from": 1,
+       "to": 5
+      },
+      {
+       "raw": "9-17",
+       "from_raw": "9",
+       "to_raw": "17",
+       "from": 9,
+       "to": 17
+      },
+      {
+       "raw": "23-41",
+       "from_raw": "23",
+       "to_raw": "41",
+       "from": 23,
+       "to": 41
+      },
+      {
+       "raw": "71",
+       "from_raw": "71",
+       "to_raw": "71",
+       "from": 71,
+       "to": 71,
+       "without_number": false
+      },
+      {
+       "raw": "519",
+       "from_raw": "519",
+       "to_raw": "519",
+       "from": 519,
+       "to": 519,
+       "without_number": false
+      }
+     ]
+    },
+    {
+     "settlement": "СЛАТИНА",
+     "settlement_lat": "SLATINA",
+     "street": "РАДНИЧКА",
+     "street_lat": "RADNIČKA",
+     "numbers": [
+      {
+       "raw": "2",
+       "from_raw": "2",
+       "to_raw": "2",
+       "from": 2,
+       "to": 2,
+       "without_number": false
+      },
+      {
+       "raw": "8-10",
+       "from_raw": "8",
+       "to_raw": "10",
+       "from": 8,
+       "to": 10
+      },
+      {
+       "raw": "1-3",
+       "from_raw": "1",
+       "to_raw": "3",
+       "from": 1,
+       "to": 3
+      }
+     ]
+    },
+    {
+     "settlement": "СЛАТИНА",
+     "settlement_lat": "SLATINA",
+     "street": "САВЕ КОВАЧЕВИЋА",
+     "street_lat": "SAVE KOVAČEVIĆA",
+     "numbers": [
+      {
+       "raw": "4-6",
+       "from_raw": "4",
+       "to_raw": "6",
+       "from": 4,
+       "to": 6
+      },
+      {
+       "raw": "18-20",
+       "from_raw": "18",
+       "to_raw": "20",
+       "from": 18,
+       "to": 20
+      },
+      {
+       "raw": "39Б",
+       "from_raw": "39Б",
+       "to_raw": "39Б",
+       "from": 39,
+       "to": 39,
+       "without_number": false
+      }
+     ]
+    },
+    {
+     "settlement": "СЛАТИНА",
+     "settlement_lat": "SLATINA",
+     "street": "ШУМАДИЈСКА",
+     "street_lat": "ŠUMADIJSKA",
+     "numbers": [
+      {
+       "raw": "2",
+       "from_raw": "2",
+       "to_raw": "2",
+       "from": 2,
+       "to": 2,
+       "without_number": false
+      },
+      {
+       "raw": "1",
+       "from_raw": "1",
+       "to_raw": "1",
+       "from": 1,
+       "to": 1,
+       "without_number": false
+      }
+     ]
+    },
+    {
+     "settlement": "СЛАТИНА",
+     "settlement_lat": "SLATINA",
+     "street": "СВЕТОЗАРА МАРКОВИЋА",
+     "street_lat": "SVETOZARA MARKOVIĆA",
+     "numbers": [
+      {
+       "raw": "4-8",
+       "from_raw": "4",
+       "to_raw": "8",
+       "from": 4,
+       "to": 8
+      },
+      {
+       "raw": "3-9",
+       "from_raw": "3",
+       "to_raw": "9",
+       "from": 3,
+       "to": 9
+      },
+      {
+       "raw": "15-17",
+       "from_raw": "15",
+       "to_raw": "17",
+       "from": 15,
+       "to": 17
+      },
+      {
+       "raw": "21",
+       "from_raw": "21",
+       "to_raw": "21",
+       "from": 21,
+       "to": 21,
+       "without_number": false
+      }
+     ]
+    },
+    {
+     "settlement": "СТОЈНИК",
+     "settlement_lat": "STOJNIK",
+     "street": "ЗОРОЉИНСКИ РАЈ",
+     "street_lat": "ZOROLJINSKI RAJ",
+     "numbers": [
+      {
+       "raw": "8-10Б",
+       "from_raw": "8",
+       "to_raw": "10Б",
+       "from": 8,
+       "to": 10
+      },
+      {
+       "raw": "18-24А",
+       "from_raw": "18",
+       "to_raw": "24А",
+       "from": 18,
+       "to": 24
+      },
+      {
+       "raw": "30",
+       "from_raw": "30",
+       "to_raw": "30",
+       "from": 30,
+       "to": 30,
+       "without_number": false
+      },
+      {
+       "raw": "170-174Б",
+       "from_raw": "170",
+       "to_raw": "174Б",
+       "from": 170,
+       "to": 174
+      },
+      {
+       "raw": "9",
+       "from_raw": "9",
+       "to_raw": "9",
+       "from": 9,
+       "to": 9,
+       "without_number": false
+      },
+      {
+       "raw": "13-17А",
+       "from_raw": "13",
+       "to_raw": "17А",
+       "from": 13,
+       "to": 17
+      },
+      {
+       "raw": "23-25",
+       "from_raw": "23",
+       "to_raw": "25",
+       "from": 23,
+       "to": 25
+      },
+      {
+       "raw": "31-35",
+       "from_raw": "31",
+       "to_raw": "35",
+       "from": 31,
+       "to": 35
+      },
+      {
+       "raw": "39",
+       "from_raw": "39",
+       "to_raw": "39",
+       "from": 39,
+       "to": 39,
+       "without_number": false
+      },
+      {
+       "raw": "45",
+       "from_raw": "45",
+       "to_raw": "45",
+       "from": 45,
+       "to": 45,
+       "without_number": false
+      },
+      {
+       "raw": "83-83А",
+       "from_raw": "83",
+       "to_raw": "83А",
+       "from": 83,
+       "to": 83
+      },
+      {
+       "raw": "171-175Б",
+       "from_raw": "171",
+       "to_raw": "175Б",
+       "from": 171,
+       "to": 175
+      }
+     ]
+    }
+   ],
+   "raw": {
+    "municipality": "Сопот",
+    "time": "08:00 - 15:00",
+    "streets": "Насеље ДУЧИНА: БУНАРСКА: 2-4,8,12,1,9, ДРАГИШЕ САРИЋА: 1, ДРАГОСЛАВА МИШИЋА: 14, ЉУБОМИРА ИВКОВИЋА-ШУЦЕ: 12,72А,76-78,84-98,102-114,118-120,124-160,164-180,19А,37Б-41,45-55,59-73,77,87,91,95-97А,101-121А,125А,129,133-167,171,177Ц,273А, ЉУБОМИРА ЖИВАНОВИЋА-БРКЕ: 2-4,10-16,1, МИЛИШЕ МИШИЋА: 2-10,16-18,1-3,7,11,15,19-23, МИЛОРАДА ЖИВАНОВИЋА: 2-6,10,7-13, ПРОФЕСОРА МИЛОРАДА МИЛИНКОВИЋА: 4,1, САВЕ ЖИВАНОВИЋА: ,2,8-12,16-20,24-26,1А-15, Насеље МАЛА ИВАНЧА: ПУТ ЗА ПЛАНДИШТЕ: 2А,6-6Б,31,35-37,41,45,49-71,77, Насеље МАНИЋ: КОСМАЈСКА: 63-65, Насеље РИПАЊ: ПУТ ЗА ПЛАНДИШТЕ 3.ДЕО: 2,6А,3, Насеље РОГАЧА: БРАТСТВА И ЈЕДИНСТВА: 51, Насеље СИБНИЦА: БОРЕ ПАВЛОВИЋА: 2-4,1, БОРИВОЈА КУЈУНЏИЋА: 2-18,1-9, БОРИВОЈА УРОШЕВИЋА: 4-6, БОШКА ПАУНОВИЋА: 2,6-8,3, БОЖИДАРА ПЕТРОВИЋА: 1-3, БРАНКА МИЛИЈАНОВИЋА: 2-8,14-22,26-26,254А,1-3А,7-23,27-33,37-41, ЧЕДЕ ИЛИЋА: ,2-2,6-10,18-22,28-28А,34,42А,46-50А,54,58,1-23,33-37, ЧЕДЕ ПАВЛОВИЋА: ,2,6-10,20-42,46-48,52-72,76,80-82,86,90-92,96,100,106-110,114,348,370-372,1,5,9,15-27,31-35,41-61,65,69-75Б,79,83-101,109,115-119,129,133Ц-143Б,149-153,363Б,369, ДРАГЕ ПОП-ЛАЗИЋ: 2,6,10-12,1-3,7, ДРАГОЉУБА ПАВЛОВИЋА: 6-10, ДРАГОЉУБА СТАНИСАВЉЕВИЋА: 2-6, ЂУРЕ МАРИНКОВИЋА: 2А,6-8,12-14,270,1-15, ДУШАНА КУЈУНЏИЋА: 4-10, ГЕНЕРАЛА МИЛАНА ПАВЛОВИЋА: ,4,8,12,16-18,22-34,38,42-56,286,314-314А,324,1-5,9-23,27-29,35,49,321А, ИВАНА МИЛОВАНОВИЋА: 6,3, ЈЕЛИЦЕ ПОП-ЛАЗИЋ: 1-3, МИЛАДИНА ЛАЗАРЕВИЋА: 2-4,8,12,9-9А, МИЛИВОЈА ПАНТЕЛИЋА: 4-8, МИЛОМИРА АДАМОВИЋА: 2-4, МИЛОРАДА РАНКОВИЋА: 4А,10,3, МИЛОВАНА ИВАНОВИЋА: 2,6,5, МИШЕ ПРОТИЋА: 2-6,10-20,26-36,40-44,1,11-15,21,25-35,39-51А,55-63, МОМИРА СТАНКОВИЋА: 2,6-8,1-3,7-9,15, ПУКОВНИКА ЖИКЕ РАДОВАНОВИЋА: 6-8,12-14,20-24,30-32,38,1-9,15-31,37-39,43, РАДЕ ЈОКСИМОВИЋ: 2,1-5, РАДИШЕ ДИМИТРИЈЕВИЋА: 2-4,10-12,18,22-26,30-34,38,3-7,11,19-27, РАДОЈА ИЛИЋА: 372Д,1,5-7,11-19,23-25,29-31, РАДОМИРА ВИЋЕНТИЈЕВИЋА: 3, РАДОСАВА ЖИВОЈИНОВИЋА: 2,6,10,16,1,5,9,13,19, СЛАВКА ИЛИЋА: 2-8,1-9,13, СЛАВОЉУБА МИЛОШЕВИЋА: 1А-3,7, ТИХОМИРА МАРИНКОВИЋА: 2-6, УЧИТЕЉА РАДИСАВА ОБРАДОВИЋА: 2,6-10А,14-20,26-36,44-46,320,1-9А,13-15,19-21, ВЕЛИМИРА МИТРОВИЋА: 2-4,1,105, ВЕЛИМИРА НИКОЛИЋА: 2, ЖИВКА ПРОТИЋА: 2,8-14,1, Насеље СЛАТИНА: БУНАРСКА: 1,9-13,17, ЂОРЂА ЈОВАНОВИЋА: 2-6,10-14,18-30,36-36А,40Б-52А,62А-62Б,66-86,90-96,1-21,27-31,53-63А,67,73-87,91,95-97, ИВЕ ТРИФУНОВИЋА: 2-6, КАРАЂОРЂЕВА: ,2-18,22-26,30-52,1-1,5-25,29-35,39-43,47-53, КОСМАЈСКА: 1-7,67, ПРОФЕСОРА МИЛОША САВКОВИЋА: 3-7, РАДА ЈОВАНОВИЋА: 6-6А,10-14А,20-26,30,64Б,68Б,1-5,9-17,23-41,71,519, РАДНИЧКА: 2,8-10,1-3, САВЕ КОВАЧЕВИЋА: 4-6,18-20,39Б, ШУМАДИЈСКА: 2,1, СВЕТОЗАРА МАРКОВИЋА: 4-8,3-9,15-17,21, Насеље СТОЈНИК: ЗОРОЉИНСКИ РАЈ: 8-10Б,18-24А,30,170-174Б,9,13-17А,23-25,31-35,39,45,83-83А,171-175Б,"
+   },
+   "raw_text_hash": "16b94a1bde93e217e2af07516194b82d2faab00f5cac2660e5550caa03ca4632",
+   "warnings": []
+  },
+  {
+   "key": "53a75ed062ca197e",
+   "source_id": "eds-bgd-dan0",
+   "source_url": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm",
+   "utility_type": "electricity",
+   "notice_type": "planned_work",
+   "status": "scheduled",
+   "verification": "official",
+   "date": "2026-10-16",
+   "municipality": "Лазаревац",
+   "municipality_lat": "Lazarevac",
+   "time_text": "08:30 - 14:00",
+   "planned_start_at": "2026-10-16T08:30:00+02:00",
+   "planned_end_at": "2026-10-16T14:00:00+02:00",
+   "estimated_restoration_at": null,
+   "locations": [
+    {
+     "settlement": "Велики Црљени",
+     "settlement_lat": "Veliki Crljeni",
+     "street": null,
+     "street_lat": null,
+     "numbers": [],
+     "detail": "засеок Колонија ТЕК 1, Колонија ТЕК 2, Телеком"
+    }
+   ],
+   "raw": {
+    "municipality": "Лазаревац",
+    "time": "08:30 - 14:00",
+    "streets": "Насеље: Велики Црљени ( засеок Колонија ТЕК 1, Колонија ТЕК 2, Телеком )"
+   },
+   "raw_text_hash": "cdb3b2c4a6cebd7212e931bcf2a57652ecf5dd09b1c5c3e6c5ad8bcab36b2f54",
+   "warnings": [
+    "naselje bez navedenih ulica: 'Велики Црљени' (засеок Колонија ТЕК 1, Колонија ТЕК 2, Телеком)"
+   ]
+  },
+  {
+   "key": "46bc52353c80f786",
+   "source_id": "eds-bgd-dan0",
+   "source_url": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm",
+   "utility_type": "electricity",
+   "notice_type": "planned_work",
+   "status": "scheduled",
+   "verification": "official",
+   "date": "2026-10-16",
+   "municipality": "Савски венац",
+   "municipality_lat": "Savski venac",
+   "time_text": "08:30 - 14:00",
+   "planned_start_at": "2026-10-16T08:30:00+02:00",
+   "planned_end_at": "2026-10-16T14:00:00+02:00",
+   "estimated_restoration_at": null,
+   "locations": [
+    {
+     "settlement": null,
+     "settlement_lat": null,
+     "street": "БУЛЕВАР ВУДРОА ВИЛСОНА",
+     "street_lat": "BULEVAR VUDROA VILSONA",
+     "numbers": [
+      {
+       "raw": "ББ",
+       "from_raw": "ББ",
+       "to_raw": "ББ",
+       "from": null,
+       "to": null,
+       "without_number": true
+      },
+      {
+       "raw": "ББ",
+       "from_raw": "ББ",
+       "to_raw": "ББ",
+       "from": null,
+       "to": null,
+       "without_number": true
+      },
+      {
+       "raw": "ББ",
+       "from_raw": "ББ",
+       "to_raw": "ББ",
+       "from": null,
+       "to": null,
+       "without_number": true
+      },
+      {
+       "raw": "ББ",
+       "from_raw": "ББ",
+       "to_raw": "ББ",
+       "from": null,
+       "to": null,
+       "without_number": true
+      },
+      {
+       "raw": "ББ",
+       "from_raw": "ББ",
+       "to_raw": "ББ",
+       "from": null,
+       "to": null,
+       "without_number": true
+      },
+      {
+       "raw": "ББ",
+       "from_raw": "ББ",
+       "to_raw": "ББ",
+       "from": null,
+       "to": null,
+       "without_number": true
+      },
+      {
+       "raw": "ББ",
+       "from_raw": "ББ",
+       "to_raw": "ББ",
+       "from": null,
+       "to": null,
+       "without_number": true
+      },
+      {
+       "raw": "ББ",
+       "from_raw": "ББ",
+       "to_raw": "ББ",
+       "from": null,
+       "to": null,
+       "without_number": true
+      },
+      {
+       "raw": "ББ",
+       "from_raw": "ББ",
+       "to_raw": "ББ",
+       "from": null,
+       "to": null,
+       "without_number": true
+      },
+      {
+       "raw": "ББ",
+       "from_raw": "ББ",
+       "to_raw": "ББ",
+       "from": null,
+       "to": null,
+       "without_number": true
+      }
+     ]
+    },
+    {
+     "settlement": null,
+     "settlement_lat": null,
+     "street": "НИКОЛАЈА КРАВЦОВА",
+     "street_lat": "NIKOLAJA KRAVCOVA",
+     "numbers": [
+      {
+       "raw": "ББ",
+       "from_raw": "ББ",
+       "to_raw": "ББ",
+       "from": null,
+       "to": null,
+       "without_number": true
+      }
+     ]
+    }
+   ],
+   "raw": {
+    "municipality": "Савски венац",
+    "time": "08:30 - 14:00",
+    "streets": "БУЛЕВАР ВУДРОА ВИЛСОНА: ББ,ББ,ББ,ББ,ББ,ББ,ББ,ББ,ББ,ББ, НИКОЛАЈА КРАВЦОВА: ББ,"
+   },
+   "raw_text_hash": "f7ea4bdc7101484f056fe6311878be0cf55e0752123d89113711ab17d884927b",
+   "warnings": []
+  },
+  {
+   "key": "7c0717e60a6f27f8",
+   "source_id": "eds-bgd-dan0",
+   "source_url": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm",
+   "utility_type": "electricity",
+   "notice_type": "planned_work",
+   "status": "scheduled",
+   "verification": "official",
+   "date": "2026-10-16",
+   "municipality": "Сурчин",
+   "municipality_lat": "Surčin",
+   "time_text": "08:30 - 13:00",
+   "planned_start_at": "2026-10-16T08:30:00+02:00",
+   "planned_end_at": "2026-10-16T13:00:00+02:00",
+   "estimated_restoration_at": null,
+   "locations": [
+    {
+     "settlement": "СУРЧИН",
+     "settlement_lat": "SURČIN",
+     "street": "БАНОВАЧКА",
+     "street_lat": "BANOVAČKA",
+     "numbers": [
+      {
+       "raw": "4-20",
+       "from_raw": "4",
+       "to_raw": "20",
+       "from": 4,
+       "to": 20
+      },
+      {
+       "raw": "24-28",
+       "from_raw": "24",
+       "to_raw": "28",
+       "from": 24,
+       "to": 28
+      },
+      {
+       "raw": "32-64",
+       "from_raw": "32",
+       "to_raw": "64",
+       "from": 32,
+       "to": 64
+      },
+      {
+       "raw": "3-5",
+       "from_raw": "3",
+       "to_raw": "5",
+       "from": 3,
+       "to": 5
+      },
+      {
+       "raw": "9А-17",
+       "from_raw": "9А",
+       "to_raw": "17",
+       "from": 9,
+       "to": 17
+      },
+      {
+       "raw": "21-23",
+       "from_raw": "21",
+       "to_raw": "23",
+       "from": 21,
+       "to": 23
+      },
+      {
+       "raw": "27",
+       "from_raw": "27",
+       "to_raw": "27",
+       "from": 27,
+       "to": 27,
+       "without_number": false
+      },
+      {
+       "raw": "31-33",
+       "from_raw": "31",
+       "to_raw": "33",
+       "from": 31,
+       "to": 33
+      }
+     ]
+    }
+   ],
+   "raw": {
+    "municipality": "Сурчин",
+    "time": "08:30 - 13:00",
+    "streets": "Насеље СУРЧИН: БАНОВАЧКА: 4-20,24-28,32-64,3-5,9А-17,21-23,27,31-33,"
+   },
+   "raw_text_hash": "a90914dd99d94a75267071df68c03c50d45d739bd4bb9c8c33be570be7adeceb",
+   "warnings": []
+  },
+  {
+   "key": "7ebbb3932bdfaa50",
+   "source_id": "eds-bgd-dan0",
+   "source_url": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm",
+   "utility_type": "electricity",
+   "notice_type": "planned_work",
+   "status": "scheduled",
+   "verification": "official",
+   "date": "2026-10-16",
+   "municipality": "Чукарица",
+   "municipality_lat": "Čukarica",
+   "time_text": "08:30 - 14:00",
+   "planned_start_at": "2026-10-16T08:30:00+02:00",
+   "planned_end_at": "2026-10-16T14:00:00+02:00",
+   "estimated_restoration_at": null,
+   "locations": [
+    {
+     "settlement": null,
+     "settlement_lat": null,
+     "street": "ЉУБИЦЕ ИВОШЕВИЋ-ДИМИТРОВ",
+     "street_lat": "LJUBICE IVOŠEVIĆ-DIMITROV",
+     "numbers": [
+      {
+       "raw": "44-56",
+       "from_raw": "44",
+       "to_raw": "56",
+       "from": 44,
+       "to": 56
+      },
+      {
+       "raw": "47-69",
+       "from_raw": "47",
+       "to_raw": "69",
+       "from": 47,
+       "to": 69
+      }
+     ]
+    },
+    {
+     "settlement": "ЖАРКОВО",
+     "settlement_lat": "ŽARKOVO",
+     "street": "ЈАБЛАНИЧКА",
+     "street_lat": "JABLANIČKA",
+     "numbers": [
+      {
+       "raw": "98-104",
+       "from_raw": "98",
+       "to_raw": "104",
+       "from": 98,
+       "to": 104
+      }
+     ]
+    },
+    {
+     "settlement": "ЖАРКОВО",
+     "settlement_lat": "ŽARKOVO",
+     "street": "КОСМАЈСКА",
+     "street_lat": "KOSMAJSKA",
+     "numbers": [
+      {
+       "raw": "40-42",
+       "from_raw": "40",
+       "to_raw": "42",
+       "from": 40,
+       "to": 42
+      },
+      {
+       "raw": "60-60б",
+       "from_raw": "60",
+       "to_raw": "60б",
+       "from": 60,
+       "to": 60
+      }
+     ]
+    },
+    {
+     "settlement": "ЖАРКОВО",
+     "settlement_lat": "ŽARKOVO",
+     "street": "КОТОРСКА",
+     "street_lat": "KOTORSKA",
+     "numbers": [
+      {
+       "raw": "2-14",
+       "from_raw": "2",
+       "to_raw": "14",
+       "from": 2,
+       "to": 14
+      },
+      {
+       "raw": "1-21",
+       "from_raw": "1",
+       "to_raw": "21",
+       "from": 1,
+       "to": 21
+      }
+     ]
+    },
+    {
+     "settlement": "ЖАРКОВО",
+     "settlement_lat": "ŽARKOVO",
+     "street": "ЛИПАР",
+     "street_lat": "LIPAR",
+     "numbers": [
+      {
+       "raw": "2-20",
+       "from_raw": "2",
+       "to_raw": "20",
+       "from": 2,
+       "to": 20
+      },
+      {
+       "raw": "1-23",
+       "from_raw": "1",
+       "to_raw": "23",
+       "from": 1,
+       "to": 23
+      }
+     ]
+    },
+    {
+     "settlement": "ЖАРКОВО",
+     "settlement_lat": "ŽARKOVO",
+     "street": "МОЈКОВАЧКА",
+     "street_lat": "MOJKOVAČKA",
+     "numbers": [
+      {
+       "raw": "2-58",
+       "from_raw": "2",
+       "to_raw": "58",
+       "from": 2,
+       "to": 58
+      },
+      {
+       "raw": "1А",
+       "from_raw": "1А",
+       "to_raw": "1А",
+       "from": 1,
+       "to": 1,
+       "without_number": false
+      }
+     ]
+    },
+    {
+     "settlement": "ЖАРКОВО",
+     "settlement_lat": "ŽARKOVO",
+     "street": "ПЕТЕФИЈЕВА",
+     "street_lat": "PETEFIJEVA",
+     "numbers": [
+      {
+       "raw": "8-20",
+       "from_raw": "8",
+       "to_raw": "20",
+       "from": 8,
+       "to": 20
+      },
+      {
+       "raw": "37-43",
+       "from_raw": "37",
+       "to_raw": "43",
+       "from": 37,
+       "to": 43
+      }
+     ]
+    },
+    {
+     "settlement": "ЖАРКОВО",
+     "settlement_lat": "ŽARKOVO",
+     "street": "ПРИШТИНСКА",
+     "street_lat": "PRIŠTINSKA",
+     "numbers": [
+      {
+       "raw": "60-70",
+       "from_raw": "60",
+       "to_raw": "70",
+       "from": 60,
+       "to": 70
+      },
+      {
+       "raw": "51-61",
+       "from_raw": "51",
+       "to_raw": "61",
+       "from": 51,
+       "to": 61
+      }
+     ]
+    },
+    {
+     "settlement": "ЖАРКОВО",
+     "settlement_lat": "ŽARKOVO",
+     "street": "САНЏАЧКА",
+     "street_lat": "SANDŽAČKA",
+     "numbers": [
+      {
+       "raw": "56-58",
+       "from_raw": "56",
+       "to_raw": "58",
+       "from": 56,
+       "to": 58
+      }
+     ]
+    },
+    {
+     "settlement": "ЖАРКОВО",
+     "settlement_lat": "ŽARKOVO",
+     "street": "СТОЈАНА МАТИЋА",
+     "street_lat": "STOJANA MATIĆA",
+     "numbers": [
+      {
+       "raw": "44-46",
+       "from_raw": "44",
+       "to_raw": "46",
+       "from": 44,
+       "to": 46
+      },
+      {
+       "raw": "39",
+       "from_raw": "39",
+       "to_raw": "39",
+       "from": 39,
+       "to": 39,
+       "without_number": false
+      },
+      {
+       "raw": "51",
+       "from_raw": "51",
+       "to_raw": "51",
+       "from": 51,
+       "to": 51,
+       "without_number": false
+      }
+     ]
+    },
+    {
+     "settlement": "ЖАРКОВО",
+     "settlement_lat": "ŽARKOVO",
+     "street": "ВАСИЛИЈА ИВАНОВИЋА",
+     "street_lat": "VASILIJA IVANOVIĆA",
+     "numbers": [
+      {
+       "raw": "2-14",
+       "from_raw": "2",
+       "to_raw": "14",
+       "from": 2,
+       "to": 14
+      },
+      {
+       "raw": "3-25",
+       "from_raw": "3",
+       "to_raw": "25",
+       "from": 3,
+       "to": 25
+      }
+     ]
+    }
+   ],
+   "raw": {
+    "municipality": "Чукарица",
+    "time": "08:30 - 14:00",
+    "streets": "ЉУБИЦЕ ИВОШЕВИЋ-ДИМИТРОВ: 44-56,47-69, Насеље ЖАРКОВО: ЈАБЛАНИЧКА: 98-104, КОСМАЈСКА: 40-42,60-60б, КОТОРСКА: 2-14,1-21, ЛИПАР: 2-20,1-23, МОЈКОВАЧКА: 2-58,1А, ПЕТЕФИЈЕВА: 8-20,37-43, ПРИШТИНСКА: 60-70,51-61, САНЏАЧКА: 56-58, СТОЈАНА МАТИЋА: 44-46,39,51, ВАСИЛИЈА ИВАНОВИЋА: 2-14,3-25,"
+   },
+   "raw_text_hash": "0e46d98f22dcb85c649cd8a750134a2019625a48cceb8d8e96234a33f609c92e",
+   "warnings": []
+  },
+  {
+   "key": "8b08570681582a71",
+   "source_id": "eds-bgd-dan0",
+   "source_url": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm",
+   "utility_type": "electricity",
+   "notice_type": "planned_work",
+   "status": "scheduled",
+   "verification": "official",
+   "date": "2026-10-16",
+   "municipality": "Гроцка",
+   "municipality_lat": "Grocka",
+   "time_text": "09:00 - 14:00",
+   "planned_start_at": "2026-10-16T09:00:00+02:00",
+   "planned_end_at": "2026-10-16T14:00:00+02:00",
+   "estimated_restoration_at": null,
+   "locations": [
+    {
+     "settlement": "ВРЧИН",
+     "settlement_lat": "VRČIN",
+     "street": "КАЈМАКЧАЛАНСКА",
+     "street_lat": "KAJMAKČALANSKA",
+     "numbers": [
+      {
+       "raw": "58-60",
+       "from_raw": "58",
+       "to_raw": "60",
+       "from": 58,
+       "to": 60
+      },
+      {
+       "raw": "66",
+       "from_raw": "66",
+       "to_raw": "66",
+       "from": 66,
+       "to": 66,
+       "without_number": false
+      },
+      {
+       "raw": "70-72",
+       "from_raw": "70",
+       "to_raw": "72",
+       "from": 70,
+       "to": 72
+      },
+      {
+       "raw": "82",
+       "from_raw": "82",
+       "to_raw": "82",
+       "from": 82,
+       "to": 82,
+       "without_number": false
+      },
+      {
+       "raw": "86",
+       "from_raw": "86",
+       "to_raw": "86",
+       "from": 86,
+       "to": 86,
+       "without_number": false
+      }
+     ]
+    },
+    {
+     "settlement": "ВРЧИН",
+     "settlement_lat": "VRČIN",
+     "street": "КАЈМАКЧАЛАНСКА ЧЕТВРТИ ДЕО",
+     "street_lat": "KAJMAKČALANSKA ČETVRTI DEO",
+     "numbers": [
+      {
+       "raw": "4-8А",
+       "from_raw": "4",
+       "to_raw": "8А",
+       "from": 4,
+       "to": 8
+      },
+      {
+       "raw": "12",
+       "from_raw": "12",
+       "to_raw": "12",
+       "from": 12,
+       "to": 12,
+       "without_number": false
+      },
+      {
+       "raw": "20-28",
+       "from_raw": "20",
+       "to_raw": "28",
+       "from": 20,
+       "to": 28
+      },
+      {
+       "raw": "34-36",
+       "from_raw": "34",
+       "to_raw": "36",
+       "from": 34,
+       "to": 36
+      },
+      {
+       "raw": "5-11",
+       "from_raw": "5",
+       "to_raw": "11",
+       "from": 5,
+       "to": 11
+      }
+     ]
+    },
+    {
+     "settlement": "ВРЧИН",
+     "settlement_lat": "VRČIN",
+     "street": "КАЈМАКЧАЛАНСКА ДРУГИ ДЕО",
+     "street_lat": "KAJMAKČALANSKA DRUGI DEO",
+     "numbers": [
+      {
+       "raw": "2-10",
+       "from_raw": "2",
+       "to_raw": "10",
+       "from": 2,
+       "to": 10
+      },
+      {
+       "raw": "16-22",
+       "from_raw": "16",
+       "to_raw": "22",
+       "from": 16,
+       "to": 22
+      }
+     ]
+    },
+    {
+     "settlement": "ВРЧИН",
+     "settlement_lat": "VRČIN",
+     "street": "КАЈМАКЧАЛАНСКА ПЕТИ ДЕО",
+     "street_lat": "KAJMAKČALANSKA PETI DEO",
+     "numbers": [
+      {
+       "raw": "6-10",
+       "from_raw": "6",
+       "to_raw": "10",
+       "from": 6,
+       "to": 10
+      }
+     ]
+    },
+    {
+     "settlement": "ВРЧИН",
+     "settlement_lat": "VRČIN",
+     "street": "КАЈМАКЧАЛАНСКА ПРВИ ДЕО",
+     "street_lat": "KAJMAKČALANSKA PRVI DEO",
+     "numbers": [
+      {
+       "raw": "2-10",
+       "from_raw": "2",
+       "to_raw": "10",
+       "from": 2,
+       "to": 10
+      },
+      {
+       "raw": "1-7",
+       "from_raw": "1",
+       "to_raw": "7",
+       "from": 1,
+       "to": 7
+      }
+     ]
+    },
+    {
+     "settlement": "ВРЧИН",
+     "settlement_lat": "VRČIN",
+     "street": "КАЈМАКЧАЛАНСКА ТРЕЋИ ДЕО",
+     "street_lat": "KAJMAKČALANSKA TREĆI DEO",
+     "numbers": [
+      {
+       "raw": "6-8",
+       "from_raw": "6",
+       "to_raw": "8",
+       "from": 6,
+       "to": 8
+      },
+      {
+       "raw": "1",
+       "from_raw": "1",
+       "to_raw": "1",
+       "from": 1,
+       "to": 1,
+       "without_number": false
+      }
+     ]
+    }
+   ],
+   "raw": {
+    "municipality": "Гроцка",
+    "time": "09:00 - 14:00",
+    "streets": "Насеље ВРЧИН: КАЈМАКЧАЛАНСКА: 58-60,66,70-72,82,86, КАЈМАКЧАЛАНСКА ЧЕТВРТИ ДЕО: 4-8А,12,20-28,34-36,5-11, КАЈМАКЧАЛАНСКА ДРУГИ ДЕО: 2-10,16-22, КАЈМАКЧАЛАНСКА ПЕТИ ДЕО: 6-10, КАЈМАКЧАЛАНСКА ПРВИ ДЕО: 2-10,1-7, КАЈМАКЧАЛАНСКА ТРЕЋИ ДЕО: 6-8,1,"
+   },
+   "raw_text_hash": "cef9b0382d794f9c560967958eac396a5c7ab9da33ec67a7a1f065db7995a1af",
+   "warnings": []
+  },
+  {
+   "key": "ec4cba7506c747b6",
+   "source_id": "eds-bgd-dan0",
+   "source_url": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm",
+   "utility_type": "electricity",
+   "notice_type": "planned_work",
+   "status": "scheduled",
+   "verification": "official",
+   "date": "2026-10-16",
+   "municipality": "Лазаревац",
+   "municipality_lat": "Lazarevac",
+   "time_text": "09:00 - 11:30",
+   "planned_start_at": "2026-10-16T09:00:00+02:00",
+   "planned_end_at": "2026-10-16T11:30:00+02:00",
+   "estimated_restoration_at": null,
+   "locations": [
+    {
+     "settlement": "Барзиловица",
+     "settlement_lat": "Barzilovica",
+     "street": null,
+     "street_lat": null,
+     "numbers": [],
+     "detail": "засеок Брајковачки пут"
+    }
+   ],
+   "raw": {
+    "municipality": "Лазаревац",
+    "time": "09:00 - 11:30",
+    "streets": "Насеље: Барзиловица ( засеок Брајковачки пут )."
+   },
+   "raw_text_hash": "19135656703852d1de21ee406fb2b2fe0f7c5601dd66c775bbe6260195c14182",
+   "warnings": [
+    "naselje bez navedenih ulica: 'Барзиловица' (засеок Брајковачки пут)"
+   ]
+  },
+  {
+   "key": "a53bcb2455fe6ba0",
+   "source_id": "eds-bgd-dan0",
+   "source_url": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm",
+   "utility_type": "electricity",
+   "notice_type": "planned_work",
+   "status": "scheduled",
+   "verification": "official",
+   "date": "2026-10-16",
+   "municipality": "Лазаревац",
+   "municipality_lat": "Lazarevac",
+   "time_text": "09:00 - 11:30",
+   "planned_start_at": "2026-10-16T09:00:00+02:00",
+   "planned_end_at": "2026-10-16T11:30:00+02:00",
+   "estimated_restoration_at": null,
+   "locations": [
+    {
+     "settlement": "Жупањац",
+     "settlement_lat": "Županjac",
+     "street": null,
+     "street_lat": null,
+     "numbers": []
+    },
+    {
+     "settlement": "Жупањац",
+     "settlement_lat": "Županjac",
+     "street": "Ибарски пут",
+     "street_lat": "Ibarski put",
+     "numbers": [
+      {
+       "raw": "420-531",
+       "from_raw": "420",
+       "to_raw": "531",
+       "from": 420,
+       "to": 531
+      }
+     ],
+     "detail": "од Протектирнице према Дому"
+    },
+    {
+     "settlement": "Жупањац",
+     "settlement_lat": "Županjac",
+     "street": "део улице Михаила Младеновића - Сеље",
+     "street_lat": "deo ulice Mihaila Mladenovića - Selje",
+     "numbers": []
+    },
+    {
+     "settlement": "Жупањац",
+     "settlement_lat": "Županjac",
+     "street": "Колубарских ратника",
+     "street_lat": "Kolubarskih ratnika",
+     "numbers": []
+    },
+    {
+     "settlement": "Жупањац",
+     "settlement_lat": "Županjac",
+     "street": "засеок \" Лазаревићи \"",
+     "street_lat": "zaseok \" Lazarevići \"",
+     "numbers": []
+    }
+   ],
+   "raw": {
+    "municipality": "Лазаревац",
+    "time": "09:00 - 11:30",
+    "streets": "Насеље: Жупањац, Улица : Ибарски пут 420-531 ( од Протектирнице према Дому ), део улице Михаила Младеновића - Сеље, Колубарских ратника, засеок \" Лазаревићи \"."
+   },
+   "raw_text_hash": "45260c83aa392f7c25df2b12c17ea5206f66e051bf495d14e348f4b7b85b94dd",
+   "warnings": [
+    "naselje bez navedenih ulica: 'Жупањац'",
+    "ulica bez kućnih brojeva: 'део улице Михаила Младеновића - Сеље'",
+    "ulica bez kućnih brojeva: 'Колубарских ратника'",
+    "ulica bez kućnih brojeva: 'засеок \" Лазаревићи \"'"
+   ]
+  },
+  {
+   "key": "768df7e5ef9a67ec",
+   "source_id": "eds-bgd-dan0",
+   "source_url": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm",
+   "utility_type": "electricity",
+   "notice_type": "planned_work",
+   "status": "scheduled",
+   "verification": "official",
+   "date": "2026-10-16",
+   "municipality": "Обреновац",
+   "municipality_lat": "Obrenovac",
+   "time_text": "09:00 - 13:00",
+   "planned_start_at": "2026-10-16T09:00:00+02:00",
+   "planned_end_at": "2026-10-16T13:00:00+02:00",
+   "estimated_restoration_at": null,
+   "locations": [
+    {
+     "settlement": "ЉУБИНИЋ",
+     "settlement_lat": "LJUBINIĆ",
+     "street": "ЦЕНТАР",
+     "street_lat": "CENTAR",
+     "numbers": [
+      {
+       "raw": "76",
+       "from_raw": "76",
+       "to_raw": "76",
+       "from": 76,
+       "to": 76,
+       "without_number": false
+      },
+      {
+       "raw": "82-86",
+       "from_raw": "82",
+       "to_raw": "86",
+       "from": 82,
+       "to": 86
+      },
+      {
+       "raw": "94-96",
+       "from_raw": "94",
+       "to_raw": "96",
+       "from": 94,
+       "to": 96
+      },
+      {
+       "raw": "122-128",
+       "from_raw": "122",
+       "to_raw": "128",
+       "from": 122,
+       "to": 128
+      },
+      {
+       "raw": "146",
+       "from_raw": "146",
+       "to_raw": "146",
+       "from": 146,
+       "to": 146,
+       "without_number": false
+      },
+      {
+       "raw": "156А-156Б",
+       "from_raw": "156А",
+       "to_raw": "156Б",
+       "from": 156,
+       "to": 156
+      },
+      {
+       "raw": "93-95",
+       "from_raw": "93",
+       "to_raw": "95",
+       "from": 93,
+       "to": 95
+      },
+      {
+       "raw": "115",
+       "from_raw": "115",
+       "to_raw": "115",
+       "from": 115,
+       "to": 115,
+       "without_number": false
+      },
+      {
+       "raw": "123",
+       "from_raw": "123",
+       "to_raw": "123",
+       "from": 123,
+       "to": 123,
+       "without_number": false
+      },
+      {
+       "raw": "147А-147Б",
+       "from_raw": "147А",
+       "to_raw": "147Б",
+       "from": 147,
+       "to": 147
+      },
+      {
+       "raw": "231",
+       "from_raw": "231",
+       "to_raw": "231",
+       "from": 231,
+       "to": 231,
+       "without_number": false
+      }
+     ]
+    },
+    {
+     "settlement": "ЉУБИНИЋ",
+     "settlement_lat": "LJUBINIĆ",
+     "street": "ДУБРАВА",
+     "street_lat": "DUBRAVA",
+     "numbers": [
+      {
+       "raw": "228Б",
+       "from_raw": "228Б",
+       "to_raw": "228Б",
+       "from": 228,
+       "to": 228,
+       "without_number": false
+      },
+      {
+       "raw": "217А",
+       "from_raw": "217А",
+       "to_raw": "217А",
+       "from": 217,
+       "to": 217,
+       "without_number": false
+      }
+     ]
+    },
+    {
+     "settlement": "ЉУБИНИЋ",
+     "settlement_lat": "LJUBINIĆ",
+     "street": "ГОРЊИ КРАЈ",
+     "street_lat": "GORNJI KRAJ",
+     "numbers": [
+      {
+       "raw": "128-128Б",
+       "from_raw": "128",
+       "to_raw": "128Б",
+       "from": 128,
+       "to": 128
+      },
+      {
+       "raw": "148-160",
+       "from_raw": "148",
+       "to_raw": "160",
+       "from": 148,
+       "to": 160
+      },
+      {
+       "raw": "172-174",
+       "from_raw": "172",
+       "to_raw": "174",
+       "from": 172,
+       "to": 174
+      },
+      {
+       "raw": "206",
+       "from_raw": "206",
+       "to_raw": "206",
+       "from": 206,
+       "to": 206,
+       "without_number": false
+      },
+      {
+       "raw": "214",
+       "from_raw": "214",
+       "to_raw": "214",
+       "from": 214,
+       "to": 214,
+       "without_number": false
+      },
+      {
+       "raw": "224-228",
+       "from_raw": "224",
+       "to_raw": "228",
+       "from": 224,
+       "to": 228
+      },
+      {
+       "raw": "234",
+       "from_raw": "234",
+       "to_raw": "234",
+       "from": 234,
+       "to": 234,
+       "without_number": false
+      },
+      {
+       "raw": "125",
+       "from_raw": "125",
+       "to_raw": "125",
+       "from": 125,
+       "to": 125,
+       "without_number": false
+      },
+      {
+       "raw": "147",
+       "from_raw": "147",
+       "to_raw": "147",
+       "from": 147,
+       "to": 147,
+       "without_number": false
+      },
+      {
+       "raw": "151-161",
+       "from_raw": "151",
+       "to_raw": "161",
+       "from": 151,
+       "to": 161
+      },
+      {
+       "raw": "219А",
+       "from_raw": "219А",
+       "to_raw": "219А",
+       "from": 219,
+       "to": 219,
+       "without_number": false
+      },
+      {
+       "raw": "225-227",
+       "from_raw": "225",
+       "to_raw": "227",
+       "from": 225,
+       "to": 227
+      },
+      {
+       "raw": "233Ј",
+       "from_raw": "233Ј",
+       "to_raw": "233Ј",
+       "from": 233,
+       "to": 233,
+       "without_number": false
+      }
+     ]
+    },
+    {
+     "settlement": "ЉУБИНИЋ",
+     "settlement_lat": "LJUBINIĆ",
+     "street": "ИВОВИЋА КРАЈ",
+     "street_lat": "IVOVIĆA KRAJ",
+     "numbers": [
+      {
+       "raw": "223",
+       "from_raw": "223",
+       "to_raw": "223",
+       "from": 223,
+       "to": 223,
+       "without_number": false
+      }
+     ]
+    },
+    {
+     "settlement": "ЉУБИНИЋ",
+     "settlement_lat": "LJUBINIĆ",
+     "street": "КОД ДОМА",
+     "street_lat": "KOD DOMA",
+     "numbers": [
+      {
+       "raw": "118А",
+       "from_raw": "118А",
+       "to_raw": "118А",
+       "from": 118,
+       "to": 118,
+       "without_number": false
+      },
+      {
+       "raw": "122Б",
+       "from_raw": "122Б",
+       "to_raw": "122Б",
+       "from": 122,
+       "to": 122,
+       "without_number": false
+      },
+      {
+       "raw": "1ББ",
+       "from_raw": "1ББ",
+       "to_raw": "1ББ",
+       "from": 1,
+       "to": 1,
+       "without_number": false
+      },
+      {
+       "raw": "97",
+       "from_raw": "97",
+       "to_raw": "97",
+       "from": 97,
+       "to": 97,
+       "without_number": false
+      },
+      {
+       "raw": "229Г",
+       "from_raw": "229Г",
+       "to_raw": "229Г",
+       "from": 229,
+       "to": 229,
+       "without_number": false
+      }
+     ]
+    },
+    {
+     "settlement": "ЉУБИНИЋ",
+     "settlement_lat": "LJUBINIĆ",
+     "street": "ЛИПОВИЦА",
+     "street_lat": "LIPOVICA",
+     "numbers": [
+      {
+       "raw": "0",
+       "from_raw": "0",
+       "to_raw": "0",
+       "from": 0,
+       "to": 0,
+       "without_number": false
+      },
+      {
+       "raw": "106",
+       "from_raw": "106",
+       "to_raw": "106",
+       "from": 106,
+       "to": 106,
+       "without_number": false
+      },
+      {
+       "raw": "148А",
+       "from_raw": "148А",
+       "to_raw": "148А",
+       "from": 148,
+       "to": 148,
+       "without_number": false
+      },
+      {
+       "raw": "160Б",
+       "from_raw": "160Б",
+       "to_raw": "160Б",
+       "from": 160,
+       "to": 160,
+       "without_number": false
+      },
+      {
+       "raw": "186",
+       "from_raw": "186",
+       "to_raw": "186",
+       "from": 186,
+       "to": 186,
+       "without_number": false
+      },
+      {
+       "raw": "206-208",
+       "from_raw": "206",
+       "to_raw": "208",
+       "from": 206,
+       "to": 208
+      },
+      {
+       "raw": "212",
+       "from_raw": "212",
+       "to_raw": "212",
+       "from": 212,
+       "to": 212,
+       "without_number": false
+      },
+      {
+       "raw": "216",
+       "from_raw": "216",
+       "to_raw": "216",
+       "from": 216,
+       "to": 216,
+       "without_number": false
+      },
+      {
+       "raw": "220-222",
+       "from_raw": "220",
+       "to_raw": "222",
+       "from": 220,
+       "to": 222
+      },
+      {
+       "raw": "226А-226Д",
+       "from_raw": "226А",
+       "to_raw": "226Д",
+       "from": 226,
+       "to": 226
+      },
+      {
+       "raw": "205-207",
+       "from_raw": "205",
+       "to_raw": "207",
+       "from": 205,
+       "to": 207
+      },
+      {
+       "raw": "211-211",
+       "from_raw": "211",
+       "to_raw": "211",
+       "from": 211,
+       "to": 211
+      },
+      {
+       "raw": "217-225Б",
+       "from_raw": "217",
+       "to_raw": "225Б",
+       "from": 217,
+       "to": 225
+      },
+      {
+       "raw": "229Б-231",
+       "from_raw": "229Б",
+       "to_raw": "231",
+       "from": 229,
+       "to": 231
+      }
+     ]
+    },
+    {
+     "settlement": "ЉУБИНИЋ",
+     "settlement_lat": "LJUBINIĆ",
+     "street": "ЉУБИНИЋ",
+     "street_lat": "LJUBINIĆ",
+     "numbers": [
+      {
+       "raw": "151А",
+       "from_raw": "151А",
+       "to_raw": "151А",
+       "from": 151,
+       "to": 151,
+       "without_number": false
+      }
+     ]
+    },
+    {
+     "settlement": "ЉУБИНИЋ",
+     "settlement_lat": "LJUBINIĆ",
+     "street": "МИЛОСАВЉЕВИЋА КРАЈ",
+     "street_lat": "MILOSAVLJEVIĆA KRAJ",
+     "numbers": [
+      {
+       "raw": "160А",
+       "from_raw": "160А",
+       "to_raw": "160А",
+       "from": 160,
+       "to": 160,
+       "without_number": false
+      }
+     ]
+    },
+    {
+     "settlement": "ЉУБИНИЋ",
+     "settlement_lat": "LJUBINIĆ",
+     "street": "МУЗИЧКА КОЛОНИЈА",
+     "street_lat": "MUZIČKA KOLONIJA",
+     "numbers": [
+      {
+       "raw": "168-170",
+       "from_raw": "168",
+       "to_raw": "170",
+       "from": 168,
+       "to": 170
+      },
+      {
+       "raw": "176",
+       "from_raw": "176",
+       "to_raw": "176",
+       "from": 176,
+       "to": 176,
+       "without_number": false
+      },
+      {
+       "raw": "180",
+       "from_raw": "180",
+       "to_raw": "180",
+       "from": 180,
+       "to": 180,
+       "without_number": false
+      },
+      {
+       "raw": "184",
+       "from_raw": "184",
+       "to_raw": "184",
+       "from": 184,
+       "to": 184,
+       "without_number": false
+      },
+      {
+       "raw": "17Б",
+       "from_raw": "17Б",
+       "to_raw": "17Б",
+       "from": 17,
+       "to": 17,
+       "without_number": false
+      },
+      {
+       "raw": "175",
+       "from_raw": "175",
+       "to_raw": "175",
+       "from": 175,
+       "to": 175,
+       "without_number": false
+      },
+      {
+       "raw": "185",
+       "from_raw": "185",
+       "to_raw": "185",
+       "from": 185,
+       "to": 185,
+       "without_number": false
+      }
+     ]
+    },
+    {
+     "settlement": "ЉУБИНИЋ",
+     "settlement_lat": "LJUBINIĆ",
+     "street": "ПАВЛОВИЋИ",
+     "street_lat": "PAVLOVIĆI",
+     "numbers": [
+      {
+       "raw": "188",
+       "from_raw": "188",
+       "to_raw": "188",
+       "from": 188,
+       "to": 188,
+       "without_number": false
+      }
+     ]
+    },
+    {
+     "settlement": "ЉУБИНИЋ",
+     "settlement_lat": "LJUBINIĆ",
+     "street": "ПУТ ЗА ОРАШАЦ",
+     "street_lat": "PUT ZA ORAŠAC",
+     "numbers": [
+      {
+       "raw": "180Б",
+       "from_raw": "180Б",
+       "to_raw": "180Б",
+       "from": 180,
+       "to": 180,
+       "without_number": false
+      },
+      {
+       "raw": "223Е",
+       "from_raw": "223Е",
+       "to_raw": "223Е",
+       "from": 223,
+       "to": 223,
+       "without_number": false
+      }
+     ]
+    },
+    {
+     "settlement": "ЉУБИНИЋ",
+     "settlement_lat": "LJUBINIĆ",
+     "street": "СИМИЋИ",
+     "street_lat": "SIMIĆI",
+     "numbers": [
+      {
+       "raw": "188-190Б",
+       "from_raw": "188",
+       "to_raw": "190Б",
+       "from": 188,
+       "to": 190
+      },
+      {
+       "raw": "194-198А",
+       "from_raw": "194",
+       "to_raw": "198А",
+       "from": 194,
+       "to": 198
+      },
+      {
+       "raw": "202",
+       "from_raw": "202",
+       "to_raw": "202",
+       "from": 202,
+       "to": 202,
+       "without_number": false
+      },
+      {
+       "raw": "189",
+       "from_raw": "189",
+       "to_raw": "189",
+       "from": 189,
+       "to": 189,
+       "without_number": false
+      },
+      {
+       "raw": "193-197",
+       "from_raw": "193",
+       "to_raw": "197",
+       "from": 193,
+       "to": 197
+      },
+      {
+       "raw": "201-203",
+       "from_raw": "201",
+       "to_raw": "203",
+       "from": 201,
+       "to": 203
+      }
+     ]
+    }
+   ],
+   "raw": {
+    "municipality": "Обреновац",
+    "time": "09:00 - 13:00",
+    "streets": "Насеље ЉУБИНИЋ: ЦЕНТАР: 76,82-86,94-96,122-128,146,156А-156Б,93-95,115,123,147А-147Б,231, ДУБРАВА: 228Б,217А, ГОРЊИ КРАЈ: 128-128Б,148-160,172-174,206,214,224-228,234,125,147,151-161,219А,225-227,233Ј, ИВОВИЋА КРАЈ: 223, КОД ДОМА: 118А,122Б,1ББ,97,229Г, ЛИПОВИЦА: 0,106,148А,160Б,186,206-208,212,216,220-222,226А-226Д,205-207,211-211,217-225Б,229Б-231, ЉУБИНИЋ: 151А, МИЛОСАВЉЕВИЋА КРАЈ: 160А, МУЗИЧКА КОЛОНИЈА: 168-170,176,180,184,17Б,175,185, ПАВЛОВИЋИ: 188, ПУТ ЗА ОРАШАЦ: 180Б,223Е, СИМИЋИ: 188-190Б,194-198А,202,189,193-197,201-203,"
+   },
+   "raw_text_hash": "d13ad4034349141f3eb1a0cacbc33b2a48b234d77951d88af8750523ea2ff168",
+   "warnings": []
+  },
+  {
+   "key": "a0cf01a0d553185e",
+   "source_id": "eds-bgd-dan0",
+   "source_url": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm",
+   "utility_type": "electricity",
+   "notice_type": "planned_work",
+   "status": "scheduled",
+   "verification": "official",
+   "date": "2026-10-16",
+   "municipality": "Савски венац",
+   "municipality_lat": "Savski venac",
+   "time_text": "09:00 - 11:00",
+   "planned_start_at": "2026-10-16T09:00:00+02:00",
+   "planned_end_at": "2026-10-16T11:00:00+02:00",
+   "estimated_restoration_at": null,
+   "locations": [
+    {
+     "settlement": null,
+     "settlement_lat": null,
+     "street": "Вишеградска",
+     "street_lat": "Višegradska",
+     "numbers": [
+      {
+       "raw": "27-27В/1",
+       "from_raw": "27",
+       "to_raw": "27В/1",
+       "from": 27,
+       "to": 27
+      }
+     ]
+    }
+   ],
+   "raw": {
+    "municipality": "Савски венац",
+    "time": "09:00 - 11:00",
+    "streets": "Вишеградска 27-27 В/1."
+   },
+   "raw_text_hash": "256d17d05e30192353c7d04ca2effa63004ff00819e33b5fc912069786bdf3ff",
+   "warnings": [
+    "slobodan format, broj izdvojen: 'Вишеградска 27-27 В/1.'"
+   ]
+  },
+  {
+   "key": "dce2435a21570065",
+   "source_id": "eds-bgd-dan0",
+   "source_url": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm",
+   "utility_type": "electricity",
+   "notice_type": "planned_work",
+   "status": "scheduled",
+   "verification": "official",
+   "date": "2026-10-16",
+   "municipality": "Вождовац",
+   "municipality_lat": "Voždovac",
+   "time_text": "09:00 - 14:00",
+   "planned_start_at": "2026-10-16T09:00:00+02:00",
+   "planned_end_at": "2026-10-16T14:00:00+02:00",
+   "estimated_restoration_at": null,
+   "locations": [
+    {
+     "settlement": "РИПАЊ",
+     "settlement_lat": "RIPANJ",
+     "street": "ПУТ ЗА ПЕЋИНЕ",
+     "street_lat": "PUT ZA PEĆINE",
+     "numbers": [
+      {
+       "raw": "36-36В",
+       "from_raw": "36",
+       "to_raw": "36В",
+       "from": 36,
+       "to": 36
+      },
+      {
+       "raw": "40-42",
+       "from_raw": "40",
+       "to_raw": "42",
+       "from": 40,
+       "to": 42
+      },
+      {
+       "raw": "50-50А",
+       "from_raw": "50",
+       "to_raw": "50А",
+       "from": 50,
+       "to": 50
+      },
+      {
+       "raw": "54-56",
+       "from_raw": "54",
+       "to_raw": "56",
+       "from": 54,
+       "to": 56
+      },
+      {
+       "raw": "98-100",
+       "from_raw": "98",
+       "to_raw": "100",
+       "from": 98,
+       "to": 100
+      },
+      {
+       "raw": "3А",
+       "from_raw": "3А",
+       "to_raw": "3А",
+       "from": 3,
+       "to": 3,
+       "without_number": false
+      }
+     ]
+    },
+    {
+     "settlement": "РИПАЊ",
+     "settlement_lat": "RIPANJ",
+     "street": "ПУТ ЗА ПЕЋИНЕ2 ДЕО",
+     "street_lat": "PUT ZA PEĆINE2 DEO",
+     "numbers": [
+      {
+       "raw": "2",
+       "from_raw": "2",
+       "to_raw": "2",
+       "from": 2,
+       "to": 2,
+       "without_number": false
+      },
+      {
+       "raw": "1-3",
+       "from_raw": "1",
+       "to_raw": "3",
+       "from": 1,
+       "to": 3
+      }
+     ]
+    }
+   ],
+   "raw": {
+    "municipality": "Вождовац",
+    "time": "09:00 - 14:00",
+    "streets": "Насеље РИПАЊ: ПУТ ЗА ПЕЋИНЕ: 36-36В,40-42,50-50А,54-56,98-100,3А, ПУТ ЗА ПЕЋИНЕ2 ДЕО: 2,1-3,"
+   },
+   "raw_text_hash": "d1750d695525a5469023592542fe877d8900ccae9505582e4983af3c6e06044f",
+   "warnings": []
+  },
+  {
+   "key": "cea905a8c6505a15",
+   "source_id": "eds-bgd-dan0",
+   "source_url": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm",
+   "utility_type": "electricity",
+   "notice_type": "planned_work",
+   "status": "scheduled",
+   "verification": "official",
+   "date": "2026-10-16",
+   "municipality": "Земун",
+   "municipality_lat": "Zemun",
+   "time_text": "09:00 - 14:00",
+   "planned_start_at": "2026-10-16T09:00:00+02:00",
+   "planned_end_at": "2026-10-16T14:00:00+02:00",
+   "estimated_restoration_at": null,
+   "locations": [
+    {
+     "settlement": null,
+     "settlement_lat": null,
+     "street": "НОВОГРАДСКА",
+     "street_lat": "NOVOGRADSKA",
+     "numbers": [
+      {
+       "raw": "34-52А",
+       "from_raw": "34",
+       "to_raw": "52А",
+       "from": 34,
+       "to": 52
+      },
+      {
+       "raw": "27-39",
+       "from_raw": "27",
+       "to_raw": "39",
+       "from": 27,
+       "to": 39
+      }
+     ]
+    },
+    {
+     "settlement": null,
+     "settlement_lat": null,
+     "street": "ПИНКИЈЕВА",
+     "street_lat": "PINKIJEVA",
+     "numbers": [
+      {
+       "raw": "2-8",
+       "from_raw": "2",
+       "to_raw": "8",
+       "from": 2,
+       "to": 8
+      },
+      {
+       "raw": "1-5А",
+       "from_raw": "1",
+       "to_raw": "5А",
+       "from": 1,
+       "to": 5
+      }
+     ]
+    },
+    {
+     "settlement": null,
+     "settlement_lat": null,
+     "street": "УГРИНОВАЧКА",
+     "street_lat": "UGRINOVAČKA",
+     "numbers": [
+      {
+       "raw": "22-28",
+       "from_raw": "22",
+       "to_raw": "28",
+       "from": 22,
+       "to": 28
+      },
+      {
+       "raw": "32",
+       "from_raw": "32",
+       "to_raw": "32",
+       "from": 32,
+       "to": 32,
+       "without_number": false
+      },
+      {
+       "raw": "38-56",
+       "from_raw": "38",
+       "to_raw": "56",
+       "from": 38,
+       "to": 56
+      },
+      {
+       "raw": "15А",
+       "from_raw": "15А",
+       "to_raw": "15А",
+       "from": 15,
+       "to": 15,
+       "without_number": false
+      },
+      {
+       "raw": "19-23В/4",
+       "from_raw": "19",
+       "to_raw": "23В/4",
+       "from": 19,
+       "to": 23
+      },
+      {
+       "raw": "27-45",
+       "from_raw": "27",
+       "to_raw": "45",
+       "from": 27,
+       "to": 45
+      }
+     ]
+    }
+   ],
+   "raw": {
+    "municipality": "Земун",
+    "time": "09:00 - 14:00",
+    "streets": "НОВОГРАДСКА: 34-52А,27-39, ПИНКИЈЕВА: 2-8,1-5А, УГРИНОВАЧКА: 22-28,32,38-56,15А,19-23В/4,27-45,"
+   },
+   "raw_text_hash": "59c12079cdbb7355297e99da4f84a26b2b58232b3c28414f8fb95474116ebdd2",
+   "warnings": []
+  },
+  {
+   "key": "2f099664d18b2619",
+   "source_id": "eds-bgd-dan0",
+   "source_url": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm",
+   "utility_type": "electricity",
+   "notice_type": "planned_work",
+   "status": "scheduled",
+   "verification": "official",
+   "date": "2026-10-16",
+   "municipality": "Звездара",
+   "municipality_lat": "Zvezdara",
+   "time_text": "09:00 - 14:00",
+   "planned_start_at": "2026-10-16T09:00:00+02:00",
+   "planned_end_at": "2026-10-16T14:00:00+02:00",
+   "estimated_restoration_at": null,
+   "locations": [
+    {
+     "settlement": null,
+     "settlement_lat": null,
+     "street": "БУЛ КРАЉ.АЛЕКСАНДРА",
+     "street_lat": "BUL KRALJ.ALEKSANDRA",
+     "numbers": [
+      {
+       "raw": "405Б",
+       "from_raw": "405Б",
+       "to_raw": "405Б",
+       "from": 405,
+       "to": 405,
+       "without_number": false
+      }
+     ]
+    }
+   ],
+   "raw": {
+    "municipality": "Звездара",
+    "time": "09:00 - 14:00",
+    "streets": "БУЛ КРАЉ.АЛЕКСАНДРА: 405Б,"
+   },
+   "raw_text_hash": "09631827590be94151ba5cdf93171ee7f9ba942548733f4749eefa6120f2bce1",
+   "warnings": []
+  },
+  {
+   "key": "97b7291cd7576597",
+   "source_id": "eds-bgd-dan1",
+   "source_url": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm",
+   "utility_type": "electricity",
+   "notice_type": "planned_work",
+   "status": "scheduled",
+   "verification": "official",
+   "date": "2026-10-17",
+   "municipality": "Земун",
+   "municipality_lat": "Zemun",
+   "time_text": "08:00 - 20:00",
+   "planned_start_at": "2026-10-17T08:00:00+02:00",
+   "planned_end_at": "2026-10-17T20:00:00+02:00",
+   "estimated_restoration_at": null,
+   "locations": [
+    {
+     "settlement": "БАТАЈНИЦА",
+     "settlement_lat": "BATAJNICA",
+     "street": "ПУКОВНИКА МИЛЕНКА ПАВЛОВИЋА",
+     "street_lat": "PUKOVNIKA MILENKA PAVLOVIĆA",
+     "numbers": [
+      {
+       "raw": "160",
+       "from_raw": "160",
+       "to_raw": "160",
+       "from": 160,
+       "to": 160,
+       "without_number": false
+      }
+     ]
+    }
+   ],
+   "raw": {
+    "municipality": "Земун",
+    "time": "08:00 - 20:00",
+    "streets": "Насеље БАТАЈНИЦА: ПУКОВНИКА МИЛЕНКА ПАВЛОВИЋА : 160,"
+   },
+   "raw_text_hash": "1e8d935ac9e42cb0eb74f54a9e086ffb87525f873d1577f3eb4e4215f3095510",
+   "warnings": []
+  },
+  {
+   "key": "6f7305cdee0d709b",
+   "source_id": "eds-bgd-dan1",
+   "source_url": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm",
+   "utility_type": "electricity",
+   "notice_type": "planned_work",
+   "status": "scheduled",
+   "verification": "official",
+   "date": "2026-10-17",
+   "municipality": "Вождовац",
+   "municipality_lat": "Voždovac",
+   "time_text": "10:00 - 14:00",
+   "planned_start_at": "2026-10-17T10:00:00+02:00",
+   "planned_end_at": "2026-10-17T14:00:00+02:00",
+   "estimated_restoration_at": null,
+   "locations": [
+    {
+     "settlement": null,
+     "settlement_lat": null,
+     "street": "УСТАНИЧКА",
+     "street_lat": "USTANIČKA",
+     "numbers": [
+      {
+       "raw": "130",
+       "from_raw": "130",
+       "to_raw": "130",
+       "from": 130,
+       "to": 130,
+       "without_number": false
+      }
+     ]
+    }
+   ],
+   "raw": {
+    "municipality": "Вождовац",
+    "time": "10:00 - 14:00",
+    "streets": "УСТАНИЧКА: 130,"
+   },
+   "raw_text_hash": "633f48d353d18e32d405ee1431caf72f33b5ce201b19b2ee073a73ac43d13615",
+   "warnings": []
+  },
+  {
+   "key": "0bb30f610de638a4",
+   "source_id": "eds-bgd-dan1",
+   "source_url": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm",
+   "utility_type": "electricity",
+   "notice_type": "planned_work",
+   "status": "scheduled",
+   "verification": "official",
+   "date": "2026-10-17",
+   "municipality": "Земун",
+   "municipality_lat": "Zemun",
+   "time_text": "10:00 - 12:30",
+   "planned_start_at": "2026-10-17T10:00:00+02:00",
+   "planned_end_at": "2026-10-17T12:30:00+02:00",
+   "estimated_restoration_at": null,
+   "locations": [
+    {
+     "settlement": null,
+     "settlement_lat": null,
+     "street": "БАЧКИ ИЛОВИК",
+     "street_lat": "BAČKI ILOVIK",
+     "numbers": [
+      {
+       "raw": "12-14",
+       "from_raw": "12",
+       "to_raw": "14",
+       "from": 12,
+       "to": 14
+      },
+      {
+       "raw": "18-26",
+       "from_raw": "18",
+       "to_raw": "26",
+       "from": 18,
+       "to": 26
+      },
+      {
+       "raw": "38",
+       "from_raw": "38",
+       "to_raw": "38",
+       "from": 38,
+       "to": 38,
+       "without_number": false
+      },
+      {
+       "raw": "52-66В/1",
+       "from_raw": "52",
+       "to_raw": "66В/1",
+       "from": 52,
+       "to": 66
+      },
+      {
+       "raw": "72-78",
+       "from_raw": "72",
+       "to_raw": "78",
+       "from": 72,
+       "to": 78
+      },
+      {
+       "raw": "90",
+       "from_raw": "90",
+       "to_raw": "90",
+       "from": 90,
+       "to": 90,
+       "without_number": false
+      },
+      {
+       "raw": "11-27Б",
+       "from_raw": "11",
+       "to_raw": "27Б",
+       "from": 11,
+       "to": 27
+      },
+      {
+       "raw": "35-37",
+       "from_raw": "35",
+       "to_raw": "37",
+       "from": 35,
+       "to": 37
+      },
+      {
+       "raw": "53-77",
+       "from_raw": "53",
+       "to_raw": "77",
+       "from": 53,
+       "to": 77
+      },
+      {
+       "raw": "99",
+       "from_raw": "99",
+       "to_raw": "99",
+       "from": 99,
+       "to": 99,
+       "without_number": false
+      }
+     ]
+    }
+   ],
+   "raw": {
+    "municipality": "Земун",
+    "time": "10:00 - 12:30",
+    "streets": "БАЧКИ ИЛОВИК: 12-14,18-26,38,52-66В/1,72-78,90,11-27Б,35-37,53-77,99,"
+   },
+   "raw_text_hash": "8988c0c3186f074d200bdcb09f39a8c9ec50aae6dda0221c9c35e9993aa1bff4",
+   "warnings": []
+  },
+  {
+   "key": "e87b670262642e36",
+   "source_id": "eds-bgd-dan2",
+   "source_url": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm",
+   "utility_type": "electricity",
+   "notice_type": "planned_work",
+   "status": "scheduled",
+   "verification": "official",
+   "date": "2026-10-18",
+   "municipality": "Земун",
+   "municipality_lat": "Zemun",
+   "time_text": "15:00 - 20:00",
+   "planned_start_at": "2026-10-18T15:00:00+02:00",
+   "planned_end_at": "2026-10-18T20:00:00+02:00",
+   "estimated_restoration_at": null,
+   "locations": [
+    {
+     "settlement": null,
+     "settlement_lat": null,
+     "street": "ТРШЋАНСКА",
+     "street_lat": "TRŠĆANSKA",
+     "numbers": [
+      {
+       "raw": "21",
+       "from_raw": "21",
+       "to_raw": "21",
+       "from": 21,
+       "to": 21,
+       "without_number": false
+      }
+     ]
+    }
+   ],
+   "raw": {
+    "municipality": "Земун",
+    "time": "15:00 - 20:00",
+    "streets": "ТРШЋАНСКА: 21,"
+   },
+   "raw_text_hash": "812a0bcf90f36712198e90700d75196bd2b828a7fa8b7708c73c61bdaf227818",
+   "warnings": []
+  },
+  {
+   "key": "3dc59d1bfa5fc6cc",
+   "source_id": "eds-bgd-dan3",
+   "source_url": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm",
+   "utility_type": "electricity",
+   "notice_type": "planned_work",
+   "status": "scheduled",
+   "verification": "official",
+   "date": "2026-10-19",
+   "municipality": "Обреновац",
+   "municipality_lat": "Obrenovac",
+   "time_text": "08:30 - 15:00",
+   "planned_start_at": "2026-10-19T08:30:00+02:00",
+   "planned_end_at": "2026-10-19T15:00:00+02:00",
+   "estimated_restoration_at": null,
+   "locations": [
+    {
+     "settlement": "МАЛА МОШТАНИЦА",
+     "settlement_lat": "MALA MOŠTANICA",
+     "street": "БУКВАРСКА",
+     "street_lat": "BUKVARSKA",
+     "numbers": [
+      {
+       "raw": "5",
+       "from_raw": "5",
+       "to_raw": "5",
+       "from": 5,
+       "to": 5,
+       "without_number": false
+      }
+     ]
+    },
+    {
+     "settlement": "МАЛА МОШТАНИЦА",
+     "settlement_lat": "MALA MOŠTANICA",
+     "street": "МОШТАНИЧКА",
+     "street_lat": "MOŠTANIČKA",
+     "numbers": [
+      {
+       "raw": "114Б-118",
+       "from_raw": "114Б",
+       "to_raw": "118",
+       "from": 114,
+       "to": 118
+      },
+      {
+       "raw": "124-134",
+       "from_raw": "124",
+       "to_raw": "134",
+       "from": 124,
+       "to": 134
+      },
+      {
+       "raw": "138-144",
+       "from_raw": "138",
+       "to_raw": "144",
+       "from": 138,
+       "to": 144
+      },
+      {
+       "raw": "101-111",
+       "from_raw": "101",
+       "to_raw": "111",
+       "from": 101,
+       "to": 111
+      },
+      {
+       "raw": "115-129",
+       "from_raw": "115",
+       "to_raw": "129",
+       "from": 115,
+       "to": 129
+      }
+     ]
+    },
+    {
+     "settlement": "МАЛА МОШТАНИЦА",
+     "settlement_lat": "MALA MOŠTANICA",
+     "street": "ПРОФЕСОРСКА",
+     "street_lat": "PROFESORSKA",
+     "numbers": [
+      {
+       "raw": "4",
+       "from_raw": "4",
+       "to_raw": "4",
+       "from": 4,
+       "to": 4,
+       "without_number": false
+      },
+      {
+       "raw": "12-14",
+       "from_raw": "12",
+       "to_raw": "14",
+       "from": 12,
+       "to": 14
+      },
+      {
+       "raw": "3-17",
+       "from_raw": "3",
+       "to_raw": "17",
+       "from": 3,
+       "to": 17
+      },
+      {
+       "raw": "21",
+       "from_raw": "21",
+       "to_raw": "21",
+       "from": 21,
+       "to": 21,
+       "without_number": false
+      }
+     ]
+    }
+   ],
+   "raw": {
+    "municipality": "Обреновац",
+    "time": "08:30 - 15:00",
+    "streets": "Насеље МАЛА МОШТАНИЦА: БУКВАРСКА: 5, МОШТАНИЧКА: 114Б-118,124-134,138-144,101-111,115-129, ПРОФЕСОРСКА: 4,12-14,3-17,21,"
+   },
+   "raw_text_hash": "13a6ddb766fb986c6430ab13ffe8852beda4f608ebd3f27412708361890a4a54",
+   "warnings": []
+  },
+  {
+   "key": "c79b2bbb09e8ad2d",
+   "source_id": "eds-bgd-dan3",
+   "source_url": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm",
+   "utility_type": "electricity",
+   "notice_type": "planned_work",
+   "status": "scheduled",
+   "verification": "official",
+   "date": "2026-10-19",
+   "municipality": "Звездара",
+   "municipality_lat": "Zvezdara",
+   "time_text": "08:30 - 14:00",
+   "planned_start_at": "2026-10-19T08:30:00+02:00",
+   "planned_end_at": "2026-10-19T14:00:00+02:00",
+   "estimated_restoration_at": null,
+   "locations": [
+    {
+     "settlement": null,
+     "settlement_lat": null,
+     "street": "БУЛ КРАЉ.АЛЕКСАНДРА",
+     "street_lat": "BUL KRALJ.ALEKSANDRA",
+     "numbers": [
+      {
+       "raw": "167А-167А",
+       "from_raw": "167А",
+       "to_raw": "167А",
+       "from": 167,
+       "to": 167
+      },
+      {
+       "raw": "177-195А",
+       "from_raw": "177",
+       "to_raw": "195А",
+       "from": 177,
+       "to": 195
+      }
+     ]
+    },
+    {
+     "settlement": null,
+     "settlement_lat": null,
+     "street": "ЧЕДЕ МИЈАТОВИЋА",
+     "street_lat": "ČEDE MIJATOVIĆA",
+     "numbers": [
+      {
+       "raw": "4-8",
+       "from_raw": "4",
+       "to_raw": "8",
+       "from": 4,
+       "to": 8
+      },
+      {
+       "raw": "1-7",
+       "from_raw": "1",
+       "to_raw": "7",
+       "from": 1,
+       "to": 7
+      }
+     ]
+    },
+    {
+     "settlement": null,
+     "settlement_lat": null,
+     "street": "ЂЕВЂЕЛИЈСКА",
+     "street_lat": "ĐEVĐELIJSKA",
+     "numbers": [
+      {
+       "raw": "30-38",
+       "from_raw": "30",
+       "to_raw": "38",
+       "from": 30,
+       "to": 38
+      },
+      {
+       "raw": "42",
+       "from_raw": "42",
+       "to_raw": "42",
+       "from": 42,
+       "to": 42,
+       "without_number": false
+      },
+      {
+       "raw": "51",
+       "from_raw": "51",
+       "to_raw": "51",
+       "from": 51,
+       "to": 51,
+       "without_number": false
+      },
+      {
+       "raw": "63-63",
+       "from_raw": "63",
+       "to_raw": "63",
+       "from": 63,
+       "to": 63
+      },
+      {
+       "raw": "71-89",
+       "from_raw": "71",
+       "to_raw": "89",
+       "from": 71,
+       "to": 89
+      }
+     ]
+    },
+    {
+     "settlement": null,
+     "settlement_lat": null,
+     "street": "ДИМИТРИЈА ДАВИДОВИЋА",
+     "street_lat": "DIMITRIJA DAVIDOVIĆA",
+     "numbers": [
+      {
+       "raw": "4",
+       "from_raw": "4",
+       "to_raw": "4",
+       "from": 4,
+       "to": 4,
+       "without_number": false
+      },
+      {
+       "raw": "8-8",
+       "from_raw": "8",
+       "to_raw": "8",
+       "from": 8,
+       "to": 8
+      },
+      {
+       "raw": "1",
+       "from_raw": "1",
+       "to_raw": "1",
+       "from": 1,
+       "to": 1,
+       "without_number": false
+      }
+     ]
+    },
+    {
+     "settlement": null,
+     "settlement_lat": null,
+     "street": "МИЛАНА РАКИЋА",
+     "street_lat": "MILANA RAKIĆA",
+     "numbers": [
+      {
+       "raw": "4-8",
+       "from_raw": "4",
+       "to_raw": "8",
+       "from": 4,
+       "to": 8
+      },
+      {
+       "raw": "12-36Ф/8",
+       "from_raw": "12",
+       "to_raw": "36Ф/8",
+       "from": 12,
+       "to": 36
+      },
+      {
+       "raw": "3",
+       "from_raw": "3",
+       "to_raw": "3",
+       "from": 3,
+       "to": 3,
+       "without_number": false
+      },
+      {
+       "raw": "7-33",
+       "from_raw": "7",
+       "to_raw": "33",
+       "from": 7,
+       "to": 33
+      }
+     ]
+    },
+    {
+     "settlement": null,
+     "settlement_lat": null,
+     "street": "МИЛОША ЗЕЧЕВИЋА",
+     "street_lat": "MILOŠA ZEČEVIĆA",
+     "numbers": [
+      {
+       "raw": "6-12",
+       "from_raw": "6",
+       "to_raw": "12",
+       "from": 6,
+       "to": 12
+      },
+      {
+       "raw": "9",
+       "from_raw": "9",
+       "to_raw": "9",
+       "from": 9,
+       "to": 9,
+       "without_number": false
+      }
+     ]
+    },
+    {
+     "settlement": null,
+     "settlement_lat": null,
+     "street": "ПРЕШЕВСКА",
+     "street_lat": "PREŠEVSKA",
+     "numbers": [
+      {
+       "raw": "44",
+       "from_raw": "44",
+       "to_raw": "44",
+       "from": 44,
+       "to": 44,
+       "without_number": false
+      },
+      {
+       "raw": "48",
+       "from_raw": "48",
+       "to_raw": "48",
+       "from": 48,
+       "to": 48,
+       "without_number": false
+      },
+      {
+       "raw": "52-54",
+       "from_raw": "52",
+       "to_raw": "54",
+       "from": 52,
+       "to": 54
+      },
+      {
+       "raw": "60",
+       "from_raw": "60",
+       "to_raw": "60",
+       "from": 60,
+       "to": 60,
+       "without_number": false
+      },
+      {
+       "raw": "31",
+       "from_raw": "31",
+       "to_raw": "31",
+       "from": 31,
+       "to": 31,
+       "without_number": false
+      }
+     ]
+    },
+    {
+     "settlement": null,
+     "settlement_lat": null,
+     "street": "РАДОЈА ДОМАНОВИЋА",
+     "street_lat": "RADOJA DOMANOVIĆA",
+     "numbers": [
+      {
+       "raw": "4",
+       "from_raw": "4",
+       "to_raw": "4",
+       "from": 4,
+       "to": 4,
+       "without_number": false
+      },
+      {
+       "raw": "1-5",
+       "from_raw": "1",
+       "to_raw": "5",
+       "from": 1,
+       "to": 5
+      },
+      {
+       "raw": "9-11",
+       "from_raw": "9",
+       "to_raw": "11",
+       "from": 9,
+       "to": 11
+      },
+      {
+       "raw": "19-25",
+       "from_raw": "19",
+       "to_raw": "25",
+       "from": 19,
+       "to": 25
+      }
+     ]
+    },
+    {
+     "settlement": null,
+     "settlement_lat": null,
+     "street": "ШАБАЧКА",
+     "street_lat": "ŠABAČKA",
+     "numbers": [
+      {
+       "raw": "2-4",
+       "from_raw": "2",
+       "to_raw": "4",
+       "from": 2,
+       "to": 4
+      },
+      {
+       "raw": "7",
+       "from_raw": "7",
+       "to_raw": "7",
+       "from": 7,
+       "to": 7,
+       "without_number": false
+      }
+     ]
+    }
+   ],
+   "raw": {
+    "municipality": "Звездара",
+    "time": "08:30 - 14:00",
+    "streets": "БУЛ КРАЉ.АЛЕКСАНДРА: 167А-167А,177-195А, ЧЕДЕ МИЈАТОВИЋА: 4-8,1-7, ЂЕВЂЕЛИЈСКА: 30-38,42,51,63-63,71-89, ДИМИТРИЈА ДАВИДОВИЋА: 4,8-8,1, МИЛАНА РАКИЋА: 4-8,12-36Ф/8,3,7-33, МИЛОША ЗЕЧЕВИЋА: 6-12,9, ПРЕШЕВСКА: 44,48,52-54,60,31, РАДОЈА ДОМАНОВИЋА: 4,1-5,9-11,19-25, ШАБАЧКА: 2-4,7,"
+   },
+   "raw_text_hash": "233801a1fa24919817a0347bb6b0e6889e4970a670136431bd4455e95ef72dc0",
+   "warnings": []
+  },
+  {
+   "key": "7225db786b9bc58c",
+   "source_id": "eds-bgd-dan3",
+   "source_url": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm",
+   "utility_type": "electricity",
+   "notice_type": "planned_work",
+   "status": "scheduled",
+   "verification": "official",
+   "date": "2026-10-19",
+   "municipality": "Лазаревац",
+   "municipality_lat": "Lazarevac",
+   "time_text": "09:00 - 14:00",
+   "planned_start_at": "2026-10-19T09:00:00+02:00",
+   "planned_end_at": "2026-10-19T14:00:00+02:00",
+   "estimated_restoration_at": null,
+   "locations": [
+    {
+     "settlement": "Латковић",
+     "settlement_lat": "Latković",
+     "street": null,
+     "street_lat": null,
+     "numbers": [],
+     "detail": "засеок Јосиповићи,Кула"
+    },
+    {
+     "settlement": "Латковић",
+     "settlement_lat": "Latković",
+     "street": "Чибутковица",
+     "street_lat": "Čibutkovica",
+     "numbers": []
+    },
+    {
+     "settlement": "Латковић",
+     "settlement_lat": "Latković",
+     "street": "Жупањац",
+     "street_lat": "Županjac",
+     "numbers": []
+    }
+   ],
+   "raw": {
+    "municipality": "Лазаревац",
+    "time": "09:00 - 14:00",
+    "streets": "Насеље Латковић (засеок Јосиповићи,Кула), Чибутковица,Жупањац."
+   },
+   "raw_text_hash": "699f513702fd04b4064b35691344fe2879a014e2b03388559ef3d62416653619",
+   "warnings": [
+    "naselje bez navedenih ulica: 'Латковић' (засеок Јосиповићи,Кула)",
+    "ulica bez kućnih brojeva: 'Чибутковица'",
+    "ulica bez kućnih brojeva: 'Жупањац'"
+   ]
+  },
+  {
+   "key": "067697a3a08472d8",
+   "source_id": "eds-bgd-dan3",
+   "source_url": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm",
+   "utility_type": "electricity",
+   "notice_type": "planned_work",
+   "status": "scheduled",
+   "verification": "official",
+   "date": "2026-10-19",
+   "municipality": "Лазаревац",
+   "municipality_lat": "Lazarevac",
+   "time_text": "09:00 - 15:00",
+   "planned_start_at": "2026-10-19T09:00:00+02:00",
+   "planned_end_at": "2026-10-19T15:00:00+02:00",
+   "estimated_restoration_at": null,
+   "locations": [
+    {
+     "settlement": "Белановица",
+     "settlement_lat": "Belanovica",
+     "street": null,
+     "street_lat": null,
+     "numbers": [],
+     "detail": "насеље Качер-коп,Водовод,Дрењине"
+    }
+   ],
+   "raw": {
+    "municipality": "Лазаревац",
+    "time": "09:00 - 15:00",
+    "streets": "Општина Љиг: насеље Белановица (насеље Качер-коп,Водовод,Дрењине)."
+   },
+   "raw_text_hash": "9f6a0ebee194ab87e334f833362e36864b4d9c72c79cf53ebb66535ce36ab26c",
+   "warnings": [
+    "pominje drugu opštinu: 'Љиг'",
+    "naselje bez navedenih ulica: 'Белановица' (насеље Качер-коп,Водовод,Дрењине)"
+   ]
+  },
+  {
+   "key": "ccca3631cb73ebe6",
+   "source_id": "eds-bgd-dan3",
+   "source_url": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm",
+   "utility_type": "electricity",
+   "notice_type": "planned_work",
+   "status": "scheduled",
+   "verification": "official",
+   "date": "2026-10-19",
+   "municipality": "Младеновац",
+   "municipality_lat": "Mladenovac",
+   "time_text": "09:00 - 14:00",
+   "planned_start_at": "2026-10-19T09:00:00+02:00",
+   "planned_end_at": "2026-10-19T14:00:00+02:00",
+   "estimated_restoration_at": null,
+   "locations": [
+    {
+     "settlement": "ГРАНИЦЕ",
+     "settlement_lat": "GRANICE",
+     "street": "НОВА 7",
+     "street_lat": "NOVA 7",
+     "numbers": [
+      {
+       "raw": "2",
+       "from_raw": "2",
+       "to_raw": "2",
+       "from": 2,
+       "to": 2,
+       "without_number": false
+      },
+      {
+       "raw": "3",
+       "from_raw": "3",
+       "to_raw": "3",
+       "from": 3,
+       "to": 3,
+       "without_number": false
+      },
+      {
+       "raw": "7",
+       "from_raw": "7",
+       "to_raw": "7",
+       "from": 7,
+       "to": 7,
+       "without_number": false
+      }
+     ]
+    },
+    {
+     "settlement": "КОРАЋИЦА",
+     "settlement_lat": "KORAĆICA",
+     "street": "БОЖЕ СЕРДАРЕВИЋА",
+     "street_lat": "BOŽE SERDAREVIĆA",
+     "numbers": [
+      {
+       "raw": "6",
+       "from_raw": "6",
+       "to_raw": "6",
+       "from": 6,
+       "to": 6,
+       "without_number": false
+      },
+      {
+       "raw": "22",
+       "from_raw": "22",
+       "to_raw": "22",
+       "from": 22,
+       "to": 22,
+       "without_number": false
+      },
+      {
+       "raw": "26-28",
+       "from_raw": "26",
+       "to_raw": "28",
+       "from": 26,
+       "to": 28
+      }
+     ]
+    },
+    {
+     "settlement": "КОРАЋИЦА",
+     "settlement_lat": "KORAĆICA",
+     "street": "ЂИСАРОВАЦ",
+     "street_lat": "ĐISAROVAC",
+     "numbers": [
+      {
+       "raw": "2-6",
+       "from_raw": "2",
+       "to_raw": "6",
+       "from": 2,
+       "to": 6
+      },
+      {
+       "raw": "12",
+       "from_raw": "12",
+       "to_raw": "12",
+       "from": 12,
+       "to": 12,
+       "without_number": false
+      },
+      {
+       "raw": "20",
+       "from_raw": "20",
+       "to_raw": "20",
+       "from": 20,
+       "to": 20,
+       "without_number": false
+      },
+      {
+       "raw": "26",
+       "from_raw": "26",
+       "to_raw": "26",
+       "from": 26,
+       "to": 26,
+       "without_number": false
+      },
+      {
+       "raw": "1А",
+       "from_raw": "1А",
+       "to_raw": "1А",
+       "from": 1,
+       "to": 1,
+       "without_number": false
+      },
+      {
+       "raw": "5",
+       "from_raw": "5",
+       "to_raw": "5",
+       "from": 5,
+       "to": 5,
+       "without_number": false
+      },
+      {
+       "raw": "11",
+       "from_raw": "11",
+       "to_raw": "11",
+       "from": 11,
+       "to": 11,
+       "without_number": false
+      }
+     ]
+    },
+    {
+     "settlement": "КОРАЋИЦА",
+     "settlement_lat": "KORAĆICA",
+     "street": "ЂОКЕ ИВКОВИЋА",
+     "street_lat": "ĐOKE IVKOVIĆA",
+     "numbers": [
+      {
+       "raw": "12",
+       "from_raw": "12",
+       "to_raw": "12",
+       "from": 12,
+       "to": 12,
+       "without_number": false
+      },
+      {
+       "raw": "18",
+       "from_raw": "18",
+       "to_raw": "18",
+       "from": 18,
+       "to": 18,
+       "without_number": false
+      },
+      {
+       "raw": "31",
+       "from_raw": "31",
+       "to_raw": "31",
+       "from": 31,
+       "to": 31,
+       "without_number": false
+      }
+     ]
+    },
+    {
+     "settlement": "КОРАЋИЦА",
+     "settlement_lat": "KORAĆICA",
+     "street": "ДРАГЕ ВОЈИНОВИЋА",
+     "street_lat": "DRAGE VOJINOVIĆA",
+     "numbers": [
+      {
+       "raw": "2-8",
+       "from_raw": "2",
+       "to_raw": "8",
+       "from": 2,
+       "to": 8
+      },
+      {
+       "raw": "12-28",
+       "from_raw": "12",
+       "to_raw": "28",
+       "from": 12,
+       "to": 28
+      },
+      {
+       "raw": "32",
+       "from_raw": "32",
+       "to_raw": "32",
+       "from": 32,
+       "to": 32,
+       "without_number": false
+      },
+      {
+       "raw": "1-3",
+       "from_raw": "1",
+       "to_raw": "3",
+       "from": 1,
+       "to": 3
+      },
+      {
+       "raw": "25-27",
+       "from_raw": "25",
+       "to_raw": "27",
+       "from": 25,
+       "to": 27
+      }
+     ]
+    },
+    {
+     "settlement": "КОРАЋИЦА",
+     "settlement_lat": "KORAĆICA",
+     "street": "ДРАГИЦЕ КУЗМИЋ",
+     "street_lat": "DRAGICE KUZMIĆ",
+     "numbers": [
+      {
+       "raw": "4А",
+       "from_raw": "4А",
+       "to_raw": "4А",
+       "from": 4,
+       "to": 4,
+       "without_number": false
+      },
+      {
+       "raw": "5-15",
+       "from_raw": "5",
+       "to_raw": "15",
+       "from": 5,
+       "to": 15
+      }
+     ]
+    },
+    {
+     "settlement": "КОРАЋИЦА",
+     "settlement_lat": "KORAĆICA",
+     "street": "ДРАГОЉУБА ЧОКИЋА",
+     "street_lat": "DRAGOLJUBA ČOKIĆA",
+     "numbers": [
+      {
+       "raw": "6-8",
+       "from_raw": "6",
+       "to_raw": "8",
+       "from": 6,
+       "to": 8
+      },
+      {
+       "raw": "18",
+       "from_raw": "18",
+       "to_raw": "18",
+       "from": 18,
+       "to": 18,
+       "without_number": false
+      },
+      {
+       "raw": "32",
+       "from_raw": "32",
+       "to_raw": "32",
+       "from": 32,
+       "to": 32,
+       "without_number": false
+      },
+      {
+       "raw": "17",
+       "from_raw": "17",
+       "to_raw": "17",
+       "from": 17,
+       "to": 17,
+       "without_number": false
+      }
+     ]
+    },
+    {
+     "settlement": "КОРАЋИЦА",
+     "settlement_lat": "KORAĆICA",
+     "street": "ДРАГОЉУБА ИВКОВИЋА-ЏУНА",
+     "street_lat": "DRAGOLJUBA IVKOVIĆA-DŽUNA",
+     "numbers": [
+      {
+       "raw": "6",
+       "from_raw": "6",
+       "to_raw": "6",
+       "from": 6,
+       "to": 6,
+       "without_number": false
+      },
+      {
+       "raw": "10А-14",
+       "from_raw": "10А",
+       "to_raw": "14",
+       "from": 10,
+       "to": 14
+      },
+      {
+       "raw": "34А-34Б",
+       "from_raw": "34А",
+       "to_raw": "34Б",
+       "from": 34,
+       "to": 34
+      },
+      {
+       "raw": "38",
+       "from_raw": "38",
+       "to_raw": "38",
+       "from": 38,
+       "to": 38,
+       "without_number": false
+      },
+      {
+       "raw": "44",
+       "from_raw": "44",
+       "to_raw": "44",
+       "from": 44,
+       "to": 44,
+       "without_number": false
+      },
+      {
+       "raw": "52",
+       "from_raw": "52",
+       "to_raw": "52",
+       "from": 52,
+       "to": 52,
+       "without_number": false
+      },
+      {
+       "raw": "60А-62Б",
+       "from_raw": "60А",
+       "to_raw": "62Б",
+       "from": 60,
+       "to": 62
+      },
+      {
+       "raw": "70",
+       "from_raw": "70",
+       "to_raw": "70",
+       "from": 70,
+       "to": 70,
+       "without_number": false
+      },
+      {
+       "raw": "1А-7",
+       "from_raw": "1А",
+       "to_raw": "7",
+       "from": 1,
+       "to": 7
+      },
+      {
+       "raw": "13",
+       "from_raw": "13",
+       "to_raw": "13",
+       "from": 13,
+       "to": 13,
+       "without_number": false
+      },
+      {
+       "raw": "21",
+       "from_raw": "21",
+       "to_raw": "21",
+       "from": 21,
+       "to": 21,
+       "without_number": false
+      },
+      {
+       "raw": "27-31А",
+       "from_raw": "27",
+       "to_raw": "31А",
+       "from": 27,
+       "to": 31
+      },
+      {
+       "raw": "37",
+       "from_raw": "37",
+       "to_raw": "37",
+       "from": 37,
+       "to": 37,
+       "without_number": false
+      }
+     ]
+    },
+    {
+     "settlement": "КОРАЋИЦА",
+     "settlement_lat": "KORAĆICA",
+     "street": "ДРУМИНЕ",
+     "street_lat": "DRUMINE",
+     "numbers": [
+      {
+       "raw": "6",
+       "from_raw": "6",
+       "to_raw": "6",
+       "from": 6,
+       "to": 6,
+       "without_number": false
+      },
+      {
+       "raw": "3",
+       "from_raw": "3",
+       "to_raw": "3",
+       "from": 3,
+       "to": 3,
+       "without_number": false
+      },
+      {
+       "raw": "9",
+       "from_raw": "9",
+       "to_raw": "9",
+       "from": 9,
+       "to": 9,
+       "without_number": false
+      }
+     ]
+    },
+    {
+     "settlement": "КОРАЋИЦА",
+     "settlement_lat": "KORAĆICA",
+     "street": "ДУШАНА ЧОКИЋА",
+     "street_lat": "DUŠANA ČOKIĆA",
+     "numbers": [
+      {
+       "raw": "6А-8",
+       "from_raw": "6А",
+       "to_raw": "8",
+       "from": 6,
+       "to": 8
+      },
+      {
+       "raw": "1",
+       "from_raw": "1",
+       "to_raw": "1",
+       "from": 1,
+       "to": 1,
+       "without_number": false
+      },
+      {
+       "raw": "9",
+       "from_raw": "9",
+       "to_raw": "9",
+       "from": 9,
+       "to": 9,
+       "without_number": false
+      }
+     ]
+    },
+    {
+     "settlement": "КОРАЋИЦА",
+     "settlement_lat": "KORAĆICA",
+     "street": "КОРАЋИЦА",
+     "street_lat": "KORAĆICA",
+     "numbers": [
+      {
+       "raw": "2Б-6",
+       "from_raw": "2Б",
+       "to_raw": "6",
+       "from": 2,
+       "to": 6
+      },
+      {
+       "raw": "16",
+       "from_raw": "16",
+       "to_raw": "16",
+       "from": 16,
+       "to": 16,
+       "without_number": false
+      },
+      {
+       "raw": "56",
+       "from_raw": "56",
+       "to_raw": "56",
+       "from": 56,
+       "to": 56,
+       "without_number": false
+      },
+      {
+       "raw": "60",
+       "from_raw": "60",
+       "to_raw": "60",
+       "from": 60,
+       "to": 60,
+       "without_number": false
+      },
+      {
+       "raw": "68",
+       "from_raw": "68",
+       "to_raw": "68",
+       "from": 68,
+       "to": 68,
+       "without_number": false
+      },
+      {
+       "raw": "80Ц",
+       "from_raw": "80Ц",
+       "to_raw": "80Ц",
+       "from": 80,
+       "to": 80,
+       "without_number": false
+      },
+      {
+       "raw": "94А",
+       "from_raw": "94А",
+       "to_raw": "94А",
+       "from": 94,
+       "to": 94,
+       "without_number": false
+      },
+      {
+       "raw": "132",
+       "from_raw": "132",
+       "to_raw": "132",
+       "from": 132,
+       "to": 132,
+       "without_number": false
+      },
+      {
+       "raw": "144А",
+       "from_raw": "144А",
+       "to_raw": "144А",
+       "from": 144,
+       "to": 144,
+       "without_number": false
+      },
+      {
+       "raw": "1-3",
+       "from_raw": "1",
+       "to_raw": "3",
+       "from": 1,
+       "to": 3
+      },
+      {
+       "raw": "25",
+       "from_raw": "25",
+       "to_raw": "25",
+       "from": 25,
+       "to": 25,
+       "without_number": false
+      },
+      {
+       "raw": "29",
+       "from_raw": "29",
+       "to_raw": "29",
+       "from": 29,
+       "to": 29,
+       "without_number": false
+      },
+      {
+       "raw": "33А",
+       "from_raw": "33А",
+       "to_raw": "33А",
+       "from": 33,
+       "to": 33,
+       "without_number": false
+      },
+      {
+       "raw": "49",
+       "from_raw": "49",
+       "to_raw": "49",
+       "from": 49,
+       "to": 49,
+       "without_number": false
+      },
+      {
+       "raw": "61",
+       "from_raw": "61",
+       "to_raw": "61",
+       "from": 61,
+       "to": 61,
+       "without_number": false
+      },
+      {
+       "raw": "101Б",
+       "from_raw": "101Б",
+       "to_raw": "101Б",
+       "from": 101,
+       "to": 101,
+       "without_number": false
+      },
+      {
+       "raw": "159",
+       "from_raw": "159",
+       "to_raw": "159",
+       "from": 159,
+       "to": 159,
+       "without_number": false
+      },
+      {
+       "raw": "289",
+       "from_raw": "289",
+       "to_raw": "289",
+       "from": 289,
+       "to": 289,
+       "without_number": false
+      }
+     ]
+    },
+    {
+     "settlement": "КОРАЋИЦА",
+     "settlement_lat": "KORAĆICA",
+     "street": "КОСМАЈСКИ ПУТ",
+     "street_lat": "KOSMAJSKI PUT",
+     "numbers": [
+      {
+       "raw": "76",
+       "from_raw": "76",
+       "to_raw": "76",
+       "from": 76,
+       "to": 76,
+       "without_number": false
+      },
+      {
+       "raw": "80А",
+       "from_raw": "80А",
+       "to_raw": "80А",
+       "from": 80,
+       "to": 80,
+       "without_number": false
+      },
+      {
+       "raw": "84-92",
+       "from_raw": "84",
+       "to_raw": "92",
+       "from": 84,
+       "to": 92
+      },
+      {
+       "raw": "104",
+       "from_raw": "104",
+       "to_raw": "104",
+       "from": 104,
+       "to": 104,
+       "without_number": false
+      },
+      {
+       "raw": "110-112",
+       "from_raw": "110",
+       "to_raw": "112",
+       "from": 110,
+       "to": 112
+      },
+      {
+       "raw": "116-116Б",
+       "from_raw": "116",
+       "to_raw": "116Б",
+       "from": 116,
+       "to": 116
+      },
+      {
+       "raw": "122",
+       "from_raw": "122",
+       "to_raw": "122",
+       "from": 122,
+       "to": 122,
+       "without_number": false
+      },
+      {
+       "raw": "128-130",
+       "from_raw": "128",
+       "to_raw": "130",
+       "from": 128,
+       "to": 130
+      },
+      {
+       "raw": "142",
+       "from_raw": "142",
+       "to_raw": "142",
+       "from": 142,
+       "to": 142,
+       "without_number": false
+      },
+      {
+       "raw": "148А-150",
+       "from_raw": "148А",
+       "to_raw": "150",
+       "from": 148,
+       "to": 150
+      },
+      {
+       "raw": "154",
+       "from_raw": "154",
+       "to_raw": "154",
+       "from": 154,
+       "to": 154,
+       "without_number": false
+      },
+      {
+       "raw": "158",
+       "from_raw": "158",
+       "to_raw": "158",
+       "from": 158,
+       "to": 158,
+       "without_number": false
+      },
+      {
+       "raw": "186-190",
+       "from_raw": "186",
+       "to_raw": "190",
+       "from": 186,
+       "to": 190
+      },
+      {
+       "raw": "196",
+       "from_raw": "196",
+       "to_raw": "196",
+       "from": 196,
+       "to": 196,
+       "without_number": false
+      },
+      {
+       "raw": "202А-204Б",
+       "from_raw": "202А",
+       "to_raw": "204Б",
+       "from": 202,
+       "to": 204
+      },
+      {
+       "raw": "220А",
+       "from_raw": "220А",
+       "to_raw": "220А",
+       "from": 220,
+       "to": 220,
+       "without_number": false
+      },
+      {
+       "raw": "232-234",
+       "from_raw": "232",
+       "to_raw": "234",
+       "from": 232,
+       "to": 234
+      },
+      {
+       "raw": "242-244А",
+       "from_raw": "242",
+       "to_raw": "244А",
+       "from": 242,
+       "to": 244
+      },
+      {
+       "raw": "13",
+       "from_raw": "13",
+       "to_raw": "13",
+       "from": 13,
+       "to": 13,
+       "without_number": false
+      },
+      {
+       "raw": "23",
+       "from_raw": "23",
+       "to_raw": "23",
+       "from": 23,
+       "to": 23,
+       "without_number": false
+      },
+      {
+       "raw": "29А",
+       "from_raw": "29А",
+       "to_raw": "29А",
+       "from": 29,
+       "to": 29,
+       "without_number": false
+      },
+      {
+       "raw": "39",
+       "from_raw": "39",
+       "to_raw": "39",
+       "from": 39,
+       "to": 39,
+       "without_number": false
+      },
+      {
+       "raw": "45А",
+       "from_raw": "45А",
+       "to_raw": "45А",
+       "from": 45,
+       "to": 45,
+       "without_number": false
+      },
+      {
+       "raw": "59И",
+       "from_raw": "59И",
+       "to_raw": "59И",
+       "from": 59,
+       "to": 59,
+       "without_number": false
+      },
+      {
+       "raw": "63",
+       "from_raw": "63",
+       "to_raw": "63",
+       "from": 63,
+       "to": 63,
+       "without_number": false
+      },
+      {
+       "raw": "67",
+       "from_raw": "67",
+       "to_raw": "67",
+       "from": 67,
+       "to": 67,
+       "without_number": false
+      },
+      {
+       "raw": "79",
+       "from_raw": "79",
+       "to_raw": "79",
+       "from": 79,
+       "to": 79,
+       "without_number": false
+      },
+      {
+       "raw": "85",
+       "from_raw": "85",
+       "to_raw": "85",
+       "from": 85,
+       "to": 85,
+       "without_number": false
+      },
+      {
+       "raw": "89",
+       "from_raw": "89",
+       "to_raw": "89",
+       "from": 89,
+       "to": 89,
+       "without_number": false
+      },
+      {
+       "raw": "99-99Д",
+       "from_raw": "99",
+       "to_raw": "99Д",
+       "from": 99,
+       "to": 99
+      },
+      {
+       "raw": "103-103Г",
+       "from_raw": "103",
+       "to_raw": "103Г",
+       "from": 103,
+       "to": 103
+      },
+      {
+       "raw": "109-111",
+       "from_raw": "109",
+       "to_raw": "111",
+       "from": 109,
+       "to": 111
+      },
+      {
+       "raw": "115-117А",
+       "from_raw": "115",
+       "to_raw": "117А",
+       "from": 115,
+       "to": 117
+      },
+      {
+       "raw": "127",
+       "from_raw": "127",
+       "to_raw": "127",
+       "from": 127,
+       "to": 127,
+       "without_number": false
+      },
+      {
+       "raw": "135",
+       "from_raw": "135",
+       "to_raw": "135",
+       "from": 135,
+       "to": 135,
+       "without_number": false
+      },
+      {
+       "raw": "141",
+       "from_raw": "141",
+       "to_raw": "141",
+       "from": 141,
+       "to": 141,
+       "without_number": false
+      },
+      {
+       "raw": "157",
+       "from_raw": "157",
+       "to_raw": "157",
+       "from": 157,
+       "to": 157,
+       "without_number": false
+      },
+      {
+       "raw": "167",
+       "from_raw": "167",
+       "to_raw": "167",
+       "from": 167,
+       "to": 167,
+       "without_number": false
+      },
+      {
+       "raw": "183-183А",
+       "from_raw": "183",
+       "to_raw": "183А",
+       "from": 183,
+       "to": 183
+      }
+     ]
+    },
+    {
+     "settlement": "КОРАЋИЦА",
+     "settlement_lat": "KORAĆICA",
+     "street": "ЛИВАДАРСКА",
+     "street_lat": "LIVADARSKA",
+     "numbers": [
+      {
+       "raw": "72",
+       "from_raw": "72",
+       "to_raw": "72",
+       "from": 72,
+       "to": 72,
+       "without_number": false
+      },
+      {
+       "raw": "55",
+       "from_raw": "55",
+       "to_raw": "55",
+       "from": 55,
+       "to": 55,
+       "without_number": false
+      }
+     ]
+    },
+    {
+     "settlement": "КОРАЋИЦА",
+     "settlement_lat": "KORAĆICA",
+     "street": "ЉУБЕ ДАБИЋА",
+     "street_lat": "LJUBE DABIĆA",
+     "numbers": [
+      {
+       "raw": "8",
+       "from_raw": "8",
+       "to_raw": "8",
+       "from": 8,
+       "to": 8,
+       "without_number": false
+      },
+      {
+       "raw": "12",
+       "from_raw": "12",
+       "to_raw": "12",
+       "from": 12,
+       "to": 12,
+       "without_number": false
+      },
+      {
+       "raw": "1",
+       "from_raw": "1",
+       "to_raw": "1",
+       "from": 1,
+       "to": 1,
+       "without_number": false
+      }
+     ]
+    },
+    {
+     "settlement": "КОРАЋИЦА",
+     "settlement_lat": "KORAĆICA",
+     "street": "МИЈЕВАЦ",
+     "street_lat": "MIJEVAC",
+     "numbers": [
+      {
+       "raw": "21-25",
+       "from_raw": "21",
+       "to_raw": "25",
+       "from": 21,
+       "to": 25
+      }
+     ]
+    },
+    {
+     "settlement": "КОРАЋИЦА",
+     "settlement_lat": "KORAĆICA",
+     "street": "МИЛАНА ДАБИЋА",
+     "street_lat": "MILANA DABIĆA",
+     "numbers": [
+      {
+       "raw": "8",
+       "from_raw": "8",
+       "to_raw": "8",
+       "from": 8,
+       "to": 8,
+       "without_number": false
+      },
+      {
+       "raw": "7",
+       "from_raw": "7",
+       "to_raw": "7",
+       "from": 7,
+       "to": 7,
+       "without_number": false
+      }
+     ]
+    },
+    {
+     "settlement": "КОРАЋИЦА",
+     "settlement_lat": "KORAĆICA",
+     "street": "МИЛОРАДА АВРАМОВИЋА-ЦАЛИЈЕ",
+     "street_lat": "MILORADA AVRAMOVIĆA-CALIJE",
+     "numbers": [
+      {
+       "raw": "4-6",
+       "from_raw": "4",
+       "to_raw": "6",
+       "from": 4,
+       "to": 6
+      },
+      {
+       "raw": "10-12",
+       "from_raw": "10",
+       "to_raw": "12",
+       "from": 10,
+       "to": 12
+      },
+      {
+       "raw": "58",
+       "from_raw": "58",
+       "to_raw": "58",
+       "from": 58,
+       "to": 58,
+       "without_number": false
+      },
+      {
+       "raw": "62",
+       "from_raw": "62",
+       "to_raw": "62",
+       "from": 62,
+       "to": 62,
+       "without_number": false
+      },
+      {
+       "raw": "70",
+       "from_raw": "70",
+       "to_raw": "70",
+       "from": 70,
+       "to": 70,
+       "without_number": false
+      },
+      {
+       "raw": "5",
+       "from_raw": "5",
+       "to_raw": "5",
+       "from": 5,
+       "to": 5,
+       "without_number": false
+      },
+      {
+       "raw": "15-19",
+       "from_raw": "15",
+       "to_raw": "19",
+       "from": 15,
+       "to": 19
+      },
+      {
+       "raw": "25",
+       "from_raw": "25",
+       "to_raw": "25",
+       "from": 25,
+       "to": 25,
+       "without_number": false
+      },
+      {
+       "raw": "45",
+       "from_raw": "45",
+       "to_raw": "45",
+       "from": 45,
+       "to": 45,
+       "without_number": false
+      },
+      {
+       "raw": "71",
+       "from_raw": "71",
+       "to_raw": "71",
+       "from": 71,
+       "to": 71,
+       "without_number": false
+      }
+     ]
+    },
+    {
+     "settlement": "КОРАЋИЦА",
+     "settlement_lat": "KORAĆICA",
+     "street": "МИШЕВИЦА",
+     "street_lat": "MIŠEVICA",
+     "numbers": [
+      {
+       "raw": "40",
+       "from_raw": "40",
+       "to_raw": "40",
+       "from": 40,
+       "to": 40,
+       "without_number": false
+      },
+      {
+       "raw": "13",
+       "from_raw": "13",
+       "to_raw": "13",
+       "from": 13,
+       "to": 13,
+       "without_number": false
+      }
+     ]
+    },
+    {
+     "settlement": "КОРАЋИЦА",
+     "settlement_lat": "KORAĆICA",
+     "street": "НОВА 18",
+     "street_lat": "NOVA 18",
+     "numbers": [
+      {
+       "raw": "4",
+       "from_raw": "4",
+       "to_raw": "4",
+       "from": 4,
+       "to": 4,
+       "without_number": false
+      },
+      {
+       "raw": "8",
+       "from_raw": "8",
+       "to_raw": "8",
+       "from": 8,
+       "to": 8,
+       "without_number": false
+      },
+      {
+       "raw": "1",
+       "from_raw": "1",
+       "to_raw": "1",
+       "from": 1,
+       "to": 1,
+       "without_number": false
+      }
+     ]
+    },
+    {
+     "settlement": "КОРАЋИЦА",
+     "settlement_lat": "KORAĆICA",
+     "street": "НОВА 20",
+     "street_lat": "NOVA 20",
+     "numbers": [
+      {
+       "raw": "2А",
+       "from_raw": "2А",
+       "to_raw": "2А",
+       "from": 2,
+       "to": 2,
+       "without_number": false
+      },
+      {
+       "raw": "1",
+       "from_raw": "1",
+       "to_raw": "1",
+       "from": 1,
+       "to": 1,
+       "without_number": false
+      }
+     ]
+    },
+    {
+     "settlement": "КОРАЋИЦА",
+     "settlement_lat": "KORAĆICA",
+     "street": "ПЕТКАЈСКА",
+     "street_lat": "PETKAJSKA",
+     "numbers": [
+      {
+       "raw": "12",
+       "from_raw": "12",
+       "to_raw": "12",
+       "from": 12,
+       "to": 12,
+       "without_number": false
+      },
+      {
+       "raw": "26",
+       "from_raw": "26",
+       "to_raw": "26",
+       "from": 26,
+       "to": 26,
+       "without_number": false
+      },
+      {
+       "raw": "30",
+       "from_raw": "30",
+       "to_raw": "30",
+       "from": 30,
+       "to": 30,
+       "without_number": false
+      },
+      {
+       "raw": "36",
+       "from_raw": "36",
+       "to_raw": "36",
+       "from": 36,
+       "to": 36,
+       "without_number": false
+      },
+      {
+       "raw": "44",
+       "from_raw": "44",
+       "to_raw": "44",
+       "from": 44,
+       "to": 44,
+       "without_number": false
+      },
+      {
+       "raw": "50",
+       "from_raw": "50",
+       "to_raw": "50",
+       "from": 50,
+       "to": 50,
+       "without_number": false
+      },
+      {
+       "raw": "54",
+       "from_raw": "54",
+       "to_raw": "54",
+       "from": 54,
+       "to": 54,
+       "without_number": false
+      },
+      {
+       "raw": "64",
+       "from_raw": "64",
+       "to_raw": "64",
+       "from": 64,
+       "to": 64,
+       "without_number": false
+      },
+      {
+       "raw": "68",
+       "from_raw": "68",
+       "to_raw": "68",
+       "from": 68,
+       "to": 68,
+       "without_number": false
+      },
+      {
+       "raw": "78-80",
+       "from_raw": "78",
+       "to_raw": "80",
+       "from": 78,
+       "to": 80
+      },
+      {
+       "raw": "98",
+       "from_raw": "98",
+       "to_raw": "98",
+       "from": 98,
+       "to": 98,
+       "without_number": false
+      },
+      {
+       "raw": "102-102А",
+       "from_raw": "102",
+       "to_raw": "102А",
+       "from": 102,
+       "to": 102
+      },
+      {
+       "raw": "106А",
+       "from_raw": "106А",
+       "to_raw": "106А",
+       "from": 106,
+       "to": 106,
+       "without_number": false
+      },
+      {
+       "raw": "110-112",
+       "from_raw": "110",
+       "to_raw": "112",
+       "from": 110,
+       "to": 112
+      },
+      {
+       "raw": "116",
+       "from_raw": "116",
+       "to_raw": "116",
+       "from": 116,
+       "to": 116,
+       "without_number": false
+      },
+      {
+       "raw": "122А-126",
+       "from_raw": "122А",
+       "to_raw": "126",
+       "from": 122,
+       "to": 126
+      },
+      {
+       "raw": "144-146",
+       "from_raw": "144",
+       "to_raw": "146",
+       "from": 144,
+       "to": 146
+      },
+      {
+       "raw": "1",
+       "from_raw": "1",
+       "to_raw": "1",
+       "from": 1,
+       "to": 1,
+       "without_number": false
+      },
+      {
+       "raw": "5",
+       "from_raw": "5",
+       "to_raw": "5",
+       "from": 5,
+       "to": 5,
+       "without_number": false
+      },
+      {
+       "raw": "9",
+       "from_raw": "9",
+       "to_raw": "9",
+       "from": 9,
+       "to": 9,
+       "without_number": false
+      },
+      {
+       "raw": "27",
+       "from_raw": "27",
+       "to_raw": "27",
+       "from": 27,
+       "to": 27,
+       "without_number": false
+      },
+      {
+       "raw": "35-37",
+       "from_raw": "35",
+       "to_raw": "37",
+       "from": 35,
+       "to": 37
+      },
+      {
+       "raw": "41-43А",
+       "from_raw": "41",
+       "to_raw": "43А",
+       "from": 41,
+       "to": 43
+      },
+      {
+       "raw": "47",
+       "from_raw": "47",
+       "to_raw": "47",
+       "from": 47,
+       "to": 47,
+       "without_number": false
+      },
+      {
+       "raw": "53",
+       "from_raw": "53",
+       "to_raw": "53",
+       "from": 53,
+       "to": 53,
+       "without_number": false
+      },
+      {
+       "raw": "63-65",
+       "from_raw": "63",
+       "to_raw": "65",
+       "from": 63,
+       "to": 65
+      },
+      {
+       "raw": "69-73А",
+       "from_raw": "69",
+       "to_raw": "73А",
+       "from": 69,
+       "to": 73
+      },
+      {
+       "raw": "79А",
+       "from_raw": "79А",
+       "to_raw": "79А",
+       "from": 79,
+       "to": 79,
+       "without_number": false
+      },
+      {
+       "raw": "89",
+       "from_raw": "89",
+       "to_raw": "89",
+       "from": 89,
+       "to": 89,
+       "without_number": false
+      },
+      {
+       "raw": "97",
+       "from_raw": "97",
+       "to_raw": "97",
+       "from": 97,
+       "to": 97,
+       "without_number": false
+      },
+      {
+       "raw": "105-113",
+       "from_raw": "105",
+       "to_raw": "113",
+       "from": 105,
+       "to": 113
+      }
+     ]
+    },
+    {
+     "settlement": "КОРАЋИЦА",
+     "settlement_lat": "KORAĆICA",
+     "street": "РАДОМИРА СЕРДАРЕВИЋА -РАДЕ",
+     "street_lat": "RADOMIRA SERDAREVIĆA -RADE",
+     "numbers": [
+      {
+       "raw": "3",
+       "from_raw": "3",
+       "to_raw": "3",
+       "from": 3,
+       "to": 3,
+       "without_number": false
+      },
+      {
+       "raw": "7",
+       "from_raw": "7",
+       "to_raw": "7",
+       "from": 7,
+       "to": 7,
+       "without_number": false
+      }
+     ]
+    },
+    {
+     "settlement": "КОРАЋИЦА",
+     "settlement_lat": "KORAĆICA",
+     "street": "СЛАЈЕ МИЛИЋЕВИЋА",
+     "street_lat": "SLAJE MILIĆEVIĆA",
+     "numbers": [
+      {
+       "raw": "6",
+       "from_raw": "6",
+       "to_raw": "6",
+       "from": 6,
+       "to": 6,
+       "without_number": false
+      }
+     ]
+    },
+    {
+     "settlement": "КОРАЋИЦА",
+     "settlement_lat": "KORAĆICA",
+     "street": "СРЕТЕНА ПАШИЋА",
+     "street_lat": "SRETENA PAŠIĆA",
+     "numbers": [
+      {
+       "raw": "5",
+       "from_raw": "5",
+       "to_raw": "5",
+       "from": 5,
+       "to": 5,
+       "without_number": false
+      },
+      {
+       "raw": "19",
+       "from_raw": "19",
+       "to_raw": "19",
+       "from": 19,
+       "to": 19,
+       "without_number": false
+      },
+      {
+       "raw": "27",
+       "from_raw": "27",
+       "to_raw": "27",
+       "from": 27,
+       "to": 27,
+       "without_number": false
+      }
+     ]
+    },
+    {
+     "settlement": "КОРАЋИЦА",
+     "settlement_lat": "KORAĆICA",
+     "street": "ЖИВАДИНА ДАВИДОВИЋА-ЏУЛА",
+     "street_lat": "ŽIVADINA DAVIDOVIĆA-DŽULA",
+     "numbers": [
+      {
+       "raw": "8",
+       "from_raw": "8",
+       "to_raw": "8",
+       "from": 8,
+       "to": 8,
+       "without_number": false
+      }
+     ]
+    },
+    {
+     "settlement": "КОРАЋИЦА",
+     "settlement_lat": "KORAĆICA",
+     "street": "ЖИВКА МИЛИЋЕВИЋА",
+     "street_lat": "ŽIVKA MILIĆEVIĆA",
+     "numbers": [
+      {
+       "raw": "6-8",
+       "from_raw": "6",
+       "to_raw": "8",
+       "from": 6,
+       "to": 8
+      },
+      {
+       "raw": "16-18",
+       "from_raw": "16",
+       "to_raw": "18",
+       "from": 16,
+       "to": 18
+      },
+      {
+       "raw": "9",
+       "from_raw": "9",
+       "to_raw": "9",
+       "from": 9,
+       "to": 9,
+       "without_number": false
+      },
+      {
+       "raw": "15А",
+       "from_raw": "15А",
+       "to_raw": "15А",
+       "from": 15,
+       "to": 15,
+       "without_number": false
+      },
+      {
+       "raw": "23",
+       "from_raw": "23",
+       "to_raw": "23",
+       "from": 23,
+       "to": 23,
+       "without_number": false
+      }
+     ]
+    },
+    {
+     "settlement": "МЛАДЕНОВАЦ",
+     "settlement_lat": "MLADENOVAC",
+     "street": "АРЧИБАЛДА РАЈСА",
+     "street_lat": "ARČIBALDA RAJSA",
+     "numbers": [
+      {
+       "raw": "4",
+       "from_raw": "4",
+       "to_raw": "4",
+       "from": 4,
+       "to": 4,
+       "without_number": false
+      }
+     ]
+    },
+    {
+     "settlement": "МЛАДЕНОВАЦ",
+     "settlement_lat": "MLADENOVAC",
+     "street": "ДЕСПОТА СТЕФАНА",
+     "street_lat": "DESPOTA STEFANA",
+     "numbers": [
+      {
+       "raw": "2",
+       "from_raw": "2",
+       "to_raw": "2",
+       "from": 2,
+       "to": 2,
+       "without_number": false
+      },
+      {
+       "raw": "1-3",
+       "from_raw": "1",
+       "to_raw": "3",
+       "from": 1,
+       "to": 3
+      }
+     ]
+    },
+    {
+     "settlement": "МЛАДЕНОВАЦ",
+     "settlement_lat": "MLADENOVAC",
+     "street": "ДРИНСКА",
+     "street_lat": "DRINSKA",
+     "numbers": [
+      {
+       "raw": "2-12",
+       "from_raw": "2",
+       "to_raw": "12",
+       "from": 2,
+       "to": 12
+      },
+      {
+       "raw": "16",
+       "from_raw": "16",
+       "to_raw": "16",
+       "from": 16,
+       "to": 16,
+       "without_number": false
+      },
+      {
+       "raw": "22",
+       "from_raw": "22",
+       "to_raw": "22",
+       "from": 22,
+       "to": 22,
+       "without_number": false
+      },
+      {
+       "raw": "30-36",
+       "from_raw": "30",
+       "to_raw": "36",
+       "from": 30,
+       "to": 36
+      },
+      {
+       "raw": "1-5",
+       "from_raw": "1",
+       "to_raw": "5",
+       "from": 1,
+       "to": 5
+      },
+      {
+       "raw": "9",
+       "from_raw": "9",
+       "to_raw": "9",
+       "from": 9,
+       "to": 9,
+       "without_number": false
+      },
+      {
+       "raw": "13-15",
+       "from_raw": "13",
+       "to_raw": "15",
+       "from": 13,
+       "to": 15
+      },
+      {
+       "raw": "19",
+       "from_raw": "19",
+       "to_raw": "19",
+       "from": 19,
+       "to": 19,
+       "without_number": false
+      },
+      {
+       "raw": "25",
+       "from_raw": "25",
+       "to_raw": "25",
+       "from": 25,
+       "to": 25,
+       "without_number": false
+      },
+      {
+       "raw": "29",
+       "from_raw": "29",
+       "to_raw": "29",
+       "from": 29,
+       "to": 29,
+       "without_number": false
+      },
+      {
+       "raw": "35",
+       "from_raw": "35",
+       "to_raw": "35",
+       "from": 35,
+       "to": 35,
+       "without_number": false
+      },
+      {
+       "raw": "41",
+       "from_raw": "41",
+       "to_raw": "41",
+       "from": 41,
+       "to": 41,
+       "without_number": false
+      }
+     ]
+    },
+    {
+     "settlement": "МЛАДЕНОВАЦ",
+     "settlement_lat": "MLADENOVAC",
+     "street": "КРАГУЈЕВАЧКА",
+     "street_lat": "KRAGUJEVAČKA",
+     "numbers": [
+      {
+       "raw": "38",
+       "from_raw": "38",
+       "to_raw": "38",
+       "from": 38,
+       "to": 38,
+       "without_number": false
+      },
+      {
+       "raw": "42",
+       "from_raw": "42",
+       "to_raw": "42",
+       "from": 42,
+       "to": 42,
+       "without_number": false
+      },
+      {
+       "raw": "13",
+       "from_raw": "13",
+       "to_raw": "13",
+       "from": 13,
+       "to": 13,
+       "without_number": false
+      }
+     ]
+    },
+    {
+     "settlement": "МЛАДЕНОВАЦ",
+     "settlement_lat": "MLADENOVAC",
+     "street": "ЉУБЕ ДАВИДОВИЋА",
+     "street_lat": "LJUBE DAVIDOVIĆA",
+     "numbers": [
+      {
+       "raw": "2А",
+       "from_raw": "2А",
+       "to_raw": "2А",
+       "from": 2,
+       "to": 2,
+       "without_number": false
+      },
+      {
+       "raw": "10-24",
+       "from_raw": "10",
+       "to_raw": "24",
+       "from": 10,
+       "to": 24
+      },
+      {
+       "raw": "28-40",
+       "from_raw": "28",
+       "to_raw": "40",
+       "from": 28,
+       "to": 40
+      },
+      {
+       "raw": "44-54",
+       "from_raw": "44",
+       "to_raw": "54",
+       "from": 44,
+       "to": 54
+      },
+      {
+       "raw": "58-62",
+       "from_raw": "58",
+       "to_raw": "62",
+       "from": 58,
+       "to": 62
+      },
+      {
+       "raw": "66",
+       "from_raw": "66",
+       "to_raw": "66",
+       "from": 66,
+       "to": 66,
+       "without_number": false
+      },
+      {
+       "raw": "70-74",
+       "from_raw": "70",
+       "to_raw": "74",
+       "from": 70,
+       "to": 74
+      },
+      {
+       "raw": "80-80А",
+       "from_raw": "80",
+       "to_raw": "80А",
+       "from": 80,
+       "to": 80
+      },
+      {
+       "raw": "84-92",
+       "from_raw": "84",
+       "to_raw": "92",
+       "from": 84,
+       "to": 92
+      },
+      {
+       "raw": "100-102",
+       "from_raw": "100",
+       "to_raw": "102",
+       "from": 100,
+       "to": 102
+      },
+      {
+       "raw": "114-118",
+       "from_raw": "114",
+       "to_raw": "118",
+       "from": 114,
+       "to": 118
+      },
+      {
+       "raw": "124-124А",
+       "from_raw": "124",
+       "to_raw": "124А",
+       "from": 124,
+       "to": 124
+      },
+      {
+       "raw": "49",
+       "from_raw": "49",
+       "to_raw": "49",
+       "from": 49,
+       "to": 49,
+       "without_number": false
+      }
+     ]
+    },
+    {
+     "settlement": "МЛАДЕНОВАЦ",
+     "settlement_lat": "MLADENOVAC",
+     "street": "ПАНЧИЋЕВА",
+     "street_lat": "PANČIĆEVA",
+     "numbers": [
+      {
+       "raw": "2",
+       "from_raw": "2",
+       "to_raw": "2",
+       "from": 2,
+       "to": 2,
+       "without_number": false
+      },
+      {
+       "raw": "1",
+       "from_raw": "1",
+       "to_raw": "1",
+       "from": 1,
+       "to": 1,
+       "without_number": false
+      }
+     ]
+    },
+    {
+     "settlement": "МЛАДЕНОВАЦ",
+     "settlement_lat": "MLADENOVAC",
+     "street": "ВОЈВОДЕ СТЕПЕ",
+     "street_lat": "VOJVODE STEPE",
+     "numbers": [
+      {
+       "raw": "30",
+       "from_raw": "30",
+       "to_raw": "30",
+       "from": 30,
+       "to": 30,
+       "without_number": false
+      },
+      {
+       "raw": "36-42",
+       "from_raw": "36",
+       "to_raw": "42",
+       "from": 36,
+       "to": 42
+      },
+      {
+       "raw": "46-50",
+       "from_raw": "46",
+       "to_raw": "50",
+       "from": 46,
+       "to": 50
+      },
+      {
+       "raw": "54",
+       "from_raw": "54",
+       "to_raw": "54",
+       "from": 54,
+       "to": 54,
+       "without_number": false
+      },
+      {
+       "raw": "58",
+       "from_raw": "58",
+       "to_raw": "58",
+       "from": 58,
+       "to": 58,
+       "without_number": false
+      },
+      {
+       "raw": "1-3",
+       "from_raw": "1",
+       "to_raw": "3",
+       "from": 1,
+       "to": 3
+      },
+      {
+       "raw": "11-13",
+       "from_raw": "11",
+       "to_raw": "13",
+       "from": 11,
+       "to": 13
+      },
+      {
+       "raw": "17",
+       "from_raw": "17",
+       "to_raw": "17",
+       "from": 17,
+       "to": 17,
+       "without_number": false
+      },
+      {
+       "raw": "31",
+       "from_raw": "31",
+       "to_raw": "31",
+       "from": 31,
+       "to": 31,
+       "without_number": false
+      },
+      {
+       "raw": "37",
+       "from_raw": "37",
+       "to_raw": "37",
+       "from": 37,
+       "to": 37,
+       "without_number": false
+      }
+     ]
+    },
+    {
+     "settlement": "РАЈКОВАЦ",
+     "settlement_lat": "RAJKOVAC",
+     "street": "СЕЛИШТЕ",
+     "street_lat": "SELIŠTE",
+     "numbers": []
+    },
+    {
+     "settlement": "ВЕЛИКА ИВАНЧА",
+     "settlement_lat": "VELIKA IVANČA",
+     "street": "ПРЕВАЛСКА",
+     "street_lat": "PREVALSKA",
+     "numbers": [
+      {
+       "raw": "25А-27",
+       "from_raw": "25А",
+       "to_raw": "27",
+       "from": 25,
+       "to": 27
+      }
+     ]
+    },
+    {
+     "settlement": "ВЕЛИКА ИВАНЧА",
+     "settlement_lat": "VELIKA IVANČA",
+     "street": "ВЕЛИКА ИВАНЧА",
+     "street_lat": "VELIKA IVANČA",
+     "numbers": [
+      {
+       "raw": "64",
+       "from_raw": "64",
+       "to_raw": "64",
+       "from": 64,
+       "to": 64,
+       "without_number": false
+      },
+      {
+       "raw": "242",
+       "from_raw": "242",
+       "to_raw": "242",
+       "from": 242,
+       "to": 242,
+       "without_number": false
+      },
+      {
+       "raw": "31Ф-33Д",
+       "from_raw": "31Ф",
+       "to_raw": "33Д",
+       "from": 31,
+       "to": 33
+      }
+     ]
+    }
+   ],
+   "raw": {
+    "municipality": "Младеновац",
+    "time": "09:00 - 14:00",
+    "streets": "Насеље ГРАНИЦЕ: НОВА 7: ,2,3,7, Насеље КОРАЋИЦА: БОЖЕ СЕРДАРЕВИЋА: ,6,22,26-28, ЂИСАРОВАЦ: ,2-6,12,20,26,1А,5,11, ЂОКЕ ИВКОВИЋА: ,12,18,31, ДРАГЕ ВОЈИНОВИЋА: 2-8,12-28,32,1-3,25-27, ДРАГИЦЕ КУЗМИЋ: ,4А,5-15, ДРАГОЉУБА ЧОКИЋА: 6-8,18,32,17, ДРАГОЉУБА ИВКОВИЋА-ЏУНА: ,6,10А-14,34А-34Б,38,44,52,60А-62Б,70,1А-7,13,21,27-31А,37, ДРУМИНЕ: ,6,3,9, ДУШАНА ЧОКИЋА: 6А-8,1,9, КОРАЋИЦА: 2Б-6,16,56,60,68,80Ц,94А,132,144А,1-3,25,29,33А,49,61,101Б,159,289, КОСМАЈСКИ ПУТ: 76,80А,84-92,104,110-112,116-116Б,122,128-130,142,148А-150,154,158,186-190,196,202А-204Б,220А,232-234,242-244А,13,23,29А,39,45А,59И,63,67,79,85,89,99-99Д,103-103Г,109-111,115-117А,127,135,141,157,167,183-183А, ЛИВАДАРСКА: ,72,55, ЉУБЕ ДАБИЋА: 8,12,1, МИЈЕВАЦ: ,21-25, МИЛАНА ДАБИЋА: 8,7, МИЛОРАДА АВРАМОВИЋА-ЦАЛИЈЕ: ,4-6,10-12,58,62,70,5,15-19,25,45,71, МИШЕВИЦА: 40,13, НОВА 18: 4,8,1, НОВА 20: 2А,1, ПЕТКАЈСКА: ,12,26,30,36,44,50,54,64,68,78-80,98,102-102А,106А,110-112,116,122А-126,144-146,1,5,9,27,35-37,41-43А,47,53,63-65,69-73А,79А,89,97,105-113, РАДОМИРА СЕРДАРЕВИЋА -РАДЕ: 3,7, СЛАЈЕ МИЛИЋЕВИЋА: 6, СРЕТЕНА ПАШИЋА: 5,19,27, ЖИВАДИНА ДАВИДОВИЋА-ЏУЛА: 8, ЖИВКА МИЛИЋЕВИЋА: 6-8,16-18,9,15А,23, Насеље МЛАДЕНОВАЦ (ВАРОШ): АРЧИБАЛДА РАЈСА: 4, ДЕСПОТА СТЕФАНА: 2,1-3, ДРИНСКА: 2-12,16,22,30-36,1-5,9,13-15,19,25,29,35,41, КРАГУЈЕВАЧКА: 38,42,13, ЉУБЕ ДАВИДОВИЋА: 2А,10-24,28-40,44-54,58-62,66,70-74,80-80А,84-92,100-102,114-118,124-124А,49, ПАНЧИЋЕВА: 2,1, ВОЈВОДЕ СТЕПЕ: 30,36-42,46-50,54,58,1-3,11-13,17,31,37, Насеље РАЈКОВАЦ: СЕЛИШТЕ: , Насеље ВЕЛИКА ИВАНЧА: ПРЕВАЛСКА: 25А-27, ВЕЛИКА ИВАНЧА: 64,242,31Ф-33Д,"
+   },
+   "raw_text_hash": "e9a21a35925f91e6b90c57b078a5ab2271f6408cd2ad6b5071b2a2cd1e137702",
+   "warnings": [
+    "napomena u zagradi uz 'Насеље МЛАДЕНОВАЦ': 'ВАРОШ'",
+    "ulica bez kućnih brojeva: 'СЕЛИШТЕ'"
+   ]
+  },
+  {
+   "key": "084e6bbac15f4eef",
+   "source_id": "eds-bgd-dan3",
+   "source_url": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm",
+   "utility_type": "electricity",
+   "notice_type": "planned_work",
+   "status": "scheduled",
+   "verification": "official",
+   "date": "2026-10-19",
+   "municipality": "Вождовац",
+   "municipality_lat": "Voždovac",
+   "time_text": "09:00 - 13:00",
+   "planned_start_at": "2026-10-19T09:00:00+02:00",
+   "planned_end_at": "2026-10-19T13:00:00+02:00",
+   "estimated_restoration_at": null,
+   "locations": [
+    {
+     "settlement": null,
+     "settlement_lat": null,
+     "street": "БРАЋЕ СРНИЋ",
+     "street_lat": "BRAĆE SRNIĆ",
+     "numbers": [
+      {
+       "raw": "10А-12Б",
+       "from_raw": "10А",
+       "to_raw": "12Б",
+       "from": 10,
+       "to": 12
+      }
+     ]
+    }
+   ],
+   "raw": {
+    "municipality": "Вождовац",
+    "time": "09:00 - 13:00",
+    "streets": "БРАЋЕ СРНИЋ: 10А-12Б,"
+   },
+   "raw_text_hash": "65b76b50789a59989c7e97a6216974ffe2dbac3031cfe35772f8b0f690949f29",
+   "warnings": []
+  },
+  {
+   "key": "569e3624dc74394f",
+   "source_id": "eds-bgd-dan3",
+   "source_url": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm",
+   "utility_type": "electricity",
+   "notice_type": "planned_work",
+   "status": "scheduled",
+   "verification": "official",
+   "date": "2026-10-19",
+   "municipality": "Звездара",
+   "municipality_lat": "Zvezdara",
+   "time_text": "09:00 - 13:00",
+   "planned_start_at": "2026-10-19T09:00:00+02:00",
+   "planned_end_at": "2026-10-19T13:00:00+02:00",
+   "estimated_restoration_at": null,
+   "locations": [
+    {
+     "settlement": "В.МОКРИ ЛУГ",
+     "settlement_lat": "V.MOKRI LUG",
+     "street": "ЦВЕТАНОВА ЋУПРИЈА",
+     "street_lat": "CVETANOVA ĆUPRIJA",
+     "numbers": [
+      {
+       "raw": "4-6А",
+       "from_raw": "4",
+       "to_raw": "6А",
+       "from": 4,
+       "to": 6
+      },
+      {
+       "raw": "16-20Ж",
+       "from_raw": "16",
+       "to_raw": "20Ж",
+       "from": 16,
+       "to": 20
+      },
+      {
+       "raw": "94",
+       "from_raw": "94",
+       "to_raw": "94",
+       "from": 94,
+       "to": 94,
+       "without_number": false
+      },
+      {
+       "raw": "71-81",
+       "from_raw": "71",
+       "to_raw": "81",
+       "from": 71,
+       "to": 81
+      },
+      {
+       "raw": "89-105Л",
+       "from_raw": "89",
+       "to_raw": "105Л",
+       "from": 89,
+       "to": 105
+      }
+     ]
+    },
+    {
+     "settlement": "В.МОКРИ ЛУГ",
+     "settlement_lat": "V.MOKRI LUG",
+     "street": "СВЕТОЗАРА РАДОЈЧИЋА",
+     "street_lat": "SVETOZARA RADOJČIĆA",
+     "numbers": [
+      {
+       "raw": "бб",
+       "from_raw": "бб",
+       "to_raw": "бб",
+       "from": null,
+       "to": null,
+       "without_number": true
+      },
+      {
+       "raw": "74-76",
+       "from_raw": "74",
+       "to_raw": "76",
+       "from": 74,
+       "to": 76
+      },
+      {
+       "raw": "80-94",
+       "from_raw": "80",
+       "to_raw": "94",
+       "from": 80,
+       "to": 94
+      }
+     ]
+    }
+   ],
+   "raw": {
+    "municipality": "Звездара",
+    "time": "09:00 - 13:00",
+    "streets": "Насеље В.МОКРИ ЛУГ: ЦВЕТАНОВА ЋУПРИЈА: 4-6А,16-20Ж,94,71-81,89-105Л, СВЕТОЗАРА РАДОЈЧИЋА: бб,74-76,80-94,"
+   },
+   "raw_text_hash": "d94c3ae5152ce02ec1ded1f4afb86c4ed0b545c05de64d3cd1d0cc3bf3b49332",
+   "warnings": []
+  },
+  {
+   "key": "1ac43cc7200cb964",
+   "source_id": "eds-bgd-dan3",
+   "source_url": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm",
+   "utility_type": "electricity",
+   "notice_type": "planned_work",
+   "status": "scheduled",
+   "verification": "official",
+   "date": "2026-10-19",
+   "municipality": "Обреновац",
+   "municipality_lat": "Obrenovac",
+   "time_text": "09:30 - 10:30",
+   "planned_start_at": "2026-10-19T09:30:00+02:00",
+   "planned_end_at": "2026-10-19T10:30:00+02:00",
+   "estimated_restoration_at": null,
+   "locations": [
+    {
+     "settlement": "УШЋЕ",
+     "settlement_lat": "UŠĆE",
+     "street": "ГОРЊИ КРАЈ",
+     "street_lat": "GORNJI KRAJ",
+     "numbers": [
+      {
+       "raw": "1",
+       "from_raw": "1",
+       "to_raw": "1",
+       "from": 1,
+       "to": 1,
+       "without_number": false
+      },
+      {
+       "raw": "205",
+       "from_raw": "205",
+       "to_raw": "205",
+       "from": 205,
+       "to": 205,
+       "without_number": false
+      }
+     ]
+    },
+    {
+     "settlement": "УШЋЕ",
+     "settlement_lat": "UŠĆE",
+     "street": "ПУТ ЗА ЛЕЛИЋА КРАЈ",
+     "street_lat": "PUT ZA LELIĆA KRAJ",
+     "numbers": [
+      {
+       "raw": "26-28А",
+       "from_raw": "26",
+       "to_raw": "28А",
+       "from": 26,
+       "to": 28
+      },
+      {
+       "raw": "38А",
+       "from_raw": "38А",
+       "to_raw": "38А",
+       "from": 38,
+       "to": 38,
+       "without_number": false
+      },
+      {
+       "raw": "23",
+       "from_raw": "23",
+       "to_raw": "23",
+       "from": 23,
+       "to": 23,
+       "without_number": false
+      },
+      {
+       "raw": "31",
+       "from_raw": "31",
+       "to_raw": "31",
+       "from": 31,
+       "to": 31,
+       "without_number": false
+      }
+     ]
+    },
+    {
+     "settlement": "УШЋЕ",
+     "settlement_lat": "UŠĆE",
+     "street": "УШЋЕ НЕМА НАЗИВ",
+     "street_lat": "UŠĆE NEMA NAZIV",
+     "numbers": [
+      {
+       "raw": "18",
+       "from_raw": "18",
+       "to_raw": "18",
+       "from": 18,
+       "to": 18,
+       "without_number": false
+      },
+      {
+       "raw": "22",
+       "from_raw": "22",
+       "to_raw": "22",
+       "from": 22,
+       "to": 22,
+       "without_number": false
+      },
+      {
+       "raw": "40",
+       "from_raw": "40",
+       "to_raw": "40",
+       "from": 40,
+       "to": 40,
+       "without_number": false
+      },
+      {
+       "raw": "132",
+       "from_raw": "132",
+       "to_raw": "132",
+       "from": 132,
+       "to": 132,
+       "without_number": false
+      },
+      {
+       "raw": "138",
+       "from_raw": "138",
+       "to_raw": "138",
+       "from": 138,
+       "to": 138,
+       "without_number": false
+      },
+      {
+       "raw": "29",
+       "from_raw": "29",
+       "to_raw": "29",
+       "from": 29,
+       "to": 29,
+       "without_number": false
+      },
+      {
+       "raw": "59",
+       "from_raw": "59",
+       "to_raw": "59",
+       "from": 59,
+       "to": 59,
+       "without_number": false
+      }
+     ]
+    }
+   ],
+   "raw": {
+    "municipality": "Обреновац",
+    "time": "09:30 - 10:30",
+    "streets": "Насеље УШЋЕ: ГОРЊИ КРАЈ: 1,205, ПУТ ЗА ЛЕЛИЋА КРАЈ: 26-28А,38А,23,31, УШЋЕ НЕМА НАЗИВ: 18,22,40,132,138,29,59,"
+   },
+   "raw_text_hash": "531c9b265f1d264fc8aca7e7c762f86426a498f0e2f537a863e6beb8443f1d9e",
+   "warnings": []
+  },
+  {
+   "key": "a3433a710ef94917",
+   "source_id": "eds-bgd-dan3",
+   "source_url": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm",
+   "utility_type": "electricity",
+   "notice_type": "planned_work",
+   "status": "scheduled",
+   "verification": "official",
+   "date": "2026-10-19",
+   "municipality": "Обреновац",
+   "municipality_lat": "Obrenovac",
+   "time_text": "10:30 - 11:30",
+   "planned_start_at": "2026-10-19T10:30:00+02:00",
+   "planned_end_at": "2026-10-19T11:30:00+02:00",
+   "estimated_restoration_at": null,
+   "locations": [
+    {
+     "settlement": "СКЕЛА",
+     "settlement_lat": "SKELA",
+     "street": "ВОРБИШ",
+     "street_lat": "VORBIŠ",
+     "numbers": [
+      {
+       "raw": "540",
+       "from_raw": "540",
+       "to_raw": "540",
+       "from": 540,
+       "to": 540,
+       "without_number": false
+      },
+      {
+       "raw": "107",
+       "from_raw": "107",
+       "to_raw": "107",
+       "from": 107,
+       "to": 107,
+       "without_number": false
+      }
+     ]
+    },
+    {
+     "settlement": "УШЋЕ",
+     "settlement_lat": "UŠĆE",
+     "street": "БАШИН ШОР",
+     "street_lat": "BAŠIN ŠOR",
+     "numbers": [
+      {
+       "raw": "187",
+       "from_raw": "187",
+       "to_raw": "187",
+       "from": 187,
+       "to": 187,
+       "without_number": false
+      }
+     ]
+    },
+    {
+     "settlement": "УШЋЕ",
+     "settlement_lat": "UŠĆE",
+     "street": "БЕЛО ПОЉЕ",
+     "street_lat": "BELO POLJE",
+     "numbers": [
+      {
+       "raw": "186",
+       "from_raw": "186",
+       "to_raw": "186",
+       "from": 186,
+       "to": 186,
+       "without_number": false
+      }
+     ]
+    },
+    {
+     "settlement": "УШЋЕ",
+     "settlement_lat": "UŠĆE",
+     "street": "ДОЊИ КРАЈ",
+     "street_lat": "DONJI KRAJ",
+     "numbers": [
+      {
+       "raw": "38",
+       "from_raw": "38",
+       "to_raw": "38",
+       "from": 38,
+       "to": 38,
+       "without_number": false
+      },
+      {
+       "raw": "264",
+       "from_raw": "264",
+       "to_raw": "264",
+       "from": 264,
+       "to": 264,
+       "without_number": false
+      },
+      {
+       "raw": "1",
+       "from_raw": "1",
+       "to_raw": "1",
+       "from": 1,
+       "to": 1,
+       "without_number": false
+      },
+      {
+       "raw": "21",
+       "from_raw": "21",
+       "to_raw": "21",
+       "from": 21,
+       "to": 21,
+       "without_number": false
+      },
+      {
+       "raw": "35",
+       "from_raw": "35",
+       "to_raw": "35",
+       "from": 35,
+       "to": 35,
+       "without_number": false
+      },
+      {
+       "raw": "209",
+       "from_raw": "209",
+       "to_raw": "209",
+       "from": 209,
+       "to": 209,
+       "without_number": false
+      }
+     ]
+    },
+    {
+     "settlement": "УШЋЕ",
+     "settlement_lat": "UŠĆE",
+     "street": "ЂОТУНОВИЋА КРАЈ",
+     "street_lat": "ĐOTUNOVIĆA KRAJ",
+     "numbers": [
+      {
+       "raw": "3",
+       "from_raw": "3",
+       "to_raw": "3",
+       "from": 3,
+       "to": 3,
+       "without_number": false
+      },
+      {
+       "raw": "13-15",
+       "from_raw": "13",
+       "to_raw": "15",
+       "from": 13,
+       "to": 15
+      }
+     ]
+    },
+    {
+     "settlement": "УШЋЕ",
+     "settlement_lat": "UŠĆE",
+     "street": "ГОЛА БАРА",
+     "street_lat": "GOLA BARA",
+     "numbers": [
+      {
+       "raw": "18-18А",
+       "from_raw": "18",
+       "to_raw": "18А",
+       "from": 18,
+       "to": 18
+      },
+      {
+       "raw": "48",
+       "from_raw": "48",
+       "to_raw": "48",
+       "from": 48,
+       "to": 48,
+       "without_number": false
+      },
+      {
+       "raw": "5-11",
+       "from_raw": "5",
+       "to_raw": "11",
+       "from": 5,
+       "to": 11
+      },
+      {
+       "raw": "15",
+       "from_raw": "15",
+       "to_raw": "15",
+       "from": 15,
+       "to": 15,
+       "without_number": false
+      }
+     ]
+    },
+    {
+     "settlement": "УШЋЕ",
+     "settlement_lat": "UŠĆE",
+     "street": "ГОРЈАЧА",
+     "street_lat": "GORJAČA",
+     "numbers": [
+      {
+       "raw": "6",
+       "from_raw": "6",
+       "to_raw": "6",
+       "from": 6,
+       "to": 6,
+       "without_number": false
+      },
+      {
+       "raw": "24",
+       "from_raw": "24",
+       "to_raw": "24",
+       "from": 24,
+       "to": 24,
+       "without_number": false
+      },
+      {
+       "raw": "58",
+       "from_raw": "58",
+       "to_raw": "58",
+       "from": 58,
+       "to": 58,
+       "without_number": false
+      }
+     ]
+    },
+    {
+     "settlement": "УШЋЕ",
+     "settlement_lat": "UŠĆE",
+     "street": "ГОРЊИ КРАЈ",
+     "street_lat": "GORNJI KRAJ",
+     "numbers": [
+      {
+       "raw": "ББ",
+       "from_raw": "ББ",
+       "to_raw": "ББ",
+       "from": null,
+       "to": null,
+       "without_number": true
+      },
+      {
+       "raw": "2-10А",
+       "from_raw": "2",
+       "to_raw": "10А",
+       "from": 2,
+       "to": 10
+      },
+      {
+       "raw": "16",
+       "from_raw": "16",
+       "to_raw": "16",
+       "from": 16,
+       "to": 16,
+       "without_number": false
+      },
+      {
+       "raw": "20Б-22",
+       "from_raw": "20Б",
+       "to_raw": "22",
+       "from": 20,
+       "to": 22
+      },
+      {
+       "raw": "32-44",
+       "from_raw": "32",
+       "to_raw": "44",
+       "from": 32,
+       "to": 44
+      },
+      {
+       "raw": "1А",
+       "from_raw": "1А",
+       "to_raw": "1А",
+       "from": 1,
+       "to": 1,
+       "without_number": false
+      },
+      {
+       "raw": "15-19",
+       "from_raw": "15",
+       "to_raw": "19",
+       "from": 15,
+       "to": 19
+      },
+      {
+       "raw": "23-27",
+       "from_raw": "23",
+       "to_raw": "27",
+       "from": 23,
+       "to": 27
+      },
+      {
+       "raw": "31-33",
+       "from_raw": "31",
+       "to_raw": "33",
+       "from": 31,
+       "to": 33
+      },
+      {
+       "raw": "37-37А",
+       "from_raw": "37",
+       "to_raw": "37А",
+       "from": 37,
+       "to": 37
+      },
+      {
+       "raw": "45А",
+       "from_raw": "45А",
+       "to_raw": "45А",
+       "from": 45,
+       "to": 45,
+       "without_number": false
+      }
+     ]
+    },
+    {
+     "settlement": "УШЋЕ",
+     "settlement_lat": "UŠĆE",
+     "street": "ГОРЊИ КРАЈ 2 ДЕО",
+     "street_lat": "GORNJI KRAJ 2 DEO",
+     "numbers": [
+      {
+       "raw": "25",
+       "from_raw": "25",
+       "to_raw": "25",
+       "from": 25,
+       "to": 25,
+       "without_number": false
+      }
+     ]
+    },
+    {
+     "settlement": "УШЋЕ",
+     "settlement_lat": "UŠĆE",
+     "street": "КОД ДОМА",
+     "street_lat": "KOD DOMA",
+     "numbers": [
+      {
+       "raw": "7",
+       "from_raw": "7",
+       "to_raw": "7",
+       "from": 7,
+       "to": 7,
+       "without_number": false
+      }
+     ]
+    },
+    {
+     "settlement": "УШЋЕ",
+     "settlement_lat": "UŠĆE",
+     "street": "КОД Т.С.1",
+     "street_lat": "KOD T.S.1",
+     "numbers": [
+      {
+       "raw": "8",
+       "from_raw": "8",
+       "to_raw": "8",
+       "from": 8,
+       "to": 8,
+       "without_number": false
+      }
+     ]
+    },
+    {
+     "settlement": "УШЋЕ",
+     "settlement_lat": "UŠĆE",
+     "street": "КРАЈ ЦРКВЕ",
+     "street_lat": "KRAJ CRKVE",
+     "numbers": [
+      {
+       "raw": "40",
+       "from_raw": "40",
+       "to_raw": "40",
+       "from": 40,
+       "to": 40,
+       "without_number": false
+      }
+     ]
+    },
+    {
+     "settlement": "УШЋЕ",
+     "settlement_lat": "UŠĆE",
+     "street": "МАРЈАНОВИЋА КРАЈ",
+     "street_lat": "MARJANOVIĆA KRAJ",
+     "numbers": [
+      {
+       "raw": "1А",
+       "from_raw": "1А",
+       "to_raw": "1А",
+       "from": 1,
+       "to": 1,
+       "without_number": false
+      }
+     ]
+    },
+    {
+     "settlement": "УШЋЕ",
+     "settlement_lat": "UŠĆE",
+     "street": "ПОЉАЧКИ КРАЈ",
+     "street_lat": "POLJAČKI KRAJ",
+     "numbers": [
+      {
+       "raw": "2-2А",
+       "from_raw": "2",
+       "to_raw": "2А",
+       "from": 2,
+       "to": 2
+      },
+      {
+       "raw": "16",
+       "from_raw": "16",
+       "to_raw": "16",
+       "from": 16,
+       "to": 16,
+       "without_number": false
+      }
+     ]
+    },
+    {
+     "settlement": "УШЋЕ",
+     "settlement_lat": "UŠĆE",
+     "street": "ПУТ ЗА ЛЕЛИЋА КРАЈ",
+     "street_lat": "PUT ZA LELIĆA KRAJ",
+     "numbers": [
+      {
+       "raw": "1Г",
+       "from_raw": "1Г",
+       "to_raw": "1Г",
+       "from": 1,
+       "to": 1,
+       "without_number": false
+      },
+      {
+       "raw": "11",
+       "from_raw": "11",
+       "to_raw": "11",
+       "from": 11,
+       "to": 11,
+       "without_number": false
+      }
+     ]
+    },
+    {
+     "settlement": "УШЋЕ",
+     "settlement_lat": "UŠĆE",
+     "street": "УШЋЕ - ЦЕНТАР",
+     "street_lat": "UŠĆE - CENTAR",
+     "numbers": [
+      {
+       "raw": "0-0ББ",
+       "from_raw": "0",
+       "to_raw": "0ББ",
+       "from": 0,
+       "to": 0
+      },
+      {
+       "raw": "10-12",
+       "from_raw": "10",
+       "to_raw": "12",
+       "from": 10,
+       "to": 12
+      },
+      {
+       "raw": "46",
+       "from_raw": "46",
+       "to_raw": "46",
+       "from": 46,
+       "to": 46,
+       "without_number": false
+      },
+      {
+       "raw": "1111",
+       "from_raw": "1111",
+       "to_raw": "1111",
+       "from": 1111,
+       "to": 1111,
+       "without_number": false
+      }
+     ]
+    },
+    {
+     "settlement": "УШЋЕ",
+     "settlement_lat": "UŠĆE",
+     "street": "УШЋЕ НЕМА НАЗИВ",
+     "street_lat": "UŠĆE NEMA NAZIV",
+     "numbers": [
+      {
+       "raw": "2-4",
+       "from_raw": "2",
+       "to_raw": "4",
+       "from": 2,
+       "to": 4
+      },
+      {
+       "raw": "8",
+       "from_raw": "8",
+       "to_raw": "8",
+       "from": 8,
+       "to": 8,
+       "without_number": false
+      },
+      {
+       "raw": "14-16",
+       "from_raw": "14",
+       "to_raw": "16",
+       "from": 14,
+       "to": 16
+      },
+      {
+       "raw": "20",
+       "from_raw": "20",
+       "to_raw": "20",
+       "from": 20,
+       "to": 20,
+       "without_number": false
+      },
+      {
+       "raw": "26",
+       "from_raw": "26",
+       "to_raw": "26",
+       "from": 26,
+       "to": 26,
+       "without_number": false
+      },
+      {
+       "raw": "32-38",
+       "from_raw": "32",
+       "to_raw": "38",
+       "from": 32,
+       "to": 38
+      },
+      {
+       "raw": "42-56",
+       "from_raw": "42",
+       "to_raw": "56",
+       "from": 42,
+       "to": 56
+      },
+      {
+       "raw": "60",
+       "from_raw": "60",
+       "to_raw": "60",
+       "from": 60,
+       "to": 60,
+       "without_number": false
+      },
+      {
+       "raw": "68",
+       "from_raw": "68",
+       "to_raw": "68",
+       "from": 68,
+       "to": 68,
+       "without_number": false
+      },
+      {
+       "raw": "80-82",
+       "from_raw": "80",
+       "to_raw": "82",
+       "from": 80,
+       "to": 82
+      },
+      {
+       "raw": "88",
+       "from_raw": "88",
+       "to_raw": "88",
+       "from": 88,
+       "to": 88,
+       "without_number": false
+      },
+      {
+       "raw": "102",
+       "from_raw": "102",
+       "to_raw": "102",
+       "from": 102,
+       "to": 102,
+       "without_number": false
+      },
+      {
+       "raw": "140",
+       "from_raw": "140",
+       "to_raw": "140",
+       "from": 140,
+       "to": 140,
+       "without_number": false
+      },
+      {
+       "raw": "162",
+       "from_raw": "162",
+       "to_raw": "162",
+       "from": 162,
+       "to": 162,
+       "without_number": false
+      },
+      {
+       "raw": "192",
+       "from_raw": "192",
+       "to_raw": "192",
+       "from": 192,
+       "to": 192,
+       "without_number": false
+      },
+      {
+       "raw": "196",
+       "from_raw": "196",
+       "to_raw": "196",
+       "from": 196,
+       "to": 196,
+       "without_number": false
+      },
+      {
+       "raw": "202",
+       "from_raw": "202",
+       "to_raw": "202",
+       "from": 202,
+       "to": 202,
+       "without_number": false
+      },
+      {
+       "raw": "234",
+       "from_raw": "234",
+       "to_raw": "234",
+       "from": 234,
+       "to": 234,
+       "without_number": false
+      },
+      {
+       "raw": "270",
+       "from_raw": "270",
+       "to_raw": "270",
+       "from": 270,
+       "to": 270,
+       "without_number": false
+      },
+      {
+       "raw": "1-13",
+       "from_raw": "1",
+       "to_raw": "13",
+       "from": 1,
+       "to": 13
+      },
+      {
+       "raw": "21-27",
+       "from_raw": "21",
+       "to_raw": "27",
+       "from": 21,
+       "to": 27
+      },
+      {
+       "raw": "31-35",
+       "from_raw": "31",
+       "to_raw": "35",
+       "from": 31,
+       "to": 35
+      },
+      {
+       "raw": "41-43",
+       "from_raw": "41",
+       "to_raw": "43",
+       "from": 41,
+       "to": 43
+      },
+      {
+       "raw": "49-51",
+       "from_raw": "49",
+       "to_raw": "51",
+       "from": 49,
+       "to": 51
+      },
+      {
+       "raw": "67",
+       "from_raw": "67",
+       "to_raw": "67",
+       "from": 67,
+       "to": 67,
+       "without_number": false
+      },
+      {
+       "raw": "87",
+       "from_raw": "87",
+       "to_raw": "87",
+       "from": 87,
+       "to": 87,
+       "without_number": false
+      },
+      {
+       "raw": "147",
+       "from_raw": "147",
+       "to_raw": "147",
+       "from": 147,
+       "to": 147,
+       "without_number": false
+      },
+      {
+       "raw": "211",
+       "from_raw": "211",
+       "to_raw": "211",
+       "from": 211,
+       "to": 211,
+       "without_number": false
+      },
+      {
+       "raw": "241",
+       "from_raw": "241",
+       "to_raw": "241",
+       "from": 241,
+       "to": 241,
+       "without_number": false
+      },
+      {
+       "raw": "247",
+       "from_raw": "247",
+       "to_raw": "247",
+       "from": 247,
+       "to": 247,
+       "without_number": false
+      }
+     ]
+    },
+    {
+     "settlement": "УШЋЕ",
+     "settlement_lat": "UŠĆE",
+     "street": "УШЋЕ СЕЛО",
+     "street_lat": "UŠĆE SELO",
+     "numbers": [
+      {
+       "raw": "6",
+       "from_raw": "6",
+       "to_raw": "6",
+       "from": 6,
+       "to": 6,
+       "without_number": false
+      },
+      {
+       "raw": "21",
+       "from_raw": "21",
+       "to_raw": "21",
+       "from": 21,
+       "to": 21,
+       "without_number": false
+      },
+      {
+       "raw": "63А",
+       "from_raw": "63А",
+       "to_raw": "63А",
+       "from": 63,
+       "to": 63,
+       "without_number": false
+      }
+     ]
+    },
+    {
+     "settlement": "УШЋЕ",
+     "settlement_lat": "UŠĆE",
+     "street": "ВИШЊАК",
+     "street_lat": "VIŠNJAK",
+     "numbers": [
+      {
+       "raw": "5",
+       "from_raw": "5",
+       "to_raw": "5",
+       "from": 5,
+       "to": 5,
+       "without_number": false
+      }
+     ]
+    },
+    {
+     "settlement": "УШЋЕ",
+     "settlement_lat": "UŠĆE",
+     "street": "ВОЋЊАК",
+     "street_lat": "VOĆNJAK",
+     "numbers": [
+      {
+       "raw": "0",
+       "from_raw": "0",
+       "to_raw": "0",
+       "from": 0,
+       "to": 0,
+       "without_number": false
+      }
+     ]
+    },
+    {
+     "settlement": "УШЋЕ",
+     "settlement_lat": "UŠĆE",
+     "street": "ЖИВКОВИЋЕВ КРАЈ",
+     "street_lat": "ŽIVKOVIĆEV KRAJ",
+     "numbers": [
+      {
+       "raw": "216",
+       "from_raw": "216",
+       "to_raw": "216",
+       "from": 216,
+       "to": 216,
+       "without_number": false
+      }
+     ]
+    }
+   ],
+   "raw": {
+    "municipality": "Обреновац",
+    "time": "10:30 - 11:30",
+    "streets": "Насеље СКЕЛА: ВОРБИШ: 540,107, Насеље УШЋЕ: БАШИН ШОР: 187, БЕЛО ПОЉЕ: 186, ДОЊИ КРАЈ: 38,264,1,21,35,209, ЂОТУНОВИЋА КРАЈ: 3,13-15, ГОЛА БАРА: 18-18А,48,5-11,15, ГОРЈАЧА: 6,24,58, ГОРЊИ КРАЈ: ББ,2-10А,16,20Б-22,32-44,1А,15-19,23-27,31-33,37-37А,45А, ГОРЊИ КРАЈ 2 ДЕО: 25, КОД ДОМА: 7, КОД Т.С.1: 8, КРАЈ ЦРКВЕ: 40, МАРЈАНОВИЋА КРАЈ: 1А, ПОЉАЧКИ КРАЈ: 2-2А,16, ПУТ ЗА ЛЕЛИЋА КРАЈ: 1Г,11, УШЋЕ - ЦЕНТАР: 0-0ББ,10-12,46,1111, УШЋЕ НЕМА НАЗИВ: 2-4,8,14-16,20,26,32-38,42-56,60,68,80-82,88,102,140,162,192,196,202,234,270,1-13,21-27,31-35,41-43,49-51,67,87,147,211,241,247, УШЋЕ СЕЛО: 6,21,63А, ВИШЊАК: 5, ВОЋЊАК: 0, ЖИВКОВИЋЕВ КРАЈ: 216,"
+   },
+   "raw_text_hash": "dad725fac88380e4a4bd1d9508ab218517dac9c03fd08199f282ca4fb3261ec9",
+   "warnings": []
+  }
+ ]
+}
