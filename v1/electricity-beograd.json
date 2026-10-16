@@ -1,7 +1,7 @@
 {
  "feed_version": 1,
  "parser_version": "eds-0.2",
- "generated_at": "2026-10-16T17:02:13Z",
+ "generated_at": "2026-10-16T19:35:21Z",
  "utility_type": "electricity",
  "region": "Beograd",
  "sources": [
@@ -10,7 +10,7 @@
    "url": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm",
    "page_date": "2026-10-16",
    "content_fetched_at": "2026-10-16T15:50:27Z",
-   "last_checked_at": "2026-10-16T17:01:47Z",
+   "last_checked_at": "2026-10-16T19:35:00Z",
    "notice_count": 14,
    "warnings": []
   },
@@ -19,7 +19,7 @@
    "url": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm",
    "page_date": "2026-10-17",
    "content_fetched_at": "2026-10-16T15:50:31Z",
-   "last_checked_at": "2026-10-16T17:01:51Z",
+   "last_checked_at": "2026-10-16T19:35:04Z",
    "notice_count": 3,
    "warnings": []
   },
@@ -28,7 +28,7 @@
    "url": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm",
    "page_date": "2026-10-18",
    "content_fetched_at": "2026-10-16T15:50:34Z",
-   "last_checked_at": "2026-10-16T17:01:55Z",
+   "last_checked_at": "2026-10-16T19:35:07Z",
    "notice_count": 1,
    "warnings": []
   },
@@ -37,7 +37,7 @@
    "url": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm",
    "page_date": "2026-10-19",
    "content_fetched_at": "2026-10-16T15:50:38Z",
-   "last_checked_at": "2026-10-16T17:01:59Z",
+   "last_checked_at": "2026-10-16T19:35:11Z",
    "notice_count": 9,
    "warnings": []
   }
