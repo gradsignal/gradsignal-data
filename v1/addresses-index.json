@@ -1,7 +1,189 @@
 {
- "generated_at": "2026-10-16T21:48:39Z",
+ "generated_at": "2026-10-17T16:21:02Z",
  "attribution": "© OpenStreetMap contributors, ODbL 1.0 (https://www.openstreetmap.org/copyright)",
  "municipalities": [
+  {
+   "municipality": "Ada",
+   "file": "addresses-ada.json",
+   "bbox": [
+    45.71428,
+    19.8564,
+    45.85164,
+    20.16635
+   ],
+   "streets": 181,
+   "addresses": 7020,
+   "places": 6,
+   "villages": 4
+  },
+  {
+   "municipality": "Aleksandrovac",
+   "file": "addresses-aleksandrovac.json",
+   "bbox": [
+    43.3618,
+    20.79032,
+    43.55431,
+    21.2237
+   ],
+   "streets": 417,
+   "addresses": 10863,
+   "places": 56,
+   "villages": 55
+  },
+  {
+   "municipality": "Aleksinac",
+   "file": "addresses-aleksinac.json",
+   "bbox": [
+    43.38992,
+    21.5399,
+    43.69459,
+    21.91118
+   ],
+   "streets": 357,
+   "addresses": 14883,
+   "places": 105,
+   "villages": 70
+  },
+  {
+   "municipality": "Alibunar",
+   "file": "addresses-alibunar.json",
+   "bbox": [
+    44.95282,
+    20.83944,
+    45.26544,
+    21.08511
+   ],
+   "streets": 199,
+   "addresses": 8787,
+   "places": 12,
+   "villages": 9
+  },
+  {
+   "municipality": "Apatin",
+   "file": "addresses-apatin.json",
+   "bbox": [
+    45.54188,
+    18.90831,
+    45.76779,
+    19.14633
+   ],
+   "streets": 242,
+   "addresses": 10239,
+   "places": 14,
+   "villages": 10
+  },
+  {
+   "municipality": "Aranđelovac",
+   "file": "addresses-arandjelovac.json",
+   "bbox": [
+    44.1986,
+    20.39855,
+    44.46284,
+    20.67748
+   ],
+   "streets": 573,
+   "addresses": 17133,
+   "places": 22,
+   "villages": 19
+  },
+  {
+   "municipality": "Arilje",
+   "file": "addresses-arilje.json",
+   "bbox": [
+    43.58755,
+    19.86332,
+    43.81434,
+    20.23295
+   ],
+   "streets": 354,
+   "addresses": 6966,
+   "places": 26,
+   "villages": 23
+  },
+  {
+   "municipality": "Babušnica",
+   "file": "addresses-babusnica.json",
+   "bbox": [
+    42.86288,
+    22.2236,
+    43.12525,
+    22.63523
+   ],
+   "streets": 392,
+   "addresses": 8091,
+   "places": 61,
+   "villages": 59
+  },
+  {
+   "municipality": "Bač",
+   "file": "addresses-bac.json",
+   "bbox": [
+    45.2826,
+    19.03529,
+    45.45902,
+    19.32564
+   ],
+   "streets": 133,
+   "addresses": 4754,
+   "places": 11,
+   "villages": 7
+  },
+  {
+   "municipality": "Bačka Palanka",
+   "file": "addresses-backa-palanka.json",
+   "bbox": [
+    45.13935,
+    19.2459,
+    45.48551,
+    19.56609
+   ],
+   "streets": 277,
+   "addresses": 13971,
+   "places": 25,
+   "villages": 16
+  },
+  {
+   "municipality": "Bačka Topola",
+   "file": "addresses-backa-topola.json",
+   "bbox": [
+    45.7337,
+    19.1447,
+    46.06902,
+    19.90283
+   ],
+   "streets": 405,
+   "addresses": 11586,
+   "places": 27,
+   "villages": 22
+  },
+  {
+   "municipality": "Bački Petrovac",
+   "file": "addresses-backi-petrovac.json",
+   "bbox": [
+    45.24069,
+    19.52038,
+    45.413,
+    19.67061
+   ],
+   "streets": 147,
+   "addresses": 4990,
+   "places": 4,
+   "villages": 3
+  },
+  {
+   "municipality": "Bajina Bašta",
+   "file": "addresses-bajina-basta.json",
+   "bbox": [
+    43.81696,
+    19.25958,
+    44.16643,
+    19.79024
+   ],
+   "streets": 226,
+   "addresses": 13451,
+   "places": 300,
+   "villages": 182
+  },
   {
    "municipality": "Barajevo",
    "file": "addresses-barajevo.json",
@@ -13,20 +195,391 @@
    ],
    "streets": 947,
    "addresses": 18131,
-   "places": 23
+   "places": 24,
+   "villages": 19,
+   "city": "Beograd",
+   "belgrade": true
+  },
+  {
+   "municipality": "Batočina",
+   "file": "addresses-batocina.json",
+   "bbox": [
+    44.07104,
+    20.96075,
+    44.18992,
+    21.18031
+   ],
+   "streets": 225,
+   "addresses": 4867,
+   "places": 18,
+   "villages": 16
+  },
+  {
+   "municipality": "Bečej",
+   "file": "addresses-becej.json",
+   "bbox": [
+    45.5128,
+    19.80721,
+    45.77119,
+    20.11052
+   ],
+   "streets": 254,
+   "addresses": 13285,
+   "places": 12,
+   "villages": 6
+  },
+  {
+   "municipality": "Bela Crkva",
+   "file": "addresses-bela-crkva.json",
+   "bbox": [
+    44.81324,
+    21.22242,
+    45.01527,
+    21.55838
+   ],
+   "streets": 177,
+   "addresses": 7175,
+   "places": 16,
+   "villages": 15
+  },
+  {
+   "municipality": "Bela Palanka",
+   "file": "addresses-bela-palanka.json",
+   "bbox": [
+    43.1193,
+    22.1281,
+    43.38384,
+    22.45136
+   ],
+   "streets": 255,
+   "addresses": 6728,
+   "places": 48,
+   "villages": 47
+  },
+  {
+   "municipality": "Beočin",
+   "file": "addresses-beocin.json",
+   "bbox": [
+    45.13484,
+    19.49306,
+    45.24222,
+    19.82782
+   ],
+   "streets": 225,
+   "addresses": 7045,
+   "places": 44,
+   "villages": 15
+  },
+  {
+   "municipality": "Blace",
+   "file": "addresses-blace.json",
+   "bbox": [
+    43.20872,
+    21.16288,
+    43.36277,
+    21.39558
+   ],
+   "streets": 108,
+   "addresses": 7239,
+   "places": 41,
+   "villages": 40
+  },
+  {
+   "municipality": "Bogatić",
+   "file": "addresses-bogatic.json",
+   "bbox": [
+    44.7332,
+    19.31645,
+    44.92485,
+    19.63436
+   ],
+   "streets": 127,
+   "addresses": 9955,
+   "places": 16,
+   "villages": 14
+  },
+  {
+   "municipality": "Bojnik",
+   "file": "addresses-bojnik.json",
+   "bbox": [
+    42.95498,
+    21.52924,
+    43.10076,
+    21.835
+   ],
+   "streets": 256,
+   "addresses": 6428,
+   "places": 37,
+   "villages": 37
+  },
+  {
+   "municipality": "Boljevac",
+   "file": "addresses-boljevac.json",
+   "bbox": [
+    43.71733,
+    21.65503,
+    44.01554,
+    22.13202
+   ],
+   "streets": 383,
+   "addresses": 7448,
+   "places": 41,
+   "villages": 31
+  },
+  {
+   "municipality": "Bor",
+   "file": "addresses-bor.json",
+   "bbox": [
+    43.89906,
+    21.81317,
+    44.29904,
+    22.23483
+   ],
+   "streets": 588,
+   "addresses": 12259,
+   "places": 66,
+   "villages": 49
+  },
+  {
+   "municipality": "Bosilegrad",
+   "file": "addresses-bosilegrad.json",
+   "bbox": [
+    42.32277,
+    22.23521,
+    42.59257,
+    22.55222
+   ],
+   "streets": 441,
+   "addresses": 6981,
+   "places": 66,
+   "villages": 49
+  },
+  {
+   "municipality": "Brus",
+   "file": "addresses-brus.json",
+   "bbox": [
+    43.14553,
+    20.81586,
+    43.45754,
+    21.20539
+   ],
+   "streets": 427,
+   "addresses": 7422,
+   "places": 72,
+   "villages": 69
+  },
+  {
+   "municipality": "Bujanovac",
+   "file": "addresses-bujanovac.json",
+   "bbox": [
+    42.30922,
+    21.59318,
+    42.63633,
+    21.95464
+   ],
+   "streets": 151,
+   "addresses": 9238,
+   "places": 98,
+   "villages": 59
+  },
+  {
+   "municipality": "Čačak",
+   "file": "addresses-cacak.json",
+   "bbox": [
+    43.7315,
+    20.10204,
+    44.03396,
+    20.62977
+   ],
+   "streets": 1140,
+   "addresses": 37166,
+   "places": 458,
+   "villages": 156
+  },
+  {
+   "municipality": "Čajetina",
+   "file": "addresses-cajetina.json",
+   "bbox": [
+    43.57458,
+    19.52027,
+    43.8499,
+    19.93337
+   ],
+   "streets": 642,
+   "addresses": 11519,
+   "places": 208,
+   "villages": 82
+  },
+  {
+   "municipality": "Ćićevac",
+   "file": "addresses-cicevac.json",
+   "bbox": [
+    43.59223,
+    21.37271,
+    43.77131,
+    21.51235
+   ],
+   "streets": 144,
+   "addresses": 4606,
+   "places": 11,
+   "villages": 9
+  },
+  {
+   "municipality": "Čoka",
+   "file": "addresses-coka.json",
+   "bbox": [
+    45.81421,
+    20.09137,
+    46.0188,
+    20.3196
+   ],
+   "streets": 79,
+   "addresses": 4234,
+   "places": 8,
+   "villages": 7
+  },
+  {
+   "municipality": "Crna Trava",
+   "file": "addresses-crna-trava.json",
+   "bbox": [
+    42.75458,
+    22.21893,
+    42.94909,
+    22.46695
+   ],
+   "streets": 251,
+   "addresses": 3047,
+   "places": 157,
+   "villages": 135
+  },
+  {
+   "municipality": "Crveni Krst",
+   "file": "addresses-crveni-krst.json",
+   "bbox": [
+    43.32091,
+    21.7408,
+    43.47776,
+    21.9216
+   ],
+   "streets": 527,
+   "addresses": 12107,
+   "places": 32,
+   "villages": 25,
+   "city": "Niš"
   },
   {
    "municipality": "Čukarica",
    "file": "addresses-cukarica.json",
    "bbox": [
     44.62462,
-    20.28778,
+    20.28904,
     44.79462,
-    20.45884
+    20.45885
    ],
    "streets": 1049,
    "addresses": 26703,
-   "places": 45
+   "places": 48,
+   "villages": 3,
+   "city": "Beograd",
+   "belgrade": true
+  },
+  {
+   "municipality": "Ćuprija",
+   "file": "addresses-cuprija.json",
+   "bbox": [
+    43.88276,
+    21.28392,
+    44.0631,
+    21.57667
+   ],
+   "streets": 421,
+   "addresses": 10736,
+   "places": 18,
+   "villages": 17
+  },
+  {
+   "municipality": "Despotovac",
+   "file": "addresses-despotovac.json",
+   "bbox": [
+    43.98088,
+    21.27191,
+    44.20923,
+    21.7607
+   ],
+   "streets": 116,
+   "addresses": 9992,
+   "places": 39,
+   "villages": 34
+  },
+  {
+   "municipality": "Dimitrovgrad",
+   "file": "addresses-dimitrovgrad.json",
+   "bbox": [
+    42.87567,
+    22.53307,
+    43.17202,
+    22.96461
+   ],
+   "streets": 163,
+   "addresses": 6283,
+   "places": 43,
+   "villages": 42
+  },
+  {
+   "municipality": "Doljevac",
+   "file": "addresses-doljevac.json",
+   "bbox": [
+    43.15302,
+    21.77509,
+    43.28075,
+    21.90853
+   ],
+   "streets": 178,
+   "addresses": 5086,
+   "places": 16,
+   "villages": 16
+  },
+  {
+   "municipality": "Gadžin Han",
+   "file": "addresses-gadzin-han.json",
+   "bbox": [
+    43.06792,
+    21.90477,
+    43.25014,
+    22.2191
+   ],
+   "streets": 175,
+   "addresses": 5404,
+   "places": 38,
+   "villages": 37
+  },
+  {
+   "municipality": "Golubac",
+   "file": "addresses-golubac.json",
+   "bbox": [
+    44.5702,
+    21.5044,
+    44.73217,
+    21.99093
+   ],
+   "streets": 270,
+   "addresses": 4380,
+   "places": 32,
+   "villages": 31
+  },
+  {
+   "municipality": "Gornji Milanovac",
+   "file": "addresses-gornji-milanovac.json",
+   "bbox": [
+    43.92395,
+    20.06708,
+    44.26687,
+    20.65405
+   ],
+   "streets": 622,
+   "addresses": 15504,
+   "places": 119,
+   "villages": 96
   },
   {
    "municipality": "Grocka",
@@ -39,7 +592,333 @@
    ],
    "streets": 877,
    "addresses": 27144,
-   "places": 49
+   "places": 49,
+   "villages": 35,
+   "city": "Beograd",
+   "belgrade": true
+  },
+  {
+   "municipality": "Inđija",
+   "file": "addresses-indjija.json",
+   "bbox": [
+    44.99925,
+    19.9406,
+    45.17971,
+    20.29417
+   ],
+   "streets": 411,
+   "addresses": 19536,
+   "places": 19,
+   "villages": 13
+  },
+  {
+   "municipality": "Irig",
+   "file": "addresses-irig.json",
+   "bbox": [
+    45.02413,
+    19.71551,
+    45.16946,
+    20.00478
+   ],
+   "streets": 254,
+   "addresses": 7023,
+   "places": 50,
+   "villages": 12
+  },
+  {
+   "municipality": "Ivanjica",
+   "file": "addresses-ivanjica.json",
+   "bbox": [
+    43.27621,
+    19.92811,
+    43.6746,
+    20.43905
+   ],
+   "streets": 115,
+   "addresses": 10995,
+   "places": 99,
+   "villages": 84
+  },
+  {
+   "municipality": "Jagodina",
+   "file": "addresses-jagodina.json",
+   "bbox": [
+    43.85717,
+    21.05042,
+    44.12362,
+    21.35755
+   ],
+   "streets": 547,
+   "addresses": 17794,
+   "places": 66,
+   "villages": 57
+  },
+  {
+   "municipality": "Kanjiža",
+   "file": "addresses-kanjiza.json",
+   "bbox": [
+    45.93067,
+    19.73631,
+    46.17594,
+    20.07956
+   ],
+   "streets": 402,
+   "addresses": 10557,
+   "places": 17,
+   "villages": 12
+  },
+  {
+   "municipality": "Kikinda",
+   "file": "addresses-kikinda.json",
+   "bbox": [
+    45.60275,
+    20.25237,
+    45.96756,
+    20.63592
+   ],
+   "streets": 323,
+   "addresses": 18111,
+   "places": 37,
+   "villages": 13
+  },
+  {
+   "municipality": "Kladovo",
+   "file": "addresses-kladovo.json",
+   "bbox": [
+    44.42673,
+    22.28373,
+    44.70329,
+    22.75171
+   ],
+   "streets": 334,
+   "addresses": 7867,
+   "places": 29,
+   "villages": 26
+  },
+  {
+   "municipality": "Knić",
+   "file": "addresses-knic.json",
+   "bbox": [
+    43.80541,
+    20.55236,
+    44.06387,
+    20.89923
+   ],
+   "streets": 471,
+   "addresses": 8456,
+   "places": 37,
+   "villages": 37
+  },
+  {
+   "municipality": "Knjaževac",
+   "file": "addresses-knjazevac.json",
+   "bbox": [
+    43.3357,
+    22.04536,
+    43.72034,
+    22.62439
+   ],
+   "streets": 506,
+   "addresses": 14989,
+   "places": 94,
+   "villages": 91
+  },
+  {
+   "municipality": "Koceljeva",
+   "file": "addresses-koceljeva.json",
+   "bbox": [
+    44.37878,
+    19.58621,
+    44.6036,
+    19.93683
+   ],
+   "streets": 238,
+   "addresses": 5648,
+   "places": 29,
+   "villages": 17
+  },
+  {
+   "municipality": "Kosjerić",
+   "file": "addresses-kosjeric.json",
+   "bbox": [
+    43.94781,
+    19.69023,
+    44.1553,
+    20.02388
+   ],
+   "streets": 499,
+   "addresses": 7939,
+   "places": 82,
+   "villages": 36
+  },
+  {
+   "municipality": "Kostolac",
+   "file": "addresses-kostolac.json",
+   "bbox": [
+    44.67811,
+    21.07864,
+    44.79223,
+    21.3
+   ],
+   "streets": 145,
+   "addresses": 3546,
+   "places": 8,
+   "villages": 5,
+   "city": "Požarevac"
+  },
+  {
+   "municipality": "Kovačica",
+   "file": "addresses-kovacica.json",
+   "bbox": [
+    44.97317,
+    20.49595,
+    45.21464,
+    20.78546
+   ],
+   "streets": 157,
+   "addresses": 8900,
+   "places": 11,
+   "villages": 8
+  },
+  {
+   "municipality": "Kovin",
+   "file": "addresses-kovin.json",
+   "bbox": [
+    44.66446,
+    20.82254,
+    44.99568,
+    21.26814
+   ],
+   "streets": 250,
+   "addresses": 11939,
+   "places": 19,
+   "villages": 17
+  },
+  {
+   "municipality": "Kragujevac",
+   "file": "addresses-kragujevac.json",
+   "bbox": [
+    43.83089,
+    20.54975,
+    44.18506,
+    21.10671
+   ],
+   "streets": 2485,
+   "addresses": 55399,
+   "places": 105,
+   "villages": 59
+  },
+  {
+   "municipality": "Kraljevo",
+   "file": "addresses-kraljevo.json",
+   "bbox": [
+    43.17103,
+    20.3745,
+    43.86906,
+    20.94946
+   ],
+   "streets": 1283,
+   "addresses": 38632,
+   "places": 135,
+   "villages": 111
+  },
+  {
+   "municipality": "Krupanj",
+   "file": "addresses-krupanj.json",
+   "bbox": [
+    44.27092,
+    19.2103,
+    44.49492,
+    19.58744
+   ],
+   "streets": 368,
+   "addresses": 6027,
+   "places": 48,
+   "villages": 27
+  },
+  {
+   "municipality": "Kruševac",
+   "file": "addresses-krusevac.json",
+   "bbox": [
+    43.38264,
+    21.13779,
+    43.69309,
+    21.5699
+   ],
+   "streets": 1046,
+   "addresses": 35684,
+   "places": 106,
+   "villages": 101
+  },
+  {
+   "municipality": "Kučevo",
+   "file": "addresses-kucevo.json",
+   "bbox": [
+    44.32877,
+    21.48682,
+    44.60542,
+    21.9019
+   ],
+   "streets": 344,
+   "addresses": 8539,
+   "places": 31,
+   "villages": 30
+  },
+  {
+   "municipality": "Kula",
+   "file": "addresses-kula.json",
+   "bbox": [
+    45.53122,
+    19.31525,
+    45.72411,
+    19.57875
+   ],
+   "streets": 205,
+   "addresses": 11470,
+   "places": 12,
+   "villages": 8
+  },
+  {
+   "municipality": "Kuršumlija",
+   "file": "addresses-kursumlija.json",
+   "bbox": [
+    42.87787,
+    20.94048,
+    43.29163,
+    21.7363
+   ],
+   "streets": 783,
+   "addresses": 11395,
+   "places": 124,
+   "villages": 114
+  },
+  {
+   "municipality": "Lajkovac",
+   "file": "addresses-lajkovac.json",
+   "bbox": [
+    44.26803,
+    20.04938,
+    44.46004,
+    20.25265
+   ],
+   "streets": 238,
+   "addresses": 6446,
+   "places": 22,
+   "villages": 18
+  },
+  {
+   "municipality": "Lapovo",
+   "file": "addresses-lapovo.json",
+   "bbox": [
+    44.14839,
+    21.01531,
+    44.22236,
+    21.14633
+   ],
+   "streets": 119,
+   "addresses": 3531,
+   "places": 2,
+   "villages": 1
   },
   {
    "municipality": "Lazarevac",
@@ -52,20 +931,294 @@
    ],
    "streets": 929,
    "addresses": 20206,
-   "places": 46
+   "places": 46,
+   "villages": 36,
+   "city": "Beograd",
+   "belgrade": true
+  },
+  {
+   "municipality": "Lebane",
+   "file": "addresses-lebane.json",
+   "bbox": [
+    42.72325,
+    21.56033,
+    42.99068,
+    21.88229
+   ],
+   "streets": 319,
+   "addresses": 7061,
+   "places": 39,
+   "villages": 38
+  },
+  {
+   "municipality": "Leskovac",
+   "file": "addresses-leskovac.json",
+   "bbox": [
+    42.70559,
+    21.7037,
+    43.16025,
+    22.20175
+   ],
+   "streets": 978,
+   "addresses": 30933,
+   "places": 159,
+   "villages": 143
+  },
+  {
+   "municipality": "Ljig",
+   "file": "addresses-ljig.json",
+   "bbox": [
+    44.12047,
+    20.14005,
+    44.31763,
+    20.44809
+   ],
+   "streets": 306,
+   "addresses": 8033,
+   "places": 40,
+   "villages": 29
+  },
+  {
+   "municipality": "Ljubovija",
+   "file": "addresses-ljubovija.json",
+   "bbox": [
+    44.10103,
+    19.24059,
+    44.33633,
+    19.63783
+   ],
+   "streets": 509,
+   "addresses": 8687,
+   "places": 112,
+   "villages": 51
+  },
+  {
+   "municipality": "Loznica",
+   "file": "addresses-loznica.json",
+   "bbox": [
+    44.41116,
+    19.12755,
+    44.70253,
+    19.5926
+   ],
+   "streets": 755,
+   "addresses": 24676,
+   "places": 164,
+   "villages": 65
+  },
+  {
+   "municipality": "Lučani",
+   "file": "addresses-lucani.json",
+   "bbox": [
+    43.63742,
+    20.09056,
+    43.90517,
+    20.49276
+   ],
+   "streets": 363,
+   "addresses": 9614,
+   "places": 55,
+   "villages": 47
+  },
+  {
+   "municipality": "Majdanpek",
+   "file": "addresses-majdanpek.json",
+   "bbox": [
+    44.17444,
+    21.8788,
+    44.58293,
+    22.30744
+   ],
+   "streets": 167,
+   "addresses": 6575,
+   "places": 25,
+   "villages": 21
+  },
+  {
+   "municipality": "Mali Iđoš",
+   "file": "addresses-mali-idjos.json",
+   "bbox": [
+    45.61673,
+    19.60911,
+    45.76083,
+    19.75558
+   ],
+   "streets": 150,
+   "addresses": 5033,
+   "places": 4,
+   "villages": 4
+  },
+  {
+   "municipality": "Mali Zvornik",
+   "file": "addresses-mali-zvornik.json",
+   "bbox": [
+    44.26491,
+    19.1038,
+    44.48862,
+    19.26359
+   ],
+   "streets": 251,
+   "addresses": 4854,
+   "places": 86,
+   "villages": 34
+  },
+  {
+   "municipality": "Malo Crniće",
+   "file": "addresses-malo-crnice.json",
+   "bbox": [
+    44.45956,
+    21.20804,
+    44.62737,
+    21.51796
+   ],
+   "streets": 213,
+   "addresses": 4354,
+   "places": 20,
+   "villages": 19
+  },
+  {
+   "municipality": "Medijana",
+   "file": "addresses-medijana.json",
+   "bbox": [
+    43.29953,
+    21.87887,
+    43.32804,
+    21.9926
+   ],
+   "streets": 314,
+   "addresses": 9206,
+   "places": 14,
+   "villages": 1,
+   "city": "Niš"
+  },
+  {
+   "municipality": "Medveđa",
+   "file": "addresses-medvedja.json",
+   "bbox": [
+    42.675,
+    21.39942,
+    42.99395,
+    21.69597
+   ],
+   "streets": 492,
+   "addresses": 5135,
+   "places": 62,
+   "villages": 60
+  },
+  {
+   "municipality": "Merošina",
+   "file": "addresses-merosina.json",
+   "bbox": [
+    42.93691,
+    21.24549,
+    43.36814,
+    21.83961
+   ],
+   "streets": 175,
+   "addresses": 5208,
+   "places": 27,
+   "villages": 27
+  },
+  {
+   "municipality": "Mionica",
+   "file": "addresses-mionica.json",
+   "bbox": [
+    44.10558,
+    19.92482,
+    44.3365,
+    20.20247
+   ],
+   "streets": 373,
+   "addresses": 9003,
+   "places": 131,
+   "villages": 60
   },
   {
    "municipality": "Mladenovac",
    "file": "addresses-mladenovac.json",
    "bbox": [
-    44.32759,
+    44.3276,
     20.53342,
     44.567,
     20.8598
    ],
    "streets": 1077,
    "addresses": 20054,
-   "places": 24
+   "places": 24,
+   "villages": 22,
+   "city": "Beograd",
+   "belgrade": true
+  },
+  {
+   "municipality": "Negotin",
+   "file": "addresses-negotin.json",
+   "bbox": [
+    44.03154,
+    22.20285,
+    44.48243,
+    22.67931
+   ],
+   "streets": 595,
+   "addresses": 14675,
+   "places": 48,
+   "villages": 44
+  },
+  {
+   "municipality": "Niška Banja",
+   "file": "addresses-niska-banja.json",
+   "bbox": [
+    43.22146,
+    21.97184,
+    43.35582,
+    22.14881
+   ],
+   "streets": 289,
+   "addresses": 8498,
+   "places": 21,
+   "villages": 19,
+   "city": "Niš"
+  },
+  {
+   "municipality": "Nova Crnja",
+   "file": "addresses-nova-crnja.json",
+   "bbox": [
+    45.62466,
+    20.54478,
+    45.75343,
+    20.7976
+   ],
+   "streets": 77,
+   "addresses": 4259,
+   "places": 7,
+   "villages": 7
+  },
+  {
+   "municipality": "Nova Varoš",
+   "file": "addresses-nova-varos.json",
+   "bbox": [
+    43.35181,
+    19.64658,
+    43.63747,
+    20.06075
+   ],
+   "streets": 602,
+   "addresses": 10398,
+   "places": 67,
+   "villages": 56
+  },
+  {
+   "municipality": "Novi Bečej",
+   "file": "addresses-novi-becej.json",
+   "bbox": [
+    45.47638,
+    20.03062,
+    45.78215,
+    20.4223
+   ],
+   "streets": 171,
+   "addresses": 8556,
+   "places": 9,
+   "villages": 3
   },
   {
    "municipality": "Novi Beograd",
@@ -78,7 +1231,52 @@
    ],
    "streets": 317,
    "addresses": 10059,
-   "places": 19
+   "places": 99,
+   "villages": 0,
+   "city": "Beograd",
+   "belgrade": true
+  },
+  {
+   "municipality": "Novi Kneževac",
+   "file": "addresses-novi-knezevac.json",
+   "bbox": [
+    45.97406,
+    20.05319,
+    46.16279,
+    20.29468
+   ],
+   "streets": 120,
+   "addresses": 4357,
+   "places": 11,
+   "villages": 8
+  },
+  {
+   "municipality": "Novi Pazar",
+   "file": "addresses-novi-pazar.json",
+   "bbox": [
+    42.96283,
+    20.2337,
+    43.76585,
+    20.75339
+   ],
+   "streets": 327,
+   "addresses": 29005,
+   "places": 130,
+   "villages": 129
+  },
+  {
+   "municipality": "Novi Sad",
+   "file": "addresses-novi-sad.json",
+   "bbox": [
+    45.13809,
+    19.59458,
+    45.48033,
+    20.06395
+   ],
+   "streets": 1628,
+   "addresses": 58193,
+   "places": 165,
+   "villages": 18
   },
   {
    "municipality": "Obrenovac",
@@ -91,7 +1289,67 @@
    ],
    "streets": 1142,
    "addresses": 27027,
-   "places": 38
+   "places": 38,
+   "villages": 29,
+   "city": "Beograd",
+   "belgrade": true
+  },
+  {
+   "municipality": "Odžaci",
+   "file": "addresses-odzaci.json",
+   "bbox": [
+    45.4214,
+    19.05216,
+    45.63977,
+    19.38115
+   ],
+   "streets": 234,
+   "addresses": 8986,
+   "places": 9,
+   "villages": 8
+  },
+  {
+   "municipality": "Opovo",
+   "file": "addresses-opovo.json",
+   "bbox": [
+    44.9848,
+    20.40236,
+    45.18117,
+    20.60746
+   ],
+   "streets": 68,
+   "addresses": 3305,
+   "places": 4,
+   "villages": 3
+  },
+  {
+   "municipality": "Osečina",
+   "file": "addresses-osecina.json",
+   "bbox": [
+    44.21632,
+    19.43574,
+    44.47405,
+    19.71311
+   ],
+   "streets": 58,
+   "addresses": 6624,
+   "places": 27,
+   "villages": 21
+  },
+  {
+   "municipality": "Palilula (Niš)",
+   "file": "addresses-palilula-nis.json",
+   "bbox": [
+    43.25188,
+    21.74007,
+    43.34799,
+    21.97899
+   ],
+   "streets": 802,
+   "addresses": 19253,
+   "places": 31,
+   "villages": 15,
+   "city": "Niš"
   },
   {
    "municipality": "Palilula",
@@ -103,8 +1361,209 @@
     20.6217
    ],
    "streets": 1142,
-   "addresses": 30315,
-   "places": 78
+   "addresses": 30313,
+   "places": 85,
+   "villages": 14,
+   "city": "Beograd",
+   "belgrade": true
+  },
+  {
+   "municipality": "Pančevo",
+   "file": "addresses-pancevo.json",
+   "bbox": [
+    44.66637,
+    20.51453,
+    45.12071,
+    20.89654
+   ],
+   "streets": 567,
+   "addresses": 26984,
+   "places": 33,
+   "villages": 10
+  },
+  {
+   "municipality": "Pantelej",
+   "file": "addresses-pantelej.json",
+   "bbox": [
+    43.30604,
+    21.86698,
+    43.43914,
+    22.09332
+   ],
+   "streets": 592,
+   "addresses": 13146,
+   "places": 19,
+   "villages": 13,
+   "city": "Niš"
+  },
+  {
+   "municipality": "Paraćin",
+   "file": "addresses-paracin.json",
+   "bbox": [
+    43.74303,
+    21.27141,
+    43.98153,
+    21.68568
+   ],
+   "streets": 633,
+   "addresses": 16632,
+   "places": 39,
+   "villages": 38
+  },
+  {
+   "municipality": "Pećinci",
+   "file": "addresses-pecinci.json",
+   "bbox": [
+    44.69604,
+    19.89536,
+    44.93704,
+    20.13483
+   ],
+   "streets": 156,
+   "addresses": 7246,
+   "places": 17,
+   "villages": 16
+  },
+  {
+   "municipality": "Petrovac na Mlavi",
+   "file": "addresses-petrovac-na-mlavi.json",
+   "bbox": [
+    44.20226,
+    21.23947,
+    44.515,
+    21.61755
+   ],
+   "streets": 614,
+   "addresses": 11970,
+   "places": 39,
+   "villages": 38
+  },
+  {
+   "municipality": "Pirot",
+   "file": "addresses-pirot.json",
+   "bbox": [
+    42.98528,
+    22.42066,
+    43.39443,
+    22.86536
+   ],
+   "streets": 436,
+   "addresses": 24063,
+   "places": 88,
+   "villages": 75
+  },
+  {
+   "municipality": "Plandište",
+   "file": "addresses-plandiste.json",
+   "bbox": [
+    45.14556,
+    20.89768,
+    45.32576,
+    21.23839
+   ],
+   "streets": 106,
+   "addresses": 4349,
+   "places": 15,
+   "villages": 15
+  },
+  {
+   "municipality": "Požarevac",
+   "file": "addresses-pozarevac.json",
+   "bbox": [
+    44.5064,
+    21.03285,
+    44.7955,
+    21.38289
+   ],
+   "streets": 711,
+   "addresses": 17995,
+   "places": 48,
+   "villages": 23,
+   "city": "Požarevac"
+  },
+  {
+   "municipality": "Požega",
+   "file": "addresses-pozega.json",
+   "bbox": [
+    43.74124,
+    19.91337,
+    44.1226,
+    20.17014
+   ],
+   "streets": 650,
+   "addresses": 12947,
+   "places": 83,
+   "villages": 57
+  },
+  {
+   "municipality": "Preševo",
+   "file": "addresses-presevo.json",
+   "bbox": [
+    42.23929,
+    21.53428,
+    42.39156,
+    21.82032
+   ],
+   "streets": 96,
+   "addresses": 8695,
+   "places": 42,
+   "villages": 42
+  },
+  {
+   "municipality": "Priboj",
+   "file": "addresses-priboj.json",
+   "bbox": [
+    43.39119,
+    19.22262,
+    43.63825,
+    19.68456
+   ],
+   "streets": 135,
+   "addresses": 7813,
+   "places": 95,
+   "villages": 87
+  },
+  {
+   "municipality": "Prijepolje",
+   "file": "addresses-prijepolje.json",
+   "bbox": [
+    43.16897,
+    19.45489,
+    43.49372,
+    19.88486
+   ],
+   "streets": 821,
+   "addresses": 14007,
+   "places": 125,
+   "villages": 101
+  },
+  {
+   "municipality": "Prokuplje",
+   "file": "addresses-prokuplje.json",
+   "bbox": [
+    42.93691,
+    21.24549,
+    43.38254,
+    21.7363
+   ],
+   "streets": 349,
+   "addresses": 20546,
+   "places": 110,
+   "villages": 107
+  },
+  {
+   "municipality": "Rača",
+   "file": "addresses-raca.json",
+   "bbox": [
+    44.11332,
+    20.80916,
+    44.29389,
+    21.05094
+   ],
+   "streets": 270,
+   "addresses": 5359,
+   "places": 20,
+   "villages": 19
   },
   {
    "municipality": "Rakovica",
@@ -117,7 +1576,80 @@
    ],
    "streets": 444,
    "addresses": 11147,
-   "places": 22
+   "places": 24,
+   "villages": 0,
+   "city": "Beograd",
+   "belgrade": true
+  },
+  {
+   "municipality": "Raška",
+   "file": "addresses-raska.json",
+   "bbox": [
+    43.17103,
+    20.34502,
+    43.76585,
+    20.84705
+   ],
+   "streets": 310,
+   "addresses": 9508,
+   "places": 73,
+   "villages": 67
+  },
+  {
+   "municipality": "Ražanj",
+   "file": "addresses-razanj.json",
+   "bbox": [
+    43.61496,
+    21.4744,
+    43.79771,
+    21.68392
+   ],
+   "streets": 110,
+   "addresses": 3747,
+   "places": 23,
+   "villages": 23
+  },
+  {
+   "municipality": "Rekovac",
+   "file": "addresses-rekovac.json",
+   "bbox": [
+    43.73305,
+    20.93947,
+    43.92772,
+    21.21128
+   ],
+   "streets": 206,
+   "addresses": 5320,
+   "places": 34,
+   "villages": 33
+  },
+  {
+   "municipality": "Ruma",
+   "file": "addresses-ruma.json",
+   "bbox": [
+    44.75962,
+    19.68576,
+    45.10057,
+    19.98792
+   ],
+   "streets": 224,
+   "addresses": 14037,
+   "places": 23,
+   "villages": 17
+  },
+  {
+   "municipality": "Šabac",
+   "file": "addresses-sabac.json",
+   "bbox": [
+    44.47644,
+    19.30188,
+    44.92117,
+    19.8509
+   ],
+   "streets": 715,
+   "addresses": 32738,
+   "places": 195,
+   "villages": 54
   },
   {
    "municipality": "Savski venac",
@@ -129,8 +1661,138 @@
     20.47271
    ],
    "streets": 280,
-   "addresses": 5330,
-   "places": 11
+   "addresses": 5328,
+   "places": 16,
+   "villages": 0,
+   "city": "Beograd",
+   "belgrade": true
+  },
+  {
+   "municipality": "Sečanj",
+   "file": "addresses-secanj.json",
+   "bbox": [
+    45.18636,
+    20.67713,
+    45.47167,
+    21.01539
+   ],
+   "streets": 137,
+   "addresses": 5286,
+   "places": 11,
+   "villages": 10
+  },
+  {
+   "municipality": "Senta",
+   "file": "addresses-senta.json",
+   "bbox": [
+    45.79489,
+    19.79213,
+    45.96756,
+    20.13099
+   ],
+   "streets": 261,
+   "addresses": 9053,
+   "places": 11,
+   "villages": 8
+  },
+  {
+   "municipality": "Sevojno",
+   "file": "addresses-sevojno.json",
+   "bbox": [
+    43.8143,
+    19.85649,
+    43.87055,
+    19.94212
+   ],
+   "streets": 114,
+   "addresses": 1869,
+   "places": 9,
+   "villages": 4,
+   "city": "Užice"
+  },
+  {
+   "municipality": "Šid",
+   "file": "addresses-sid.json",
+   "bbox": [
+    44.86668,
+    19.04292,
+    45.18632,
+    19.516
+   ],
+   "streets": 201,
+   "addresses": 9376,
+   "places": 31,
+   "villages": 20
+  },
+  {
+   "municipality": "Sjenica",
+   "file": "addresses-sjenica.json",
+   "bbox": [
+    43.04115,
+    19.78148,
+    43.4266,
+    20.29435
+   ],
+   "streets": 676,
+   "addresses": 10218,
+   "places": 107,
+   "villages": 105
+  },
+  {
+   "municipality": "Smederevo",
+   "file": "addresses-smederevo.json",
+   "bbox": [
+    44.46612,
+    20.77557,
+    44.71615,
+    21.13116
+   ],
+   "streets": 886,
+   "addresses": 26341,
+   "places": 45,
+   "villages": 29
+  },
+  {
+   "municipality": "Smederevska Palanka",
+   "file": "addresses-smederevska-palanka.json",
+   "bbox": [
+    44.25705,
+    20.7506,
+    44.53585,
+    21.05074
+   ],
+   "streets": 539,
+   "addresses": 16469,
+   "places": 21,
+   "villages": 19
+  },
+  {
+   "municipality": "Sokobanja",
+   "file": "addresses-sokobanja.json",
+   "bbox": [
+    43.53512,
+    21.67725,
+    43.79443,
+    22.0692
+   ],
+   "streets": 456,
+   "addresses": 7914,
+   "places": 36,
+   "villages": 26
+  },
+  {
+   "municipality": "Sombor",
+   "file": "addresses-sombor.json",
+   "bbox": [
+    45.56904,
+    18.85288,
+    46.06902,
+    19.6168
+   ],
+   "streets": 654,
+   "addresses": 25138,
+   "places": 56,
+   "villages": 42
   },
   {
    "municipality": "Sopot",
@@ -143,7 +1805,66 @@
    ],
    "streets": 724,
    "addresses": 14250,
-   "places": 21
+   "places": 21,
+   "villages": 20,
+   "city": "Beograd",
+   "belgrade": true
+  },
+  {
+   "municipality": "Srbobran",
+   "file": "addresses-srbobran.json",
+   "bbox": [
+    45.46751,
+    19.72122,
+    45.66966,
+    20.05807
+   ],
+   "streets": 182,
+   "addresses": 6507,
+   "places": 11,
+   "villages": 2
+  },
+  {
+   "municipality": "Sremska Mitrovica",
+   "file": "addresses-sremska-mitrovica.json",
+   "bbox": [
+    44.86725,
+    19.28192,
+    45.17411,
+    19.80482
+   ],
+   "streets": 483,
+   "addresses": 24234,
+   "places": 87,
+   "villages": 30
+  },
+  {
+   "municipality": "Sremski Karlovci",
+   "file": "addresses-sremski-karlovci.json",
+   "bbox": [
+    45.14484,
+    19.88989,
+    45.21832,
+    20.00854
+   ],
+   "streets": 219,
+   "addresses": 4250,
+   "places": 17,
+   "villages": 1
+  },
+  {
+   "municipality": "Stara Pazova",
+   "file": "addresses-stara-pazova.json",
+   "bbox": [
+    44.86646,
+    20.03664,
+    45.10141,
+    20.35624
+   ],
+   "streets": 398,
+   "addresses": 19182,
+   "places": 14,
+   "villages": 10
   },
   {
    "municipality": "Stari grad",
@@ -155,21 +1876,294 @@
     20.48402
    ],
    "streets": 181,
-   "addresses": 4071,
-   "places": 4
+   "addresses": 4069,
+   "places": 10,
+   "villages": 0,
+   "city": "Beograd",
+   "belgrade": true
+  },
+  {
+   "municipality": "Subotica",
+   "file": "addresses-subotica.json",
+   "bbox": [
+    45.79405,
+    19.1447,
+    46.17773,
+    19.9104
+   ],
+   "streets": 1167,
+   "addresses": 46781,
+   "places": 73,
+   "villages": 38
   },
   {
    "municipality": "Surčin",
    "file": "addresses-surcin.json",
    "bbox": [
     44.65938,
-    20.09619,
+    20.09623,
     44.8845,
-    20.3492
+    20.34921
    ],
    "streets": 609,
    "addresses": 17707,
-   "places": 11
+   "places": 11,
+   "villages": 6,
+   "city": "Beograd",
+   "belgrade": true
+  },
+  {
+   "municipality": "Surdulica",
+   "file": "addresses-surdulica.json",
+   "bbox": [
+    42.56678,
+    22.06348,
+    42.80151,
+    22.47288
+   ],
+   "streets": 480,
+   "addresses": 10231,
+   "places": 47,
+   "villages": 45
+  },
+  {
+   "municipality": "Svilajnac",
+   "file": "addresses-svilajnac.json",
+   "bbox": [
+    44.06764,
+    21.10731,
+    44.3143,
+    21.40276
+   ],
+   "streets": 447,
+   "addresses": 9533,
+   "places": 24,
+   "villages": 21
+  },
+  {
+   "municipality": "Svrljig",
+   "file": "addresses-svrljig.json",
+   "bbox": [
+    43.33944,
+    21.92157,
+    43.5813,
+    22.33847
+   ],
+   "streets": 247,
+   "addresses": 7611,
+   "places": 50,
+   "villages": 41
+  },
+  {
+   "municipality": "Temerin",
+   "file": "addresses-temerin.json",
+   "bbox": [
+    45.31072,
+    19.76695,
+    45.4938,
+    19.95761
+   ],
+   "streets": 198,
+   "addresses": 8826,
+   "places": 9,
+   "villages": 1
+  },
+  {
+   "municipality": "Titel",
+   "file": "addresses-titel.json",
+   "bbox": [
+    45.19092,
+    20.06502,
+    45.34365,
+    20.31225
+   ],
+   "streets": 125,
+   "addresses": 5576,
+   "places": 9,
+   "villages": 6
+  },
+  {
+   "municipality": "Topola",
+   "file": "addresses-topola.json",
+   "bbox": [
+    44.15742,
+    20.49007,
+    44.36045,
+    20.8591
+   ],
+   "streets": 423,
+   "addresses": 10133,
+   "places": 33,
+   "villages": 31
+  },
+  {
+   "municipality": "Trgovište",
+   "file": "addresses-trgoviste.json",
+   "bbox": [
+    42.30497,
+    21.93726,
+    42.47376,
+    22.30869
+   ],
+   "streets": 339,
+   "addresses": 2867,
+   "places": 43,
+   "villages": 36
+  },
+  {
+   "municipality": "Trstenik",
+   "file": "addresses-trstenik.json",
+   "bbox": [
+    43.50922,
+    20.90148,
+    43.75567,
+    21.19509
+   ],
+   "streets": 144,
+   "addresses": 10023,
+   "places": 57,
+   "villages": 54
+  },
+  {
+   "municipality": "Tutin",
+   "file": "addresses-tutin.json",
+   "bbox": [
+    42.87576,
+    20.09782,
+    43.15436,
+    20.52344
+   ],
+   "streets": 198,
+   "addresses": 9737,
+   "places": 105,
+   "villages": 99
+  },
+  {
+   "municipality": "Ub",
+   "file": "addresses-ub.json",
+   "bbox": [
+    44.3358,
+    19.85642,
+    44.58189,
+    20.23729
+   ],
+   "streets": 393,
+   "addresses": 11286,
+   "places": 39,
+   "villages": 37
+  },
+  {
+   "municipality": "Užice",
+   "file": "addresses-uzice.json",
+   "bbox": [
+    43.69495,
+    19.39705,
+    43.987,
+    19.97985
+   ],
+   "streets": 1000,
+   "addresses": 22950,
+   "places": 396,
+   "villages": 214,
+   "city": "Užice"
+  },
+  {
+   "municipality": "Valjevo",
+   "file": "addresses-valjevo.json",
+   "bbox": [
+    44.07202,
+    19.59436,
+    44.46025,
+    20.08548
+   ],
+   "streets": 1490,
+   "addresses": 36030,
+   "places": 388,
+   "villages": 158
+  },
+  {
+   "municipality": "Varvarin",
+   "file": "addresses-varvarin.json",
+   "bbox": [
+    43.63433,
+    21.12786,
+    43.83164,
+    21.41703
+   ],
+   "streets": 245,
+   "addresses": 5927,
+   "places": 22,
+   "villages": 22
+  },
+  {
+   "municipality": "Velika Plana",
+   "file": "addresses-velika-plana.json",
+   "bbox": [
+    44.22265,
+    20.96711,
+    44.48396,
+    21.17443
+   ],
+   "streets": 363,
+   "addresses": 14606,
+   "places": 14,
+   "villages": 13
+  },
+  {
+   "municipality": "Veliko Gradište",
+   "file": "addresses-veliko-gradiste.json",
+   "bbox": [
+    44.53942,
+    21.29759,
+    44.81838,
+    21.58344
+   ],
+   "streets": 307,
+   "addresses": 7651,
+   "places": 31,
+   "villages": 30
+  },
+  {
+   "municipality": "Vladičin Han",
+   "file": "addresses-vladicin-han.json",
+   "bbox": [
+    42.584,
+    21.91598,
+    42.83335,
+    22.21197
+   ],
+   "streets": 392,
+   "addresses": 8546,
+   "places": 52,
+   "villages": 51
+  },
+  {
+   "municipality": "Vladimirci",
+   "file": "addresses-vladimirci.json",
+   "bbox": [
+    44.47695,
+    19.63965,
+    44.7022,
+    19.99337
+   ],
+   "streets": 74,
+   "addresses": 5489,
+   "places": 63,
+   "villages": 29
+  },
+  {
+   "municipality": "Vlasotince",
+   "file": "addresses-vlasotince.json",
+   "bbox": [
+    42.89068,
+    22.04308,
+    43.07282,
+    22.38263
+   ],
+   "streets": 169,
+   "addresses": 12135,
+   "places": 48,
+   "villages": 47
   },
   {
    "municipality": "Voždovac",
@@ -181,34 +2175,213 @@
     20.61196
    ],
    "streets": 987,
-   "addresses": 27612,
-   "places": 71
+   "addresses": 27610,
+   "places": 78,
+   "villages": 26,
+   "city": "Beograd",
+   "belgrade": true
   },
   {
    "municipality": "Vračar",
    "file": "addresses-vracar.json",
    "bbox": [
     44.79035,
-    20.45612,
+    20.45889,
     44.81124,
     20.49766
    ],
    "streets": 184,
    "addresses": 5139,
-   "places": 5
+   "places": 7,
+   "villages": 0,
+   "city": "Beograd",
+   "belgrade": true
+  },
+  {
+   "municipality": "Vranje",
+   "file": "addresses-vranje.json",
+   "bbox": [
+    42.40113,
+    21.75777,
+    42.78363,
+    22.10729
+   ],
+   "streets": 1027,
+   "addresses": 23542,
+   "places": 117,
+   "villages": 87,
+   "city": "Vranje"
+  },
+  {
+   "municipality": "Vranjska Banja",
+   "file": "addresses-vranjska-banja.json",
+   "bbox": [
+    42.45988,
+    21.94946,
+    42.61286,
+    22.22489
+   ],
+   "streets": 272,
+   "addresses": 4253,
+   "places": 31,
+   "villages": 20,
+   "city": "Vranje"
+  },
+  {
+   "municipality": "Vrbas",
+   "file": "addresses-vrbas.json",
+   "bbox": [
+    45.4126,
+    19.45282,
+    45.61729,
+    19.73521
+   ],
+   "streets": 202,
+   "addresses": 10498,
+   "places": 16,
+   "villages": 6
+  },
+  {
+   "municipality": "Vrnjačka Banja",
+   "file": "addresses-vrnjacka-banja.json",
+   "bbox": [
+    43.50363,
+    20.73897,
+    43.70798,
+    20.96674
+   ],
+   "streets": 422,
+   "addresses": 12642,
+   "places": 15,
+   "villages": 13
+  },
+  {
+   "municipality": "Vršac",
+   "file": "addresses-vrsac.json",
+   "bbox": [
+    44.92674,
+    21.07321,
+    45.25672,
+    21.52723
+   ],
+   "streets": 452,
+   "addresses": 18173,
+   "places": 48,
+   "villages": 27
+  },
+  {
+   "municipality": "Žabalj",
+   "file": "addresses-zabalj.json",
+   "bbox": [
+    45.30001,
+    19.90693,
+    45.52272,
+    20.23436
+   ],
+   "streets": 154,
+   "addresses": 7852,
+   "places": 4,
+   "villages": 3
+  },
+  {
+   "municipality": "Žabari",
+   "file": "addresses-zabari.json",
+   "bbox": [
+    44.24826,
+    21.1417,
+    44.5078,
+    21.31179
+   ],
+   "streets": 189,
+   "addresses": 5387,
+   "places": 16,
+   "villages": 16
+  },
+  {
+   "municipality": "Žagubica",
+   "file": "addresses-zagubica.json",
+   "bbox": [
+    44.0926,
+    21.45512,
+    44.35211,
+    21.96804
+   ],
+   "streets": 455,
+   "addresses": 6735,
+   "places": 18,
+   "villages": 18
+  },
+  {
+   "municipality": "Zaječar",
+   "file": "addresses-zajecar.json",
+   "bbox": [
+    43.69624,
+    22.06504,
+    44.15863,
+    22.50562
+   ],
+   "streets": 634,
+   "addresses": 22574,
+   "places": 72,
+   "villages": 48
   },
   {
    "municipality": "Zemun",
    "file": "addresses-zemun.json",
    "bbox": [
     44.82259,
-    20.1466,
+    20.14661,
     44.94423,
     20.4245
    ],
    "streets": 1138,
    "addresses": 33182,
-   "places": 32
+   "places": 49,
+   "villages": 4,
+   "city": "Beograd",
+   "belgrade": true
+  },
+  {
+   "municipality": "Žitište",
+   "file": "addresses-zitiste.json",
+   "bbox": [
+    45.44107,
+    20.438,
+    45.67359,
+    20.81745
+   ],
+   "streets": 127,
+   "addresses": 6855,
+   "places": 28,
+   "villages": 13
+  },
+  {
+   "municipality": "Žitorađa",
+   "file": "addresses-zitoradja.json",
+   "bbox": [
+    43.07133,
+    21.60713,
+    43.23551,
+    21.81569
+   ],
+   "streets": 151,
+   "addresses": 4801,
+   "places": 30,
+   "villages": 30
+  },
+  {
+   "municipality": "Zrenjanin",
+   "file": "addresses-zrenjanin.json",
+   "bbox": [
+    45.09575,
+    20.13004,
+    45.60259,
+    20.67016
+   ],
+   "streets": 740,
+   "addresses": 36609,
+   "places": 59,
+   "villages": 23
   },
   {
    "municipality": "Zvezdara",
@@ -221,7 +2394,10 @@
    ],
    "streets": 739,
    "addresses": 21310,
-   "places": 34
+   "places": 41,
+   "villages": 0,
+   "city": "Beograd",
+   "belgrade": true
   }
  ]
 }
