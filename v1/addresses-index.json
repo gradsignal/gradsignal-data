@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T21:00:57Z",
+ "generated_at": "2026-10-29T21:38:13Z",
  "attribution": "© OpenStreetMap contributors, ODbL 1.0 (https://www.openstreetmap.org/copyright)",
  "municipalities": [
   {
@@ -11,8 +11,8 @@
     45.85164,
     20.16635
    ],
-   "streets": 181,
-   "addresses": 7020,
+   "streets": 180,
+   "addresses": 7019,
    "places": 6,
    "villages": 4
   },
@@ -321,8 +321,8 @@
     44.01554,
     22.13202
    ],
-   "streets": 383,
-   "addresses": 7448,
+   "streets": 382,
+   "addresses": 7447,
    "places": 41,
    "villages": 31
   },
@@ -704,8 +704,8 @@
     44.06387,
     20.89923
    ],
-   "streets": 471,
-   "addresses": 8456,
+   "streets": 470,
+   "addresses": 8455,
    "places": 37,
    "villages": 37
   },
@@ -887,8 +887,8 @@
     43.29163,
     21.7363
    ],
-   "streets": 783,
-   "addresses": 11395,
+   "streets": 782,
+   "addresses": 11393,
    "places": 124,
    "villages": 114
   },
@@ -1085,8 +1085,8 @@
     43.32804,
     21.9926
    ],
-   "streets": 314,
-   "addresses": 9206,
+   "streets": 312,
+   "addresses": 9204,
    "places": 14,
    "villages": 1,
    "city": "Niš"
@@ -1158,8 +1158,8 @@
     44.48243,
     22.67931
    ],
-   "streets": 595,
-   "addresses": 14675,
+   "streets": 594,
+   "addresses": 14674,
    "places": 48,
    "villages": 44
   },
@@ -1187,8 +1187,8 @@
     45.75343,
     20.7976
    ],
-   "streets": 77,
-   "addresses": 4259,
+   "streets": 76,
+   "addresses": 4258,
    "places": 7,
    "villages": 7
   },
@@ -1215,8 +1215,8 @@
     45.78215,
     20.4223
    ],
-   "streets": 171,
-   "addresses": 8556,
+   "streets": 168,
+   "addresses": 8555,
    "places": 9,
    "villages": 3
   },
@@ -1419,8 +1419,8 @@
     44.93704,
     20.13483
    ],
-   "streets": 156,
-   "addresses": 7246,
+   "streets": 155,
+   "addresses": 7245,
    "places": 17,
    "villages": 16
   },
@@ -1789,8 +1789,8 @@
     46.06902,
     19.6168
    ],
-   "streets": 654,
-   "addresses": 25138,
+   "streets": 653,
+   "addresses": 25137,
    "places": 56,
    "villages": 42
   },
@@ -1819,7 +1819,7 @@
     45.66966,
     20.05807
    ],
-   "streets": 182,
+   "streets": 181,
    "addresses": 6507,
    "places": 11,
    "villages": 2
@@ -1875,8 +1875,8 @@
     44.83082,
     20.48402
    ],
-   "streets": 181,
-   "addresses": 4066,
+   "streets": 180,
+   "addresses": 4065,
    "places": 10,
    "villages": 0,
    "city": "Beograd",
@@ -1891,8 +1891,8 @@
     46.17773,
     19.9104
    ],
-   "streets": 1167,
-   "addresses": 46781,
+   "streets": 1164,
+   "addresses": 46779,
    "places": 73,
    "villages": 38
   },
@@ -2174,7 +2174,7 @@
     44.79351,
     20.61196
    ],
-   "streets": 987,
+   "streets": 986,
    "addresses": 27609,
    "places": 78,
    "villages": 26,
