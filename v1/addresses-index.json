@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T07:56:15Z",
+ "generated_at": "2026-10-29T21:00:57Z",
  "attribution": "© OpenStreetMap contributors, ODbL 1.0 (https://www.openstreetmap.org/copyright)",
  "municipalities": [
   {
@@ -1260,7 +1260,7 @@
     20.75339
    ],
    "streets": 327,
-   "addresses": 29005,
+   "addresses": 29004,
    "places": 130,
    "villages": 129
   },
@@ -1377,7 +1377,7 @@
     20.89654
    ],
    "streets": 567,
-   "addresses": 26984,
+   "addresses": 26980,
    "places": 33,
    "villages": 10
   },
@@ -1475,7 +1475,7 @@
     44.7955,
     21.38289
    ],
-   "streets": 711,
+   "streets": 710,
    "addresses": 17995,
    "places": 48,
    "villages": 23,
@@ -1748,7 +1748,7 @@
     21.13116
    ],
    "streets": 886,
-   "addresses": 26341,
+   "addresses": 26340,
    "places": 45,
    "villages": 29
   },
@@ -1862,7 +1862,7 @@
     20.35622
    ],
    "streets": 398,
-   "addresses": 19182,
+   "addresses": 19181,
    "places": 14,
    "villages": 10
   },
@@ -2335,7 +2335,7 @@
     20.4245
    ],
    "streets": 1138,
-   "addresses": 33181,
+   "addresses": 33182,
    "places": 49,
    "villages": 4,
    "city": "Beograd",
@@ -2379,7 +2379,7 @@
     20.67016
    ],
    "streets": 740,
-   "addresses": 36609,
+   "addresses": 36608,
    "places": 59,
    "villages": 23
   },
