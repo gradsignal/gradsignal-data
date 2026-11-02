@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T21:38:13Z",
+ "generated_at": "2026-11-02T07:33:02Z",
  "attribution": "© OpenStreetMap contributors, ODbL 1.0 (https://www.openstreetmap.org/copyright)",
  "municipalities": [
   {
@@ -40,7 +40,7 @@
     21.91118
    ],
    "streets": 357,
-   "addresses": 14885,
+   "addresses": 14883,
    "places": 105,
    "villages": 70
   },
@@ -719,7 +719,7 @@
     22.62439
    ],
    "streets": 506,
-   "addresses": 14989,
+   "addresses": 14988,
    "places": 94,
    "villages": 91
   },
@@ -804,7 +804,7 @@
     21.10671
    ],
    "streets": 2485,
-   "addresses": 55399,
+   "addresses": 55442,
    "places": 105,
    "villages": 59
   },
@@ -845,8 +845,8 @@
     43.69309,
     21.5699
    ],
-   "streets": 1046,
-   "addresses": 35684,
+   "streets": 1045,
+   "addresses": 35688,
    "places": 106,
    "villages": 101
   },
@@ -1224,8 +1224,8 @@
    "municipality": "Novi Beograd",
    "file": "addresses-novi-beograd.json",
    "bbox": [
-    44.74375,
-    20.31134,
+    44.76291,
+    20.32574,
     44.83917,
     20.44663
    ],
@@ -1361,7 +1361,7 @@
     20.6217
    ],
    "streets": 1142,
-   "addresses": 30313,
+   "addresses": 30311,
    "places": 85,
    "villages": 14,
    "city": "Beograd",
@@ -1829,7 +1829,7 @@
    "file": "addresses-sremska-mitrovica.json",
    "bbox": [
     44.86725,
-    19.28192,
+    19.28184,
     45.17411,
     19.80482
    ],
@@ -1892,7 +1892,7 @@
     19.9104
    ],
    "streets": 1164,
-   "addresses": 46779,
+   "addresses": 46773,
    "places": 73,
    "villages": 38
   },
@@ -2119,7 +2119,7 @@
     21.58344
    ],
    "streets": 307,
-   "addresses": 7651,
+   "addresses": 7661,
    "places": 31,
    "villages": 30
   },
@@ -2251,7 +2251,7 @@
     20.96674
    ],
    "streets": 422,
-   "addresses": 12642,
+   "addresses": 12653,
    "places": 15,
    "villages": 13
   },
@@ -2393,8 +2393,8 @@
     20.58786
    ],
    "streets": 739,
-   "addresses": 21310,
-   "places": 41,
+   "addresses": 21309,
+   "places": 40,
    "villages": 0,
    "city": "Beograd",
    "belgrade": true
