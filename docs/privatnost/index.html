@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="sr-Latn">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>GradSignal — politika privatnosti</title>
+<meta name="description" content="Politika privatnosti aplikacije GradSignal.">
+<style>
+:root { --bg: #ffffff; --ink: #10243A; --muted: #4A6580; --line: #D9E2EB; --link: #0A6FC8; color-scheme: light dark; }
+@media (prefers-color-scheme: dark) { :root { --bg: #0D1824; --ink: #E6EEF6; --muted: #9BB2C7; --line: #24384D; --link: #6CB6F7; } }
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--bg); color: var(--ink); font: 16px/1.6 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+main { max-width: 720px; margin: 0 auto; padding: 24px 16px 48px; }
+h1 { font-size: 26px; line-height: 1.25; margin: 0 0 4px; }
+h2 { font-size: 18px; margin: 28px 0 8px; }
+p, li { margin: 0 0 10px; }
+ul { padding-left: 20px; margin: 0 0 10px; }
+.meta { color: var(--muted); font-size: 14px; margin-bottom: 20px; }
+a { color: var(--link); }
+footer { margin-top: 32px; padding-top: 12px; border-top: 1px solid var(--line); color: var(--muted); font-size: 14px; }
+</style>
+</head>
+<body>
+<main>
+<h1>GradSignal — politika privatnosti</h1>
+<div class="meta">Važi od: 2. novembar 2026.</div>
+
+<p>GradSignal prikazuje javna obaveštenja o isključenjima struje, vode i grejanja, o radovima na putevima i izmenama linija javnog prevoza, i kvalitet vazduha sa javnih mernih stanica, i javlja ti kad se tiču tvojih adresa. GradSignal nije zvanična aplikacija nijednog javnog preduzeća, distributera ni organa vlasti. Aplikacija nema nalog ni prijavu, nema reklama i ne koristi alate za praćenje ili analitiku. Namenjena je odraslima.</p>
+
+<p><strong>Ko je odgovoran.</strong> Rukovalac podacima je Mladen Panović, fizičko lice, Srbija. Kontakt: <a href="mailto:gradsignal.app@gmail.com">gradsignal.app@gmail.com</a>.</p>
+
+<h2>Šta ostaje samo na tvom telefonu</h2>
+<ul>
+  <li><strong>Sačuvane adrese:</strong> ime koje joj daš, opština, ulica, broj, naselje, tačka na mapi i redosled adresa.</li>
+  <li><strong>Linije javnog prevoza</strong> koje pratiš, mesta koja izabereš za kvalitet vazduha i <strong>podešavanja obaveštenja</strong>.</li>
+  <li><strong>Odgovori</strong> na pitanje „Da li je vraćeno?” posle prekida.</li>
+  <li><strong>Zapis o padovima aplikacije:</strong> samo tehnički podaci (vrsta greške, mesto u kodu), bez adresa i lokacije.</li>
+</ul>
+<p>U ovoj verziji aplikacije ništa od ovoga se ne šalje na naš server ni nekom drugom. Koja obaveštenja se tiču tvojih adresa, telefon računa sam.</p>
+
+<h2>Lokacija</h2>
+<p>Aplikacija traži dozvolu za lokaciju samo kad pritisneš „Koristi moju lokaciju” (da nađe najbližu adresu) ili „Moja lokacija” na mapi (da te pokaže na mapi). Lokacija se ne šalje nigde i ne koristi se u pozadini. Tačku adrese možeš i sam da postaviš na mapi.</p>
+
+<h2>Signal mobilne mreže</h2>
+<p>Dok je Pregled otvoren, aplikacija čita jačinu signala mobilne mreže na telefonu i prikazuje je (npr. „dobar, 4G”). Za to ne traži nijednu dozvolu. Vrednost se ne čuva i ne šalje nigde.</p>
+
+<h2>Rezervna kopija na tvom Google nalogu</h2>
+<p>Android pravi rezervnu kopiju podataka aplikacija na tvom Google nalogu (Android Auto Backup). Tako se tvoje adrese i podešavanja vraćaju posle ponovne instalacije ili na novom telefonu, bez naloga u aplikaciji. Kopiju čuva Google, po podešavanjima tvog telefona; mi joj nemamo pristup. Možeš je isključiti u podešavanjima Androida (Google → Rezervna kopija). Zapis o padovima nije u rezervnoj kopiji.</p>
+
+<h2>Internet: šta vide servisi koje aplikacija koristi</h2>
+<p>Da bi prikazala obaveštenja, aplikacija preuzima javne podatke. Ti zahtevi ne sadrže tvoje adrese ni lokaciju. Kao svaki zahtev na internetu, otkrivaju IP adresu tvog uređaja servisu kome idu, a aplikacija šalje i broj svoje verzije.</p>
+<ul>
+  <li><strong>Naš server za podatke</strong>, preko Cloudflare-a (Cloudflare Workers i R2). Naš kod ne beleži IP adrese; radi zaštite od preopterećenja kratko broji zahteve po IP adresi (u memoriji, oko jednog minuta) i to ne čuva.</li>
+  <li><strong>GitHub</strong>, kao rezervni izvor istih javnih podataka.</li>
+  <li><strong>OpenFreeMap</strong>, za podlogu mape: telefon preuzima delove mape koje gledaš, pa taj servis vidi IP adresu i koji deo mape je učitan.</li>
+</ul>
+<p>Ti servisi obrađuju zahteve po svojim pravilima privatnosti.</p>
+
+<h2>Deljenje i pozivi</h2>
+<ul>
+  <li><strong>„Podeli”</strong> šalje samo tekst i sliku obaveštenja (šta, gde, kada, izvor) aplikaciji koju izabereš, na primer Viberu ili WhatsApp-u. Tvoja adresa, ime adrese i lokacija nisu u poruci.</li>
+  <li><strong>Prijava kvara</strong> („Prijavi problem”) otvara aplikaciju za pozive sa brojem nadležne službe (struja, voda, grejanje, prevoz, putevi); poziv obavljaš ti.</li>
+</ul>
+
+<h2>Brisanje</h2>
+<p>Adresu brišeš u aplikaciji. Kad deinstaliraš aplikaciju, brišu se svi njeni podaci sa telefona. Rezervnu kopiju na Google nalogu brišeš u podešavanjima Google naloga. Ova verzija nam ne šalje tvoje podatke, pa kod nas nema ničega za brisanje.</p>
+
+<h2>Izmene</h2>
+<p>Kad promenimo ovu politiku, nova verzija dobija novi datum ovde, a promena koja menja šta se dešava sa podacima biće navedena i u aplikaciji. Ako uvedemo funkcije koje šalju podatke sa telefona (na primer merenje signala ili prijave kvarova), one će se uključivati samo uz tvoju saglasnost, a ova politika će biti dopunjena pre te verzije.</p>
+
+<h2>Pitanja</h2>
+<p>Piši na <a href="mailto:gradsignal.app@gmail.com">gradsignal.app@gmail.com</a>. Imaš i pravo da podneseš pritužbu Povereniku za informacije od javnog značaja i zaštitu podataka o ličnosti.</p>
+
+<footer>GradSignal · javni podaci o isključenjima, radovima i kvalitetu vazduha · nije zvanična aplikacija nijednog javnog preduzeća ni organa vlasti.</footer>
+</main>
+</body>
+</html>
