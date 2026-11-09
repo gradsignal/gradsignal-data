@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-02T09:41:04Z",
+ "generated_at": "2026-11-09T09:54:33Z",
  "attribution": "© OpenStreetMap contributors, ODbL 1.0 (https://www.openstreetmap.org/copyright)",
  "municipalities": [
   {
@@ -180,7 +180,7 @@
     19.79024
    ],
    "streets": 226,
-   "addresses": 13451,
+   "addresses": 13450,
    "places": 300,
    "villages": 182
   },
@@ -416,7 +416,7 @@
    "bbox": [
     43.59223,
     21.37271,
-    43.77131,
+    43.76336,
     21.51235
    ],
    "streets": 144,
@@ -590,7 +590,7 @@
     44.78458,
     20.82119
    ],
-   "streets": 877,
+   "streets": 879,
    "addresses": 27144,
    "places": 49,
    "villages": 35,
@@ -804,7 +804,7 @@
     21.10671
    ],
    "streets": 2485,
-   "addresses": 55442,
+   "addresses": 55441,
    "places": 105,
    "villages": 59
   },
@@ -1259,9 +1259,9 @@
     43.76585,
     20.75339
    ],
-   "streets": 327,
-   "addresses": 29004,
-   "places": 130,
+   "streets": 328,
+   "addresses": 29000,
+   "places": 131,
    "villages": 129
   },
   {
@@ -1275,7 +1275,7 @@
    ],
    "streets": 1627,
    "addresses": 58192,
-   "places": 164,
+   "places": 165,
    "villages": 18
   },
   {
@@ -1377,7 +1377,7 @@
     20.89654
    ],
    "streets": 567,
-   "addresses": 26980,
+   "addresses": 26979,
    "places": 33,
    "villages": 10
   },
@@ -1632,7 +1632,7 @@
     45.10057,
     19.98792
    ],
-   "streets": 224,
+   "streets": 222,
    "addresses": 14037,
    "places": 23,
    "villages": 17
@@ -1717,7 +1717,7 @@
     44.86668,
     19.04292,
     45.18632,
-    19.516
+    19.51601
    ],
    "streets": 201,
    "addresses": 9376,
@@ -1892,7 +1892,7 @@
     19.9104
    ],
    "streets": 1164,
-   "addresses": 46773,
+   "addresses": 46774,
    "places": 73,
    "villages": 38
   },
@@ -1964,7 +1964,7 @@
     19.95761
    ],
    "streets": 198,
-   "addresses": 8826,
+   "addresses": 8830,
    "places": 9,
    "villages": 1
   },
@@ -2175,7 +2175,7 @@
     20.61196
    ],
    "streets": 986,
-   "addresses": 27609,
+   "addresses": 27610,
    "places": 78,
    "villages": 26,
    "city": "Beograd",
