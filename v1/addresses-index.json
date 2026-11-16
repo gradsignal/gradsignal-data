@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T09:54:33Z",
+ "generated_at": "2026-11-16T09:54:41Z",
  "attribution": "© OpenStreetMap contributors, ODbL 1.0 (https://www.openstreetmap.org/copyright)",
  "municipalities": [
   {
@@ -608,8 +608,8 @@
    ],
    "streets": 411,
    "addresses": 19536,
-   "places": 19,
-   "villages": 13
+   "places": 18,
+   "villages": 12
   },
   {
    "municipality": "Irig",
@@ -720,8 +720,8 @@
    ],
    "streets": 506,
    "addresses": 14988,
-   "places": 94,
-   "villages": 91
+   "places": 95,
+   "villages": 92
   },
   {
    "municipality": "Koceljeva",
@@ -1002,7 +1002,7 @@
     19.5926
    ],
    "streets": 755,
-   "addresses": 24676,
+   "addresses": 24678,
    "places": 164,
    "villages": 65
   },
@@ -1477,8 +1477,8 @@
    ],
    "streets": 710,
    "addresses": 17995,
-   "places": 48,
-   "villages": 23,
+   "places": 47,
+   "villages": 22,
    "city": "Požarevac"
   },
   {
@@ -1677,7 +1677,7 @@
     21.01539
    ],
    "streets": 137,
-   "addresses": 5286,
+   "addresses": 5287,
    "places": 11,
    "villages": 10
   },
@@ -1685,8 +1685,8 @@
    "municipality": "Senta",
    "file": "addresses-senta.json",
    "bbox": [
-    45.79489,
-    19.79213,
+    45.80813,
+    19.80178,
     45.96756,
     20.13099
    ],
@@ -1798,12 +1798,12 @@
    "municipality": "Sopot",
    "file": "addresses-sopot.json",
    "bbox": [
-    44.41032,
+    44.38782,
     20.4145,
     44.6151,
-    20.67335
+    20.68794
    ],
-   "streets": 724,
+   "streets": 725,
    "addresses": 14250,
    "places": 21,
    "villages": 20,
@@ -1820,7 +1820,7 @@
     20.05807
    ],
    "streets": 181,
-   "addresses": 6507,
+   "addresses": 6508,
    "places": 11,
    "villages": 2
   },
@@ -2118,7 +2118,7 @@
     44.81838,
     21.58344
    ],
-   "streets": 307,
+   "streets": 308,
    "addresses": 7661,
    "places": 31,
    "villages": 30
@@ -2280,8 +2280,8 @@
    ],
    "streets": 154,
    "addresses": 7852,
-   "places": 4,
-   "villages": 3
+   "places": 5,
+   "villages": 4
   },
   {
    "municipality": "Žabari",
