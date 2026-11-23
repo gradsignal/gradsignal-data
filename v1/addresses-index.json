@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T09:54:41Z",
+ "generated_at": "2026-11-23T10:57:50Z",
  "attribution": "© OpenStreetMap contributors, ODbL 1.0 (https://www.openstreetmap.org/copyright)",
  "municipalities": [
   {
@@ -12,7 +12,7 @@
     20.16635
    ],
    "streets": 180,
-   "addresses": 7019,
+   "addresses": 7018,
    "places": 6,
    "villages": 4
   },
@@ -238,7 +238,7 @@
     21.55838
    ],
    "streets": 177,
-   "addresses": 7172,
+   "addresses": 7173,
    "places": 16,
    "villages": 15
   },
@@ -289,7 +289,7 @@
    "file": "addresses-bogatic.json",
    "bbox": [
     44.7332,
-    19.31645,
+    19.31803,
     44.92485,
     19.63436
    ],
@@ -476,8 +476,8 @@
     44.79462,
     20.45885
    ],
-   "streets": 1049,
-   "addresses": 26703,
+   "streets": 1050,
+   "addresses": 26704,
    "places": 48,
    "villages": 3,
    "city": "Beograd",
@@ -1269,7 +1269,7 @@
    "file": "addresses-novi-sad.json",
    "bbox": [
     45.13809,
-    19.59458,
+    19.58037,
     45.48033,
     20.06395
    ],
@@ -1318,7 +1318,7 @@
     20.60746
    ],
    "streets": 68,
-   "addresses": 3305,
+   "addresses": 3304,
    "places": 4,
    "villages": 3
   },
@@ -1660,8 +1660,8 @@
     44.82111,
     20.47271
    ],
-   "streets": 280,
-   "addresses": 5328,
+   "streets": 281,
+   "addresses": 5329,
    "places": 16,
    "villages": 0,
    "city": "Beograd",
@@ -1875,7 +1875,7 @@
     44.83082,
     20.48402
    ],
-   "streets": 180,
+   "streets": 181,
    "addresses": 4065,
    "places": 10,
    "villages": 0,
@@ -1905,7 +1905,7 @@
     44.8845,
     20.34921
    ],
-   "streets": 609,
+   "streets": 610,
    "addresses": 17707,
    "places": 11,
    "villages": 6,
@@ -1964,7 +1964,7 @@
     19.95761
    ],
    "streets": 198,
-   "addresses": 8830,
+   "addresses": 8829,
    "places": 9,
    "villages": 1
   },
@@ -2118,8 +2118,8 @@
     44.81838,
     21.58344
    ],
-   "streets": 308,
-   "addresses": 7661,
+   "streets": 306,
+   "addresses": 7660,
    "places": 31,
    "villages": 30
   },
@@ -2264,8 +2264,8 @@
     45.25672,
     21.52723
    ],
-   "streets": 452,
-   "addresses": 18173,
+   "streets": 451,
+   "addresses": 18163,
    "places": 48,
    "villages": 27
   },
@@ -2336,7 +2336,7 @@
    ],
    "streets": 1138,
    "addresses": 33182,
-   "places": 49,
+   "places": 51,
    "villages": 4,
    "city": "Beograd",
    "belgrade": true
